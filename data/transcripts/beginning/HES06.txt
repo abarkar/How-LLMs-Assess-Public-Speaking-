@@ -1,0 +1,12 @@
+Dans le cadre de ma thèse, je mène des entretiens auprès d'acheteurs et de responsables achats.
+Au cours d'un de ces entretiens, j'ai rencontré Frédéric, un acheteur, et il m'a raconté ce qui lui est arrivé.
+La saga du logiciel informatique.
+Frédéric a été chargé d'acheter le nouveau logiciel pour le service commercial.
+Un fournisseur lui proposait 80 000 euros, un autre fournisseur lui proposait 100 000 euros.
+A prestation égale, Frédéric a choisi celui qui lui proposait 80 000 euros.
+Il pensait faire une bonne affaire.
+Mais ce que Frédéric n'avait pas prévu, c'est la complexité du logiciel qui oblige les commerciaux à rester des heures avec le SAV.
+Ce sont les devis qui ne s'impriment pas et qui font partir les clients.
+C'est la perte de chiffre d'affaires qui génère du stress, des arrêts maladie, et j'en passe.
+Frédéric n'avait pas prévu ça.
+Parce que ça, ce n'est pas prévu dans les logiciels et les outils des achats.

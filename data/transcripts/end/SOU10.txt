@@ -1,0 +1,12 @@
+Car elle est totalement transparente et son cerveau mesure moins d'un millimètre.
+Elle est donc parfaite pour placer sous un microscope et regarder son cerveau d'un seul coup.
+La première étape de ma thèse a été de construire un simulateur de vol pour larve de poisson zèbre.
+L'idée est exactement la même.
+Sauf que la larve est placée dans un petit aquarium et fixée grâce à un gel d'agarose, comme le pilote attaché à son siège.
+J'ai aussi ajouté un écran tout autour de la larve pour lui simuler un environnement visuel.
+La seconde étape de ma thèse a été d'ajouter une option en plus.
+J'ai miniaturisé un microscope embarqué qui permet de photographier différentes couches du cerveau.
+Ainsi j'obtiens une image 3 dimensions du cerveau avec une 4ème dimension, le temps, qui me donne accès à la dynamique des neurones.
+Grâce à cette expérience, j'ai pu mesurer pour la première fois la dynamique neuronale lorsque la larve est déplacée à gauche ou à droite.
+Mon objectif est de compléter cette carte avec la dynamique neuronale lorsqu'il y a un environnement visuel autour de la larve.
+Grâce à cela, je pourrai trouver quels sont les neurones qui sont actifs dans les deux cas et comprendre comment ce cerveau composé de quelques 100 000 neurones traite l'information sensorielle.

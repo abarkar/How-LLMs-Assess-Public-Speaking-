@@ -1,0 +1,31 @@
+Lexical_Feature,Criterion,Spearman_Coefficient,p_value
+syntactic_diversity_mean,Présentation du Sujet,-0.018175335773547744,0.8649864311568556
+syntactic_diversity_mean,Structure,-0.14219761219059174,0.18123803221182186
+syntactic_diversity_mean,Niveau de Langue,-0.11361317760791746,0.2863243625176203
+syntactic_diversity_mean,Voix Passive,-0.01159361097995523,0.9136364931061766
+syntactic_diversity_mean,Concision,-0.04215743075971547,0.6931931599005996
+syntactic_diversity_mean,Redondance,-0.0030423149463847956,0.9772964279825138
+syntactic_diversity_mean,Langage Négatif,-0.03614998344236577,0.7351630805496787
+syntactic_diversity_mean,Métaphore,-0.029001080150436915,0.7861298516566582
+syntactic_diversity_mean,Discours,0.037795333752893075,0.7235844560585093
+syntactic_diversity_mean,L'introduction,-0.03482029957333807,0.744563856572401
+syntactic_diversity_mean,La conclusion,-0.13023386139870027,0.22115798935671788
+syntactic_diversity_mean,Persuasivité,-0.13324956747222522,0.210556111640803
+syntactic_diversity_mean,Clarté du Langage,-0.08403657531805206,0.4309944106180549
+syntactic_diversity_mean,Créativité du discours,0.10029657893943111,0.3469248114812413
+syntactic_diversity_mean,Global,-0.12455937414400815,0.2421145276315644
+syntactic_diversity_error,Présentation du Sujet,-0.1554105133115215,0.14356393587067542
+syntactic_diversity_error,Structure,-0.195041381390346,0.06544662387351277
+syntactic_diversity_error,Niveau de Langue,-0.15684651067995686,0.1398550012445719
+syntactic_diversity_error,Voix Passive,-0.027910544951744075,0.7939904928564234
+syntactic_diversity_error,Concision,-0.1894865572041948,0.07365636531950631
+syntactic_diversity_error,Redondance,-0.08735790060333484,0.41293933212105427
+syntactic_diversity_error,Langage Négatif,0.17342840157793202,0.10211180961946584
+syntactic_diversity_error,Métaphore,-0.13757948786484486,0.19597378511026847
+syntactic_diversity_error,Discours,0.025485312374797144,0.8115445195468729
+syntactic_diversity_error,L'introduction,-0.0725263074988982,0.4969334989595786
+syntactic_diversity_error,La conclusion,-0.1416331753906784,0.18299440612116782
+syntactic_diversity_error,Persuasivité,-0.1261397910468851,0.23614465579340438
+syntactic_diversity_error,Clarté du Langage,-0.1381226413001581,0.1941972153550468
+syntactic_diversity_error,Créativité du discours,-0.1624942485523792,0.12596810070214634
+syntactic_diversity_error,Global,-0.14800846084558794,0.16386645942872644

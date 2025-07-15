@@ -1,0 +1,11 @@
+Et même si ce n'est pas la première chose qui vient à l'esprit, cette automatisation est susceptible de se faire.
+Il est donc difficile d'avoir une incidence sur le policier de terrain.
+Parce que jusque récemment, ce policier s'en remettait uniquement à son intuition pour décider.
+Par exemple, pour identifier un véhicule volé, un peu à la manière de Colombo, il remarquait la présence de plaques d'immatriculation mal fixées ou un comportement suspect du conducteur ou des passagers.
+C'était ces indices qui lui permettaient de savoir que quelque chose n'allait pas.
+Vous savez, ce petit détail qui mène à l'éclair de génie.
+Dorénavant, ce sont des systèmes automatiques couplés au réseau de cartes.
+Il y a des caméras de vidéoprotection qui permettent de remarquer un problème et de le notifier à ce même officier de police sur le terrain.
+Ils génèrent une alerte lorsqu'un véhicule signalé volé est par exemple identifié.
+Et nous, notre objectif, c'est de déterminer si, dans cet univers où l'analyse de données tend à régner en maître, l'intuition de notre bon vieux Colombo parvient toujours à s'exprimer.
+Car l'expression de l'intuition repose bien souvent sur des détails parfaits.

@@ -1,0 +1,31 @@
+Prize,Annotation,U_stat,p-value
+Prixjury,Présentation du Sujet,810.0,0.9746670655680133
+Prixjury,Structure,644.0,0.02594309045551987
+Prixjury,Niveau de Langue,682.5,0.17530445502526626
+Prixjury,Voix Passive,820.0,0.839288382424498
+Prixjury,Concision,817.5,0.9485152787452109
+Prixjury,Redondance,720.0,0.1440837291022159
+Prixjury,Langage Négatif,682.5,0.11708661586292937
+Prixjury,Métaphore,855.0,0.5592601826597501
+Prixjury,Discours,634.0,0.04870190011478799
+Prixjury,L'introduction,500.5,0.0013347290081938085
+Prixjury,La conclusion,688.5,0.18328858324911668
+Prixjury,Persuasivité,764.5,0.5666832292131325
+Prixjury,Clarté du Langage,616.5,0.015313487197049258
+Prixjury,Créativité du discours,738.5,0.36689500763478944
+Prixjury,Global,743.5,0.34128763545424645
+Prixpublic,Présentation du Sujet,549.0,0.42920785956005625
+Prixpublic,Structure,552.5,0.544731576463878
+Prixpublic,Niveau de Langue,417.0,0.03238830527219379
+Prixpublic,Voix Passive,613.0,0.48655576429905534
+Prixpublic,Concision,525.0,0.2636129782721368
+Prixpublic,Redondance,549.0,0.42920785956005625
+Prixpublic,Langage Négatif,768.0,0.012844284255272566
+Prixpublic,Métaphore,472.0,0.05160341426971879
+Prixpublic,Discours,452.0,0.07032459930277532
+Prixpublic,L'introduction,384.0,0.012286631454262424
+Prixpublic,La conclusion,495.5,0.22558522769764433
+Prixpublic,Persuasivité,384.0,0.0033661955445395972
+Prixpublic,Clarté du Langage,551.0,0.5561942704515686
+Prixpublic,Créativité du discours,388.0,0.0034255735410125016
+Prixpublic,Global,598.5,0.9222093785967249

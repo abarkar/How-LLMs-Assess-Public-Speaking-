@@ -1,0 +1,14 @@
+TASK=[ Analysez la transcription du discours public donné dans la section TRANSCRIPT. Notez la transcription en fonction de la question CRITERIA. Il y a trois possibilités de notation : A, B ou C, expliquées dans la section OPTIONS. Pour résoudre la tâche de classification, choisissez une seule de ces options et donnez la réponse sous la forme :
+ 
+Grade : <MASK>
+ 
+Où <MASK> est A, B ou C.
+Ne donnez pas d'autres explications. ]
+ 
+CRITERIA=[ À votre avis, dans quelle mesure le niveau de langue du discours de cette transcription est-il approprié, l'utilisation appropriée de mots ciblés pour le public ? ]
+
+OPTIONS=[ A: Utilisation intensive de jargon, d'argot, de termes sexistes/racistes, ou vocabulaire limité.
+ 
+B: Langage adéquat, utilisation de jargon ou d'argot limitée,  vocabulaire suffisant pour être précis. 
+ 
+C: Langage approprié avec un large vocabulaire, y compris des expressions idiomatiques, expression captivante, imaginative et vivante. ]

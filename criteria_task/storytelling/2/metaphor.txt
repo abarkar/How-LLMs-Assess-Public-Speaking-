@@ -1,0 +1,14 @@
+TASK=[ Analysez la transcription du discours public donné dans la section TRANSCRIPT. Notez la transcription en fonction de la question CRITERIA. Il y a trois possibilités de notation : A, B ou C, expliquées dans la section OPTIONS. Pour résoudre la tâche de classification, choisissez une seule de ces options et donnez la réponse sous la forme :
+ 
+Grade : <MASK>
+ 
+Où <MASK> est A, B ou C.
+Ne donnez pas d'autres explications. ]
+ 
+CRITERIA=[ Comment évaluez-vous l'utilisation de métaphores dans le discours de cette transcription? ]
+ 
+OPTIONS=[ A: Pas d'utilisation de métaphores. 
+ 
+B: La métaphore est utilisée, mais le lien avec le contexte du discours n'est pas évident ou la métaphore ne contribue pas à rendre l'explication plus mémorable et compréhensible.
+ 
+C: La métaphore capture efficacement les détails du discours, renforce et facilite l'explication. ]

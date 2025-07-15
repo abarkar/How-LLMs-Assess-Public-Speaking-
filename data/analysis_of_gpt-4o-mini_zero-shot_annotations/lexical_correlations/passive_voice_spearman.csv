@@ -1,0 +1,16 @@
+Lexical_Feature,Criterion,Spearman_Coefficient,p_value
+passive_voice_count,Présentation du Sujet,-0.21230639640285187,0.04454507808774653
+passive_voice_count,Structure,-0.08200268577482767,0.4422693983437217
+passive_voice_count,Niveau de Langue,-0.1364355906083825,0.19975351523461238
+passive_voice_count,Voix Passive,-0.08743685472309873,0.4125155602216938
+passive_voice_count,Concision,-0.15277250038709708,0.1505699696919398
+passive_voice_count,Redondance,-0.07986447513586906,0.4542994899710766
+passive_voice_count,Langage Négatif,0.18970906757045855,0.07331230800181561
+passive_voice_count,Métaphore,-0.034901951333637875,0.7439854887909803
+passive_voice_count,Discours,-0.13457295515581197,0.20601963174030138
+passive_voice_count,L'introduction,-0.01922650960117042,0.8572580528467008
+passive_voice_count,La conclusion,-0.21793332938753548,0.039068062565359475
+passive_voice_count,Persuasivité,0.006280600021785203,0.9531506817493816
+passive_voice_count,Clarté du Langage,-0.08629333131217437,0.41867792131749215
+passive_voice_count,Créativité du discours,-0.10377290823002291,0.330381456206454
+passive_voice_count,Global,0.05693758048895149,0.5940062523484253

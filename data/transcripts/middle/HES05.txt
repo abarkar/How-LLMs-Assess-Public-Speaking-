@@ -1,0 +1,10 @@
+Il faut que je prenne mon téléphone, que je le déverrouille, que j'aille dans le répertoire, que je cherche son numéro dans la liste, pour enfin l'appeler.
+Et pour chaque étape, j'effectue une projection.
+Ce que nous venons de faire, c'est-à-dire de trouver une projection, une suite d'actions pour atteindre un objectif, s'appelle la planification, et est le thème principal de ma thèse.
+Historiquement, la planification est un des domaines fondateurs de l'intelligence artificielle.
+Elle a permis de créer des robots comme celui-ci.
+Pour ceux qui ne le connaissent pas, voici Opportunity.
+Ce robot autonome, déposé sur Mars en 2004, a été déconnecté il y a quelques semaines, après 15 années de bons et loyaux services, et 15 années de planification.
+Cependant, pour que sa planification fonctionne, il faut qu'il se situe dans un environnement complètement déterminé, et où il n'y a pas d'autres actions que les siennes.
+Autant dire que s'il avait croisé un martien, cela aurait été compliqué.
+Mon travail de thèse est d'aller plus loin, c'est-à-dire de travailler dans un environnement dynamique et inconnu.

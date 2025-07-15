@@ -1,0 +1,16 @@
+Criterion,Metric,Value
+Présentation du Sujet,Cohen's Kappa,0.48863636363636365
+Structure,Cohen's Kappa,0.4424519074013694
+Niveau de Langue,Cohen's Kappa,0.37250996015936255
+Voix Passive,Cohen's Kappa,0.08568142610695795
+Concision,Cohen's Kappa,0.37823834196891193
+Redondance,Cohen's Kappa,0.5333765392093325
+Langage Négatif,Cohen's Kappa,0.2635024549918167
+Métaphore,Cohen's Kappa,0.463850528025995
+Discours,Cohen's Kappa,0.2781690140845069
+L'introduction,"ICC(2,1)",0.28319278289860755
+La conclusion,"ICC(2,1)",0.4116731517509725
+Persuasivité,"ICC(2,1)",0.43224461431549727
+Clarté du Langage,"ICC(2,1)",0.638267406479327
+Créativité du discours,"ICC(2,1)",0.5299760191846525
+Global,"ICC(2,1)",0.33544590393703616

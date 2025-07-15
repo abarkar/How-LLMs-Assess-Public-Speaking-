@@ -1,0 +1,18 @@
+TÂCHE=[ Sur la base de la transcription de la performance publique fournie dans la section TRANSCRIPT, répondez à la question à choix multiple avec l'une des réponses fournies. 
+
+La question : Comment évaluez-vous l'utilisation de métaphores dans le discours de cette transcription?
+
+Options de réponse : 
+A: Pas d'utilisation de métaphores. 
+ 
+B: La métaphore est utilisée, mais le lien avec le contexte du discours n'est pas évident ou la métaphore ne contribue pas à rendre l'explication plus mémorable et compréhensible.
+ 
+C: La métaphore capture efficacement les détails du discours, renforce et facilite l'explication.
+
+Vous devez choisir l'option qui décrit le mieux la transcription fournie et fournir votre réponse dans le format suivant : 
+ 
+Note : <MASK>
+ 
+Où <MASK> est A, B ou C.
+Ne donnez aucune autre information que cette réponse. ]
+

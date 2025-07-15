@@ -1,0 +1,9 @@
+Pourtant, il a lu et vu, comme nous tous ici, des campagnes de prévention pour arrêter de fumer et pour bouger plus.
+Son problème n'est pas un manque de motivation ou de volonté, au contraire.
+Tous ces messages ne sont ni adaptés à nos habitudes de vie, ni personnalisés.
+La solution pourrait être une application de e-santé associée à des objets de santé connectés, comme des trackers d'activité, pour nous aider à changer durablement nos habitudes de vie.
+Mon travail de thèse n'est pas uniquement de créer cette application d'accompagnement personnalisé du risque cardiovasculaire, mais de préparer toute l'infrastructure, l'enchaînement logique qui permettra aux informaticiens de développer cette application.
+Et pour que cette application soit efficace, il faut qu'elle puisse donner des conseils personnalisés à chaque profil de risque cardiovasculaire.
+Et pour pouvoir obtenir ces profils de risque, j'utilise des données issues d'une enquête menée par l'INSEM.
+Auprès de 20 000 personnes, ils ont répondu à des auto-questionnaires sur leur mode de vie, leur état de santé, leur milieu socio-professionnel.
+Et à partir de toutes ces données, je vais pouvoir identifier des différents profils de risque et construire des arbres de décision.

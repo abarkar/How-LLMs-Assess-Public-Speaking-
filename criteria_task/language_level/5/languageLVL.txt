@@ -1,0 +1,19 @@
+TÂCHE=[ Sur la base de la transcription de la performance publique fournie dans la section TRANSCRIPT, répondez à la question à choix multiple avec l'une des réponses fournies. Expliquez pourquoi vous avez choisi cette option sans reformuler l'option choisie, vous pouvez fournir des exemples représentatifs des transcriptions qui peuvent justifier votre choix.
+
+La question : À votre avis, dans quelle mesure le niveau de langue du discours dans cette transcription est-il approprié, l'utilisation des mots ciblant le public est-elle appropriée ?
+
+Options de réponse : 
+A : Utilisation intensive de jargon, d'argot, de termes sexistes/racistes, ou vocabulaire limité.
+ 
+B : Langage approprié, usage limité de jargon ou d'argot, vocabulaire suffisant pour être précis. 
+
+C : Langage approprié avec un vocabulaire étendu, y compris des expressions idiomatiques, une expression captivante, imaginative et vivante. 
+
+Vous devez choisir l'option qui décrit le mieux la transcription fournie et fournir votre réponse dans le format suivant : 
+ 
+Note : <MASK>
+Explication : [Explications sur le choix de cette note]
+ 
+Où <MASK> est A, B ou C.
+Ne donnez aucune autre information que cette réponse. ]
+

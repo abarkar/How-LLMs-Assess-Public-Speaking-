@@ -1,0 +1,16 @@
+--- Original Persuasiveness ---
+Descriptive Statistics:
+count    248.000000
+mean       3.746291
+std        0.797762
+min        1.285714
+25%        3.272727
+50%        3.829787
+75%        4.285714
+max        5.000000
+
+Normality Test (D'Agostino and Pearson):
+Statistic=23.5545, p-value=0.0000
+
+Uniformity Test (Kolmogorov–Smirnov):
+Statistic=0.3468, p-value=0.0000

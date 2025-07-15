@@ -1,0 +1,16 @@
+TRANSCRIPT=[Transcript of the performance.]
+
+TASK=[Based on the provided transcript of the public performance, choose one of the options that best answers the following question.]
+
+Question: [Insert the actual question]
+Answer options:
+A: [Meaning of A]
+B: [Meaning of B]
+C: [Meaning of C]
+
+Respond using the format:
+
+Note: <MASK>
+
+Where <MASK> is A, B, or C - corresponding to the chosen option.
+Provide no other information beyond this answer.

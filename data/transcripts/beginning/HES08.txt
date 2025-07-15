@@ -1,0 +1,16 @@
+Sur l'écran, en haut à gauche, vous pouvez voir un tigre.
+En dessous, un tigre.
+En dessous, un tigre.
+En dessous, un tigre.
+Normalement, je devrais continuer comme ça quelques milliers de fois, mais je n'ai que 180 secondes, donc je vais abréger un peu.
+En haut à droite, un ours.
+En dessous, un ours.
+En dessous, un ours, etc.
+Au milieu, en haut, il y a une nouvelle image.
+Qui parmi vous pense qu'il s'agit d'un ours ?
+Très bien.
+Qui pour un tigre ?
+Parfait.
+J'ai une bonne nouvelle pour la majorité d'entre vous, à part le monsieur ici.
+Vous n'êtes pas encore complètement dépassé par l'IA, l'intelligence artificielle.
+Ce que vous venez de faire s'appelle dans le domaine informatique du machine learning, ou apprentissage automatique.

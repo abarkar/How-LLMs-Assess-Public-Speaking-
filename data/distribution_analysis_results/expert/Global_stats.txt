@@ -1,0 +1,16 @@
+--- Global (Likert Scale) ---
+Descriptive Statistics:
+count    90.000000
+mean     51.555556
+std      17.886729
+min      11.000000
+25%      41.750000
+50%      52.000000
+75%      63.750000
+max      88.000000
+
+Normality Test (D'Agostino and Pearson):
+Statistic=3.3197, p-value=0.1902
+
+Uniformity Test (Kolmogorov–Smirnov):
+Statistic=0.1768, p-value=0.0062

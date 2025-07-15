@@ -1,0 +1,22 @@
+En ce moment, je suis passionné par deux trucs.
+La première, c'est la vibration des réservoirs de fusée.
+En fait, si le réservoir vibre trop, la fusée peut rentrer en résonance, se déstabiliser, et il faudrait, dans le pire des cas, l'autodétruire.
+Et ma deuxième passion, c'est le rap.
+Ce soir, je vais combiner les deux pour vous parler de ma thèse.
+Je vais vous expliquer que mon travail consiste à estimer à l'avance comment bouge un réservoir et à quel rythme.
+Pour ça, je vais résoudre les équations de la mécanique avec l'outil informatique.
+Ok ?
+Ok.
+Ma thèse, elle parle de réservoirs qui vibrent au même titre que ce sample.
+Mais ce n'est pas si simple, car sans surprise, la présence d'un fluide déstabilise et peut tout faire lâcher prise.
+Ouais, ouais, comme ce texte, le fluide est lourd, incompressible, non visqueux et sans tension superficielle au ciel.
+Mais attention, ma structure est sous tension, élastique, homogène, isotrope et sous pression.
+Si je récapitule.
+Dans cette thèse, je prends en compte deux choses.
+Premièrement, le réservoir en aluminium.
+Et deuxièmement, son contenu, le carburant.
+Ces deux milieux interagissent et changent la forme du réservoir, aka les modes de vibrations.
+Ils changent aussi les fréquences de résonance.
+Vous savez tous ce qu'est une fréquence, la fréquence cardiaque en battements par minute.
+Eh bien moi, je cherche à calculer comment bouge le réservoir, mais en battements par seconde.
+Et pour ça, je développe des logiciels.

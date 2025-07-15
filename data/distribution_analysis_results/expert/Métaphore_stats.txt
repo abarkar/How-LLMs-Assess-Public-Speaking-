@@ -1,0 +1,6 @@
+--- Métaphore (Categorical A/B/C) ---
+Counts:
+Métaphore
+A    41
+C    31
+B    18

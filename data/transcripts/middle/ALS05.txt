@@ -1,0 +1,9 @@
+On peut l'utiliser par exemple pour fabriquer une peinture qui soit facile à l'application, une injection qui soit confortable à prendre, ou comme dans le cas de mon étude, un liquide qu'on utilise pour creuser un puits pétrolier.
+Un liquide pour forer un puits pétrolier ?
+Eh bien oui !
+Un puits pétrolier peut atteindre une dizaine de kilomètres de profondeur.
+Il est donc impossible de forer une telle profondeur tout en laissant le puits vide, puisqu'il risque de s'effondrer.
+Pour cela, on remplit le puits d'un liquide qui s'appelle fluide de forage.
+En plus du maintien des parois du puits, le fluide de forage sert aussi à refroidir l'outil de forage dont la température peut dépasser les 100°C.
+Donc, pour répondre à ce genre d'exigence industrielle, il est nécessaire de comprendre le comportement rhéologique de ce fluide, ce qui veut dire la relation entre sa déformation et son écoulement.
+Et c'est là où j'interviens.

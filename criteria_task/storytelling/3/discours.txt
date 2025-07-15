@@ -1,0 +1,18 @@
+TÂCHE=[ Sur la base de la transcription de la performance publique fournie dans la section TRANSCRIPT, répondez à la question à choix multiple avec l'une des réponses fournies. 
+
+La question : À votre avis, évaluez-vous l'utilisation d'une histoire/un exemple personnel dans le discours de cette transcription ?
+
+Options de réponse : 
+A: Pas d'histoire/un exemple personnel. 
+ 
+B: L'histoire/un exemple personnel est présente mais pas utile pour rendre le discours plus captivant. 
+ 
+C: Utilisation pertinente de l'histoire/un exemple personnel qui rend le discours plus captivant.
+
+Vous devez choisir l'option qui décrit le mieux la transcription fournie et fournir votre réponse dans le format suivant : 
+ 
+Note : <MASK>
+ 
+Où <MASK> est A, B ou C.
+Ne donnez aucune autre information que cette réponse. ]
+

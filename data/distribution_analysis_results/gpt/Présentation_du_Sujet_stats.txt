@@ -1,0 +1,5 @@
+--- Présentation du Sujet (Categorical A/B/C) ---
+Counts:
+Présentation du Sujet
+C    79
+B    11

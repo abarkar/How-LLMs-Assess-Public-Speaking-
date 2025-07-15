@@ -1,0 +1,13 @@
+Car
+oui, certaines d'entre elles possèdent un rôle fondamental.
+Si elles sont au mauvais endroit, au mauvais moment, trop nombreuses ou pas assez, cela peut avoir des conséquences dramatiques, jusqu'à par exemple causer la mort de la cellule ou le développement d'une maladie.
+Mais comment, au juste, je fais pour obtenir ce gyrophare moléculaire ?
+Eh bien, je réalise un loto géant.
+Il faut imaginer chaque boule numérotée comme étant l'un des composants de la molécule.
+Et donc chaque molécule comme étant une des combinaisons possibles du loto.
+Je dois donc trouver parmi ces millions de possibilités le ou les numéros gagnants, celles qui fluorescent.
+Alors, autant vous dire que tester à la main, une par une, ces millions de molécules, c'est mission impossible.
+C'est pour ça que dans mon équipe, on utilise la microfluidique en gouttelettes.
+Cette technologie, elle me permet de miniaturiser tout mon laboratoire.
+A la place d'utiliser des molécules qui sont plus ou moins différentes, j'utilise des tubes, j'utilise des petites gouttelettes de quelques picolitres, c'est-à-dire dix fois plus petites qu'un grain de sable.
+Et à la place d'utiliser des pipettes ou des gros appareillages, j'utilise une micropuce pour former les gouttelettes et les analyser.

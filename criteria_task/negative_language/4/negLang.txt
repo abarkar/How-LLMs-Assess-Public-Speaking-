@@ -1,0 +1,19 @@
+TÂCHE=[ Sur la base de la transcription de la performance publique fournie dans la section TRANSCRIPT, répondez à la question à choix multiple avec l'une des réponses fournies. Expliquez pourquoi vous avez choisi cette option.
+
+La question : Comment évaluez-vous l'utilisation de mots/expressions négatives dans le discours de cette transcription ? (mots négatifs : mauvais, tristes, etc. expressions négatives : ce n'est pas la pire solution, etc.)
+
+Options de réponse : 
+A:  Pas d'utilisation significative de mots négatifs. 
+ 
+B: Remarquée, mais pas d'impression négative. 
+ 
+C: Remarquée, et cela a donné une mauvaise impression. 
+
+Vous devez choisir l'option qui décrit le mieux la transcription fournie et fournir votre réponse dans le format suivant : 
+ 
+Note : <MASK>
+Explication : [Explications sur le choix de cette note]
+ 
+Où <MASK> est A, B ou C.
+Ne donnez aucune autre information que cette réponse. ]
+

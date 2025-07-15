@@ -1,0 +1,14 @@
+TASK=[ Analysez la transcription du discours public donné dans la section TRANSCRIPT. Notez la transcription en fonction de la question CRITERIA. Il y a trois possibilités de notation : A, B ou C, expliquées dans la section OPTIONS. Pour résoudre la tâche de classification, choisissez une seule de ces options et donnez la réponse sous la forme :
+ 
+Grade : <MASK>
+ 
+Où <MASK> est A, B ou C.
+Ne donnez pas d'autres explications.]
+ 
+CRITERIA=[ Comment évaluez-vous la longueur des phrases du discours de cette transcription ? ]
+ 
+OPTIONS=[ A: Phrases courtes qui rendent le texte moins clair.
+
+ B: Phrases de longueur suffisante pour rendre le texte clair. 
+
+ C: Phrases excessivement longues qui rendent le texte peu clair. ]

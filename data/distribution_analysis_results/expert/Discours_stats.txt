@@ -1,0 +1,6 @@
+--- Discours (Categorical A/B/C) ---
+Counts:
+Discours
+C    43
+B    28
+A    19

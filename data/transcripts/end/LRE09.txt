@@ -1,0 +1,13 @@
+Je cherche la bonne recette.
+Ce qui m'intéresse, ce n'est pas le gâteau, mais la température de l'eau de la piscine.
+La recette est le modèle que je cherche à déterminer et qui me permettra de calculer la température de l'eau.
+Pour cela, j'aurai besoin
+des bons
+ingrédients, température de l'air
+, tempéra vitesse du vent, humidité de l'air ou encore le nombre de baigneurs.
+En parallèle, je réalise des mesures sur une piscine en exploitation.
+Je peux alors comparer la température, mesurer et la comparer, la température calculée ce qui me permet de déterminer le meilleur modèle.
+Quand je l'aime, je peux alors trouver le moment idéal pour chauffer les bassins et je diminue par la même.
+Je diminue de ce diminuant ainsi l'impact, le coût d'exploitation et par la même occasion, l'impact sur l'environnement.
+Tout le monde est content.
+Et quand j'aurais fini...

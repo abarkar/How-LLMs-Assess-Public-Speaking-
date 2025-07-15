@@ -1,0 +1,11 @@
+Aujourd'hui, la technologie informatique nous permet d'étudier l'histoire et de prévoir le futur.
+Demain, la technologie informatique promettra de le faire rapidement et avec précision.
+Quel est l'avantage ?
+On va connaître le numéro de l'auto avant le tirage.
+Ça, je vous l'expliquerai plus tard.
+D'abord, laissez-moi vous parler de la sécurité aéronautique.
+Dans les domaines aériens, on peut étudier l'histoire d'un avion juste après son atterrissage, mais pas assez rapidement pour prévoir si son prochain vol courra un risque ou pas.
+Je vous explique mieux.
+Un avion des lignes dispose de plus de 6000 capteurs qui enregistrent beaucoup d'informations sur tous ses composants.
+Pour vous donner une idée, après seulement une heure de vol, on disposera de plus de 2 milliards.
+On va donc chercher des milliards de nombres enregistrés.

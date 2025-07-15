@@ -1,0 +1,14 @@
+TASK=[ Analysez la transcription du discours public donné dans la section TRANSCRIPT. Notez la transcription en fonction de la question CRITERIA. Il y a trois possibilités de notation : A, B ou C, expliquées dans la section OPTIONS. Pour résoudre la tâche de classification, choisissez une seule de ces options et donnez la réponse sous la forme :
+ 
+Grade : <MASK>
+ 
+Où <MASK> est A, B ou C.
+Ne donnez pas d'autres explications. ]
+ 
+CRITERIA=[ A votre avis, comment évaluez-vous la présentation du sujet? ]
+ 
+OPTIONS=[ A: Problématique liée au sujet mal expliquée. 
+ 
+B: Explication acceptable de la problématique liée au sujet.
+ 
+C. Très bonne explication de la problématique liée au sujet. ]

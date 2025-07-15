@@ -1,0 +1,6 @@
+--- Niveau de Langue (Categorical A/B/C) ---
+Counts:
+Niveau de Langue
+B    42
+A    34
+C    14

@@ -1,0 +1,14 @@
+TASK=[ Analysez la transcription du discours public donné dans la section TRANSCRIPT. Notez la transcription en fonction de la question CRITERIA. Il y a trois possibilités de notation : A, B ou C, expliquées dans la section OPTIONS. Pour résoudre la tâche de classification, choisissez une seule de ces options et donnez la réponse sous la forme :
+ 
+Grade : <MASK>
+ 
+Où <MASK> est A, B ou C.
+Ne donnez pas d'autres explications. ]
+ 
+CRITERIA=[ A votre avis, quel est le degré de redondance du contenu du discours dans cette transcription? ]
+
+OPTIONS=[ A: Peu de contenu redondant ce  qui rend le texte moins clair (ex. une inconsistance dans le choix des termes).
+ 
+B: La redondance du contenu permet de rendre le texte clair. 
+ 
+C: Trop de redondance dans le contenu/répétition des mots, ce qui rend le texte moins clair. ]

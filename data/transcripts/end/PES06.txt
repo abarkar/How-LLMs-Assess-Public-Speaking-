@@ -1,0 +1,9 @@
+Seulement, ces ouvertures peuvent prendre un temps très long avant d'apparaître, typiquement au bout de millions d'itérations sur notre algorithme.
+Pendant ce temps-là
+, la molécule reste bloquée dans le labyrinthe et les chercheurs s'impatientent devant leur ordinateur.
+Mon travail de thèse consiste alors à prouver qu'il existe un moyen bien plus rapide de simuler ces apparitions de chemin.
+Je dis que si ma molécule reste suffisamment longtemps bloquée dans ce labyrinthe, elle oublie toute sa trajectoire passée.
+Je peux alors trouver un moyen de simuler la trajectoire future sur plusieurs processeurs en parallèle, ce qui va me permettre de réduire de manière significative le temps de simulation.
+Au-delà de cette question de santé publique, il existe en fait bien d'autres systèmes physiques sur lesquels ces résultats pourraient être utilisés.
+Comme quoi les mathématiques, aussi abstraites soient-elles, peuvent nous permettre de mieux comprendre le monde dans lequel nous vivons.
+Je vous remercie.

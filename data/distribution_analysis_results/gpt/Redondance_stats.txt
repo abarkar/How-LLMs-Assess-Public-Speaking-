@@ -1,0 +1,5 @@
+--- Redondance (Categorical A/B/C) ---
+Counts:
+Redondance
+B    79
+C    11

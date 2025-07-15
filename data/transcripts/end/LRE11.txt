@@ -1,0 +1,14 @@
+Vous pensez bien que non.
+Il nous faut une meilleure méthode.
+C'est ce sur quoi je travaille dans ma thèse.
+Cette méthode, c'est... C'est l'optimisation topologique.
+Il s'agit de disposer les matériaux pour atteindre des objectifs, qui sont diminuer la concentration des polluants dans l'eau, et utiliser le moins de matériaux possible.
+Tout en prenant en compte les contraintes qui s'imposent à moi, comme la manière dont l'eau circule et transporte les polluants.
+Pour trouver la meilleure disposition de ces matériaux filtrants dans cette boîte, j'utilise les mathématiques.
+Comment ?
+Je mets d'abord les objectifs et les contraintes, sous la forme d'équations.
+Ensuite, je découpe l'intérieur de ma boîte en plusieurs petits volumes.
+Et j'introduis dans mes équations ce que l'on appelle une variable de conception.
+Enfin, j'intègre le tout dans un code de calcul.
+C'est ce code qui permet, suivant la valeur de la variable de conception, de placer ou non un matériau filtrant dans chaque petit volume de la boîte.
+Ainsi, dans ma thèse, je développe une méthode qui allie la physique et les mathématiques pour un jour, vous construire un filtre à eau totalement optimisé.

@@ -1,0 +1,11 @@
+{
+    "transitions": true,
+    "lexical_diversity": true,
+    "pos_tag_density": true,
+    "overlap": true,
+    "storytelling": true,
+    "syllable_readability_metrics": true,
+    "negation": true,
+    "passive_voice": true,
+    "synonymity": false
+}

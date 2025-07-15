@@ -1,0 +1,14 @@
+Mon père est mécanicien.
+Cela m'a toujours fasciné de le voir en deux ou trois bricoles remettre en marche les véhicules.
+Aujourd'hui, une partie de son savoir est automatisée.
+Les voitures s'autodiagnostiquent.
+On s'apprête même à les rendre complètement autonomes.
+Ou la seule instruction que nous aurons à leur donner, c'est notre destination.
+Il se peut qu'on soit la dernière génération où l'on sache conduire.
+Enfin, pour certains, les derniers à posséder un permis.
+Il faut savoir qu'une voiture, c'est un objet connecté, comme notre téléphone.
+Donc, il peut être cible d'attaque ou de virus.
+Et si, dans notre contexte de cybersécurité aujourd'hui, les objets connectés, on les porte sur nous, demain,
+c'est nous qui allons être portés par ces objets.
+Et les attaques peuvent nous nuire et nuire à notre entourage.
+Je vous rassure, c'est là où intervient ma thèse.

@@ -1,0 +1,20 @@
+TÂCHE=[ Sur la base de la transcription de la performance publique fournie dans la section TRANSCRIPT, répondez à la question à choix multiple avec l'une des réponses fournies. 
+
+La question : À votre avis, dans quelle mesure le discours de cette transcription 
+est-il bien structuré ?
+
+Options de réponse : 
+A: Difficulté à comprendre les points clés, discours non argumenté. Discours décousu avec manque de transitions. 
+ 
+B: Points clés présents mais raisonnement lacunaire. Structure partiellement suivie, efficacité 
+minimale des transitions. 
+ 
+C:  Points clés valorisés et appuyés sur des arguments précis et pertinents. Plan structuré avec introduction, corps et conclusion, transitions efficaces. 
+
+Vous devez choisir l'option qui décrit le mieux la transcription fournie et fournir votre réponse dans le format suivant : 
+ 
+Note : <MASK>
+ 
+Où <MASK> est A, B ou C.
+Ne donnez aucune autre information que cette réponse. ]
+

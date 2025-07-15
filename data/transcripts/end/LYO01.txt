@@ -1,0 +1,14 @@
+Je commence par fabriquer mon matériau mécanoluminescent.
+Et pour ça, je vais suivre une recette qui me permet d'obtenir un matériau avec des propriétés particulières.
+Parmi ces propriétés, il y a la longueur d'onde d'émission, qui est la couleur qui est émise, la taille des grains, mais aussi la structure cristalline, qui est la façon dont mes atomes sont organisés dans mon matériau.
+Je mélange mes ingrédients, j'enfourne ma préparation, je broie pour obtenir une poudre, et j'ai mon phosphore.
+Mes échantillons sont le mélange de cette poudre phosphore avec du PDMS, qui est un polymère, ou un plastique, si vous préférez.
+J'obtiens des languettes qui sont faciles à déformer, et je peux passer à la phase suivante.
+Cette dernière consiste à contraindre mécaniquement mes échantillons.
+A l'aide d'un moteur, j'étire mes languettes, puis je les relâche, et j'enregistre la lumière qui est émise.
+J'obtiens des informations, comme par exemple l'intensité lumineuse, en fonction de la contrainte que j'ai appliquée.
+En d'autres termes, cela m'indique la manière la plus efficace pour avoir un maximum de lumière.
+Alors, j'imagine que certains d'entre vous vont quand même essayer de casser du sucre chez eux ce soir, non ?
+Faites attention
+quand même, car entre amis, ça peut faire pas mal d'étincelles.
+Je vous remercie.

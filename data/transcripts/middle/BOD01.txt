@@ -1,0 +1,13 @@
+Je vous laisse imaginer les conséquences.
+Mon travail consiste à développer des outils pour aider les ingénieurs à prédire et anticiper le risque de corrosion dans les ouvrages en béton armé.
+Ces outils sont des modèles mathématiques qu'on appelle des modèles ingénieurs.
+On les appelle ainsi parce qu'ils sont adaptés aux préoccupations directes des industriels de BTP.
+La particularité de ces modèles est d'être à la fois simple d'utilisation, peu coûtant en termes de temps de calcul et précis.
+Mais c'est maintenant où les choses se compliquent.
+Je m'intéresse dans un premier temps à prédire la phase d'initiation de la corrosion.
+Cette phase correspond à la durée que les agents agressifs mettent pour arriver au niveau de l'armature.
+Cette durée dépend non seulement des conditions d'exposition, température, humilité relative et concentration des agents agressifs dans l'environnement, mais également de la capacité du béton à retarder leur pénétration.
+Cette capacité est traduite par des indicateurs de performance.
+Le coefficient de dévision de CO2 et le coefficient d'émigration des ions chlorureux.
+Par exemple, pour un béton à haute température, la durée de performance est de 100 ans.
+La réglementation actuelle suppose que la durée de service d'un ouvrage est atteinte une fois la corrosion amorcée.

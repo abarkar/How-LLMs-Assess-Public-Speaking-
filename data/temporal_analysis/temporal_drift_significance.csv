@@ -1,0 +1,646 @@
+Lexical_Feature,Criterion,Category,Correlation_Trend,Significant_Changes_raw,Alpha_raw,N_Eligible_Comparisons_raw,Significant_Changes_bonf_full_vs_rest,Alpha_bonf_full_vs_rest,N_Eligible_Comparisons_bonf_full_vs_rest,Significant_Changes_bonf_parts_only,Alpha_bonf_parts_only,N_Eligible_Comparisons_bonf_parts_only,Significant_Changes_bonf_all,Alpha_bonf_all,N_Eligible_Comparisons_bonf_all
+proportion_ADJ,Présentation du Sujet,pos_tag_density,"full:-0.09 (p=0.375) → beginning:-0.11 (p=0.324) ↓, middle:-0.05 (p=0.656) ↑, end:-0.05 (p=0.621) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADJ,Structure,pos_tag_density,"full:0.05 (p=0.609) → beginning:0.05 (p=0.670) ↓, middle:0.11 (p=0.289) ↑, end:-0.02 (p=0.858) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADJ,Niveau de Langue,pos_tag_density,"full:0.13 (p=0.230) → beginning:0.17 (p=0.109) ↑, middle:0.16 (p=0.134) ↑, end:-0.04 (p=0.735) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADJ,Voix Passive,pos_tag_density,"full:-0.06 (p=0.554) → beginning:-0.08 (p=0.468) ↓, middle:0.08 (p=0.441) ↑, end:-0.08 (p=0.482) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADJ,Concision,pos_tag_density,"full:-0.06 (p=0.558) → beginning:-0.08 (p=0.472) ↓, middle:0.06 (p=0.596) ↑, end:-0.06 (p=0.584) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADJ,Redondance,pos_tag_density,"full:-0.01 (p=0.927) → beginning:0.07 (p=0.537) ↑, middle:0.08 (p=0.455) ↑, end:-0.09 (p=0.388) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADJ,Langage Négatif,pos_tag_density,"full:0.24 (p=0.024) → beginning:0.36 (p=0.000) ↑, middle:-0.07 (p=0.484) ↓, end:0.23 (p=0.027) ↓",full_vs_middle; beginning_vs_middle; middle_vs_end,0.05,6,,0.01667,3,beginning_vs_middle,0.01667,3,beginning_vs_middle,0.00833,6
+proportion_ADJ,Métaphore,pos_tag_density,"full:-0.03 (p=0.760) → beginning:0.12 (p=0.269) ↑, middle:0.01 (p=0.897) ↑, end:-0.21 (p=0.045) ↓",beginning_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADJ,Discours,pos_tag_density,"full:-0.27 (p=0.010) → beginning:-0.21 (p=0.047) ↑, middle:-0.11 (p=0.311) ↑, end:-0.16 (p=0.121) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADJ,L'introduction,pos_tag_density,"full:0.04 (p=0.705) → beginning:0.06 (p=0.553) ↑, middle:0.09 (p=0.425) ↑, end:-0.01 (p=0.925) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADJ,La conclusion,pos_tag_density,"full:-0.00 (p=0.967) → beginning:0.03 (p=0.774) ↑, middle:0.08 (p=0.460) ↑, end:0.00 (p=0.996) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADJ,Persuasivité,pos_tag_density,"full:-0.04 (p=0.690) → beginning:0.02 (p=0.819) ↑, middle:-0.05 (p=0.657) ↓, end:-0.10 (p=0.368) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADJ,Clarté du Langage,pos_tag_density,"full:0.07 (p=0.520) → beginning:0.05 (p=0.654) ↓, middle:0.12 (p=0.260) ↑, end:0.01 (p=0.926) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADJ,Créativité du discours,pos_tag_density,"full:-0.07 (p=0.514) → beginning:-0.06 (p=0.579) ↑, middle:0.10 (p=0.353) ↑, end:-0.15 (p=0.145) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADJ,Global,pos_tag_density,"full:0.02 (p=0.816) → beginning:0.05 (p=0.649) ↑, middle:0.01 (p=0.896) ↓, end:0.02 (p=0.840) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADV,Présentation du Sujet,pos_tag_density,"full:0.11 (p=0.298) → beginning:0.04 (p=0.732) ↓, middle:0.20 (p=0.057) ↑, end:0.09 (p=0.381) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADV,Structure,pos_tag_density,"full:0.07 (p=0.522) → beginning:0.03 (p=0.779) ↓, middle:0.15 (p=0.155) ↑, end:0.04 (p=0.732) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADV,Niveau de Langue,pos_tag_density,"full:0.12 (p=0.274) → beginning:0.09 (p=0.404) ↓, middle:0.01 (p=0.949) ↓, end:0.16 (p=0.136) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADV,Voix Passive,pos_tag_density,"full:0.05 (p=0.616) → beginning:-0.05 (p=0.656) ↓, middle:0.14 (p=0.198) ↑, end:0.07 (p=0.525) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADV,Concision,pos_tag_density,"full:0.03 (p=0.791) → beginning:0.07 (p=0.500) ↑, middle:0.08 (p=0.439) ↑, end:-0.03 (p=0.795) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADV,Redondance,pos_tag_density,"full:0.20 (p=0.063) → beginning:0.14 (p=0.202) ↓, middle:0.20 (p=0.065) ↓, end:0.20 (p=0.053) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADV,Langage Négatif,pos_tag_density,"full:0.05 (p=0.665) → beginning:0.01 (p=0.915) ↓, middle:0.16 (p=0.139) ↑, end:-0.09 (p=0.378) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADV,Métaphore,pos_tag_density,"full:-0.11 (p=0.302) → beginning:-0.17 (p=0.114) ↓, middle:0.01 (p=0.921) ↑, end:0.03 (p=0.798) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADV,Discours,pos_tag_density,"full:-0.04 (p=0.721) → beginning:0.07 (p=0.514) ↑, middle:-0.03 (p=0.805) ↑, end:-0.03 (p=0.809) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADV,L'introduction,pos_tag_density,"full:0.19 (p=0.068) → beginning:0.11 (p=0.289) ↓, middle:0.15 (p=0.150) ↓, end:0.22 (p=0.040) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADV,La conclusion,pos_tag_density,"full:-0.07 (p=0.526) → beginning:0.03 (p=0.752) ↑, middle:-0.04 (p=0.737) ↑, end:-0.06 (p=0.563) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADV,Persuasivité,pos_tag_density,"full:0.01 (p=0.926) → beginning:-0.14 (p=0.198) ↓, middle:0.16 (p=0.143) ↑, end:0.08 (p=0.452) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADV,Clarté du Langage,pos_tag_density,"full:0.01 (p=0.943) → beginning:0.11 (p=0.306) ↑, middle:0.04 (p=0.705) ↑, end:-0.04 (p=0.697) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADV,Créativité du discours,pos_tag_density,"full:0.07 (p=0.487) → beginning:0.23 (p=0.033) ↑, middle:-0.05 (p=0.658) ↓, end:0.10 (p=0.328) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADV,Global,pos_tag_density,"full:-0.02 (p=0.868) → beginning:-0.02 (p=0.859) ↓, middle:0.09 (p=0.420) ↑, end:-0.02 (p=0.825) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_INTJ,Présentation du Sujet,pos_tag_density,"full:0.07 (p=0.523) → beginning:0.00 (p=1.000) ↓, middle:0.08 (p=0.443) ↑, end:0.00 (p=0.984) ↓",,0.05,3,,0.025,2,,0.05,1,,0.01667,3
+proportion_INTJ,Structure,pos_tag_density,"full:-0.00 (p=0.991) → beginning:-0.01 (p=0.918) ↓, middle:-0.13 (p=0.211) ↓, end:0.05 (p=0.614) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_INTJ,Niveau de Langue,pos_tag_density,"full:0.00 (p=0.994) → beginning:0.07 (p=0.522) ↑, middle:-0.03 (p=0.775) ↓, end:0.02 (p=0.878) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_INTJ,Voix Passive,pos_tag_density,"full:0.19 (p=0.074) → beginning:0.09 (p=0.408) ↓, middle:0.06 (p=0.606) ↓, end:0.16 (p=0.125) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_INTJ,Concision,pos_tag_density,"full:0.18 (p=0.092) → beginning:0.15 (p=0.159) ↓, middle:0.11 (p=0.317) ↓, end:0.11 (p=0.307) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_INTJ,Redondance,pos_tag_density,"full:0.01 (p=0.932) → beginning:0.08 (p=0.434) ↑, middle:0.02 (p=0.879) ↑, end:-0.03 (p=0.786) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_INTJ,Langage Négatif,pos_tag_density,"full:-0.04 (p=0.708) → beginning:-0.05 (p=0.620) ↓, middle:-0.10 (p=0.332) ↓, end:0.02 (p=0.872) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_INTJ,Métaphore,pos_tag_density,"full:0.10 (p=0.346) → beginning:0.15 (p=0.153) ↑, middle:-0.10 (p=0.326) ↓, end:0.11 (p=0.317) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_INTJ,Discours,pos_tag_density,"full:0.19 (p=0.069) → beginning:0.18 (p=0.089) ↓, middle:0.04 (p=0.688) ↓, end:0.13 (p=0.228) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_INTJ,L'introduction,pos_tag_density,"full:-0.02 (p=0.865) → beginning:0.10 (p=0.344) ↑, middle:-0.06 (p=0.557) ↓, end:-0.07 (p=0.519) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_INTJ,La conclusion,pos_tag_density,"full:-0.19 (p=0.068) → beginning:-0.11 (p=0.283) ↑, middle:-0.04 (p=0.688) ↑, end:-0.19 (p=0.075) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_INTJ,Persuasivité,pos_tag_density,"full:-0.00 (p=0.971) → beginning:0.07 (p=0.529) ↑, middle:0.07 (p=0.528) ↑, end:-0.14 (p=0.189) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_INTJ,Clarté du Langage,pos_tag_density,"full:0.08 (p=0.432) → beginning:0.17 (p=0.119) ↑, middle:0.16 (p=0.142) ↑, end:-0.11 (p=0.318) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_INTJ,Créativité du discours,pos_tag_density,"full:0.09 (p=0.412) → beginning:0.12 (p=0.246) ↑, middle:0.02 (p=0.848) ↓, end:0.11 (p=0.312) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_INTJ,Global,pos_tag_density,"full:0.03 (p=0.768) → beginning:0.01 (p=0.946) ↓, middle:0.11 (p=0.318) ↑, end:-0.05 (p=0.670) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_NOUN,Présentation du Sujet,pos_tag_density,"full:0.01 (p=0.912) → beginning:0.07 (p=0.537) ↑, middle:-0.10 (p=0.343) ↓, end:0.01 (p=0.932) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_NOUN,Structure,pos_tag_density,"full:0.08 (p=0.429) → beginning:0.04 (p=0.676) ↓, middle:-0.13 (p=0.234) ↓, end:0.24 (p=0.021) ↑",middle_vs_end,0.05,6,,0.01667,3,middle_vs_end,0.01667,3,,0.00833,6
+proportion_NOUN,Niveau de Langue,pos_tag_density,"full:-0.14 (p=0.194) → beginning:-0.08 (p=0.439) ↑, middle:-0.07 (p=0.532) ↑, end:-0.14 (p=0.189) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_NOUN,Voix Passive,pos_tag_density,"full:-0.03 (p=0.746) → beginning:0.00 (p=0.973) ↑, middle:-0.16 (p=0.142) ↓, end:0.06 (p=0.600) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_NOUN,Concision,pos_tag_density,"full:-0.04 (p=0.675) → beginning:-0.04 (p=0.707) ↑, middle:-0.06 (p=0.592) ↓, end:0.02 (p=0.830) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_NOUN,Redondance,pos_tag_density,"full:-0.06 (p=0.603) → beginning:-0.07 (p=0.505) ↓, middle:-0.07 (p=0.509) ↓, end:0.08 (p=0.467) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_NOUN,Langage Négatif,pos_tag_density,"full:0.12 (p=0.245) → beginning:0.15 (p=0.145) ↑, middle:0.00 (p=0.974) ↓, end:0.11 (p=0.320) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_NOUN,Métaphore,pos_tag_density,"full:0.09 (p=0.389) → beginning:0.06 (p=0.595) ↓, middle:0.10 (p=0.362) ↑, end:0.02 (p=0.818) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_NOUN,Discours,pos_tag_density,"full:-0.27 (p=0.010) → beginning:-0.34 (p=0.001) ↓, middle:-0.30 (p=0.004) ↓, end:0.01 (p=0.922) ↑",beginning_vs_end; middle_vs_end,0.05,6,,0.01667,3,beginning_vs_end,0.01667,3,,0.00833,6
+proportion_NOUN,L'introduction,pos_tag_density,"full:0.08 (p=0.468) → beginning:0.26 (p=0.015) ↑, middle:-0.13 (p=0.227) ↓, end:0.06 (p=0.589) ↓",beginning_vs_middle,0.05,6,,0.01667,3,beginning_vs_middle,0.01667,3,,0.00833,6
+proportion_NOUN,La conclusion,pos_tag_density,"full:0.08 (p=0.439) → beginning:0.05 (p=0.671) ↓, middle:0.01 (p=0.891) ↓, end:0.04 (p=0.680) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_NOUN,Persuasivité,pos_tag_density,"full:-0.02 (p=0.820) → beginning:0.12 (p=0.270) ↑, middle:-0.12 (p=0.249) ↓, end:-0.11 (p=0.317) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_NOUN,Clarté du Langage,pos_tag_density,"full:-0.08 (p=0.461) → beginning:-0.05 (p=0.630) ↑, middle:-0.20 (p=0.065) ↓, end:0.09 (p=0.386) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_NOUN,Créativité du discours,pos_tag_density,"full:-0.09 (p=0.401) → beginning:-0.14 (p=0.199) ↓, middle:0.01 (p=0.950) ↑, end:-0.07 (p=0.529) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_NOUN,Global,pos_tag_density,"full:0.09 (p=0.419) → beginning:0.12 (p=0.250) ↑, middle:-0.00 (p=0.973) ↓, end:-0.00 (p=0.990) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PRON,Présentation du Sujet,pos_tag_density,"full:0.01 (p=0.927) → beginning:0.02 (p=0.826) ↑, middle:0.07 (p=0.525) ↑, end:-0.08 (p=0.444) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PRON,Structure,pos_tag_density,"full:-0.14 (p=0.203) → beginning:-0.02 (p=0.861) ↑, middle:-0.02 (p=0.824) ↑, end:-0.31 (p=0.003) ↓",beginning_vs_end; middle_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PRON,Niveau de Langue,pos_tag_density,"full:0.12 (p=0.241) → beginning:0.05 (p=0.666) ↓, middle:0.08 (p=0.427) ↓, end:0.20 (p=0.056) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PRON,Voix Passive,pos_tag_density,"full:0.08 (p=0.455) → beginning:0.06 (p=0.585) ↓, middle:0.18 (p=0.094) ↑, end:-0.07 (p=0.539) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PRON,Concision,pos_tag_density,"full:0.08 (p=0.472) → beginning:0.03 (p=0.791) ↓, middle:0.06 (p=0.558) ↓, end:0.01 (p=0.956) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PRON,Redondance,pos_tag_density,"full:0.04 (p=0.728) → beginning:-0.00 (p=0.971) ↓, middle:0.03 (p=0.774) ↓, end:-0.09 (p=0.412) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PRON,Langage Négatif,pos_tag_density,"full:-0.22 (p=0.039) → beginning:-0.29 (p=0.006) ↓, middle:-0.05 (p=0.635) ↑, end:-0.15 (p=0.160) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PRON,Métaphore,pos_tag_density,"full:-0.01 (p=0.944) → beginning:0.02 (p=0.834) ↑, middle:0.03 (p=0.749) ↑, end:-0.01 (p=0.902) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PRON,Discours,pos_tag_density,"full:0.31 (p=0.003) → beginning:0.37 (p=0.000) ↑, middle:0.29 (p=0.006) ↓, end:0.06 (p=0.548) ↓",beginning_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PRON,L'introduction,pos_tag_density,"full:-0.06 (p=0.581) → beginning:-0.20 (p=0.056) ↓, middle:0.07 (p=0.510) ↑, end:-0.08 (p=0.436) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PRON,La conclusion,pos_tag_density,"full:0.06 (p=0.555) → beginning:-0.00 (p=0.968) ↓, middle:0.11 (p=0.323) ↑, end:0.10 (p=0.365) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PRON,Persuasivité,pos_tag_density,"full:0.17 (p=0.102) → beginning:0.05 (p=0.635) ↓, middle:0.21 (p=0.047) ↑, end:0.11 (p=0.289) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PRON,Clarté du Langage,pos_tag_density,"full:0.10 (p=0.367) → beginning:0.06 (p=0.563) ↓, middle:0.18 (p=0.092) ↑, end:-0.07 (p=0.533) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PRON,Créativité du discours,pos_tag_density,"full:0.19 (p=0.079) → beginning:0.14 (p=0.184) ↓, middle:0.14 (p=0.201) ↓, end:0.16 (p=0.133) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PRON,Global,pos_tag_density,"full:0.05 (p=0.627) → beginning:-0.07 (p=0.535) ↓, middle:0.13 (p=0.229) ↑, end:0.10 (p=0.335) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PROPN,Présentation du Sujet,pos_tag_density,"full:0.05 (p=0.653) → beginning:0.04 (p=0.730) ↓, middle:-0.03 (p=0.779) ↓, end:0.07 (p=0.492) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PROPN,Structure,pos_tag_density,"full:-0.04 (p=0.692) → beginning:-0.04 (p=0.695) ↑, middle:-0.03 (p=0.804) ↑, end:0.07 (p=0.512) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PROPN,Niveau de Langue,pos_tag_density,"full:0.12 (p=0.263) → beginning:0.07 (p=0.534) ↓, middle:0.05 (p=0.619) ↓, end:0.21 (p=0.048) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PROPN,Voix Passive,pos_tag_density,"full:-0.09 (p=0.386) → beginning:-0.08 (p=0.456) ↑, middle:-0.08 (p=0.430) ↑, end:0.03 (p=0.784) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PROPN,Concision,pos_tag_density,"full:-0.04 (p=0.689) → beginning:-0.07 (p=0.503) ↓, middle:-0.06 (p=0.552) ↓, end:0.08 (p=0.449) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PROPN,Redondance,pos_tag_density,"full:0.08 (p=0.471) → beginning:0.07 (p=0.517) ↓, middle:0.02 (p=0.821) ↓, end:0.13 (p=0.206) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PROPN,Langage Négatif,pos_tag_density,"full:-0.07 (p=0.517) → beginning:0.00 (p=1.000) ↑, middle:0.04 (p=0.738) ↑, end:-0.21 (p=0.043) ↓",,0.05,3,,0.025,2,,0.05,1,,0.01667,3
+proportion_PROPN,Métaphore,pos_tag_density,"full:-0.10 (p=0.359) → beginning:-0.09 (p=0.422) ↑, middle:-0.17 (p=0.101) ↓, end:0.05 (p=0.665) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PROPN,Discours,pos_tag_density,"full:0.13 (p=0.225) → beginning:0.07 (p=0.536) ↓, middle:0.18 (p=0.093) ↑, end:0.18 (p=0.082) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PROPN,L'introduction,pos_tag_density,"full:0.02 (p=0.858) → beginning:-0.01 (p=0.908) ↓, middle:0.08 (p=0.463) ↑, end:0.11 (p=0.284) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PROPN,La conclusion,pos_tag_density,"full:0.07 (p=0.534) → beginning:0.04 (p=0.738) ↓, middle:0.08 (p=0.463) ↑, end:0.11 (p=0.322) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PROPN,Persuasivité,pos_tag_density,"full:0.00 (p=0.989) → beginning:-0.02 (p=0.859) ↓, middle:-0.10 (p=0.363) ↓, end:0.19 (p=0.067) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PROPN,Clarté du Langage,pos_tag_density,"full:0.04 (p=0.712) → beginning:-0.02 (p=0.874) ↓, middle:0.14 (p=0.185) ↑, end:0.12 (p=0.244) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PROPN,Créativité du discours,pos_tag_density,"full:-0.01 (p=0.940) → beginning:0.01 (p=0.959) ↑, middle:-0.09 (p=0.415) ↓, end:0.10 (p=0.336) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PROPN,Global,pos_tag_density,"full:-0.01 (p=0.929) → beginning:-0.04 (p=0.700) ↓, middle:-0.07 (p=0.497) ↓, end:0.09 (p=0.383) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_VERB,Présentation du Sujet,pos_tag_density,"full:-0.11 (p=0.292) → beginning:-0.18 (p=0.093) ↓, middle:-0.00 (p=0.981) ↑, end:0.00 (p=0.985) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_VERB,Structure,pos_tag_density,"full:-0.16 (p=0.134) → beginning:-0.20 (p=0.058) ↓, middle:-0.04 (p=0.681) ↑, end:-0.08 (p=0.471) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_VERB,Niveau de Langue,pos_tag_density,"full:-0.12 (p=0.251) → beginning:-0.14 (p=0.174) ↓, middle:-0.06 (p=0.551) ↑, end:0.01 (p=0.917) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_VERB,Voix Passive,pos_tag_density,"full:0.10 (p=0.366) → beginning:0.03 (p=0.746) ↓, middle:0.12 (p=0.278) ↑, end:0.09 (p=0.402) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_VERB,Concision,pos_tag_density,"full:0.04 (p=0.687) → beginning:-0.08 (p=0.479) ↓, middle:0.06 (p=0.581) ↑, end:0.12 (p=0.258) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_VERB,Redondance,pos_tag_density,"full:-0.14 (p=0.204) → beginning:-0.16 (p=0.142) ↓, middle:0.02 (p=0.874) ↑, end:-0.09 (p=0.381) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_VERB,Langage Négatif,pos_tag_density,"full:-0.17 (p=0.106) → beginning:-0.30 (p=0.004) ↓, middle:-0.04 (p=0.723) ↑, end:-0.03 (p=0.794) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_VERB,Métaphore,pos_tag_density,"full:-0.10 (p=0.370) → beginning:-0.01 (p=0.960) ↑, middle:-0.01 (p=0.942) ↑, end:-0.08 (p=0.478) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_VERB,Discours,pos_tag_density,"full:0.21 (p=0.050) → beginning:0.15 (p=0.150) ↓, middle:0.21 (p=0.048) ↑, end:0.07 (p=0.500) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_VERB,L'introduction,pos_tag_density,"full:-0.17 (p=0.107) → beginning:-0.34 (p=0.001) ↓, middle:0.01 (p=0.907) ↑, end:-0.03 (p=0.756) ↑",beginning_vs_middle; beginning_vs_end,0.05,6,,0.01667,3,beginning_vs_middle,0.01667,3,,0.00833,6
+proportion_VERB,La conclusion,pos_tag_density,"full:-0.10 (p=0.338) → beginning:-0.22 (p=0.034) ↓, middle:-0.01 (p=0.931) ↑, end:0.08 (p=0.453) ↑",beginning_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_VERB,Persuasivité,pos_tag_density,"full:-0.06 (p=0.590) → beginning:-0.12 (p=0.245) ↓, middle:0.01 (p=0.961) ↑, end:-0.01 (p=0.912) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_VERB,Clarté du Langage,pos_tag_density,"full:0.08 (p=0.475) → beginning:-0.05 (p=0.620) ↓, middle:0.19 (p=0.073) ↑, end:0.05 (p=0.670) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_VERB,Créativité du discours,pos_tag_density,"full:-0.04 (p=0.734) → beginning:0.02 (p=0.883) ↑, middle:-0.01 (p=0.918) ↑, end:0.04 (p=0.730) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_VERB,Global,pos_tag_density,"full:-0.10 (p=0.336) → beginning:-0.13 (p=0.225) ↓, middle:-0.03 (p=0.763) ↑, end:-0.03 (p=0.774) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_AUX,Présentation du Sujet,pos_tag_density,"full:-0.06 (p=0.545) → beginning:-0.07 (p=0.541) ↓, middle:0.07 (p=0.529) ↑, end:-0.19 (p=0.078) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_AUX,Structure,pos_tag_density,"full:-0.08 (p=0.463) → beginning:-0.01 (p=0.937) ↑, middle:0.12 (p=0.254) ↑, end:-0.13 (p=0.233) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_AUX,Niveau de Langue,pos_tag_density,"full:-0.09 (p=0.384) → beginning:0.00 (p=0.971) ↑, middle:-0.06 (p=0.595) ↑, end:-0.11 (p=0.325) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_AUX,Voix Passive,pos_tag_density,"full:-0.09 (p=0.378) → beginning:-0.11 (p=0.288) ↓, middle:0.05 (p=0.616) ↑, end:-0.19 (p=0.074) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_AUX,Concision,pos_tag_density,"full:-0.11 (p=0.288) → beginning:-0.07 (p=0.511) ↑, middle:0.05 (p=0.651) ↑, end:-0.14 (p=0.185) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_AUX,Redondance,pos_tag_density,"full:-0.09 (p=0.402) → beginning:-0.04 (p=0.732) ↑, middle:0.08 (p=0.455) ↑, end:-0.13 (p=0.234) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_AUX,Langage Négatif,pos_tag_density,"full:0.27 (p=0.009) → beginning:0.24 (p=0.022) ↓, middle:0.26 (p=0.012) ↓, end:0.11 (p=0.320) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_AUX,Métaphore,pos_tag_density,"full:-0.05 (p=0.655) → beginning:0.04 (p=0.694) ↑, middle:-0.09 (p=0.396) ↓, end:0.05 (p=0.611) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_AUX,Discours,pos_tag_density,"full:-0.00 (p=0.964) → beginning:0.10 (p=0.331) ↑, middle:0.14 (p=0.184) ↑, end:-0.21 (p=0.046) ↓",beginning_vs_end; middle_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_AUX,L'introduction,pos_tag_density,"full:0.02 (p=0.878) → beginning:0.02 (p=0.836) ↑, middle:0.16 (p=0.141) ↑, end:-0.04 (p=0.701) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_AUX,La conclusion,pos_tag_density,"full:-0.01 (p=0.893) → beginning:0.04 (p=0.720) ↑, middle:0.07 (p=0.500) ↑, end:-0.11 (p=0.290) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_AUX,Persuasivité,pos_tag_density,"full:-0.07 (p=0.492) → beginning:-0.08 (p=0.459) ↓, middle:0.02 (p=0.830) ↑, end:-0.03 (p=0.801) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_AUX,Clarté du Langage,pos_tag_density,"full:-0.10 (p=0.326) → beginning:-0.08 (p=0.469) ↑, middle:0.01 (p=0.891) ↑, end:-0.10 (p=0.339) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_AUX,Créativité du discours,pos_tag_density,"full:-0.06 (p=0.579) → beginning:-0.00 (p=0.977) ↑, middle:0.00 (p=0.969) ↑, end:-0.10 (p=0.353) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_AUX,Global,pos_tag_density,"full:-0.10 (p=0.337) → beginning:-0.06 (p=0.566) ↑, middle:0.01 (p=0.947) ↑, end:-0.13 (p=0.205) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_DET,Présentation du Sujet,pos_tag_density,"full:0.03 (p=0.802) → beginning:0.17 (p=0.114) ↑, middle:-0.10 (p=0.343) ↓, end:-0.04 (p=0.723) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_DET,Structure,pos_tag_density,"full:0.16 (p=0.136) → beginning:0.12 (p=0.249) ↓, middle:0.08 (p=0.469) ↓, end:0.16 (p=0.129) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_DET,Niveau de Langue,pos_tag_density,"full:-0.08 (p=0.475) → beginning:-0.06 (p=0.570) ↑, middle:0.04 (p=0.696) ↑, end:-0.17 (p=0.117) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_DET,Voix Passive,pos_tag_density,"full:-0.04 (p=0.696) → beginning:0.01 (p=0.902) ↑, middle:-0.18 (p=0.086) ↓, end:0.10 (p=0.342) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_DET,Concision,pos_tag_density,"full:-0.02 (p=0.868) → beginning:0.07 (p=0.532) ↑, middle:-0.11 (p=0.314) ↓, end:-0.02 (p=0.821) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_DET,Redondance,pos_tag_density,"full:-0.04 (p=0.719) → beginning:0.01 (p=0.951) ↑, middle:-0.07 (p=0.513) ↓, end:0.01 (p=0.898) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_DET,Langage Négatif,pos_tag_density,"full:0.16 (p=0.133) → beginning:0.20 (p=0.058) ↑, middle:0.05 (p=0.612) ↓, end:0.14 (p=0.179) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_DET,Métaphore,pos_tag_density,"full:0.22 (p=0.040) → beginning:0.22 (p=0.033) ↑, middle:0.20 (p=0.065) ↓, end:0.14 (p=0.201) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_DET,Discours,pos_tag_density,"full:-0.09 (p=0.385) → beginning:-0.16 (p=0.139) ↓, middle:-0.04 (p=0.720) ↑, end:0.02 (p=0.883) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_DET,L'introduction,pos_tag_density,"full:0.02 (p=0.826) → beginning:0.22 (p=0.041) ↑, middle:-0.11 (p=0.322) ↓, end:-0.08 (p=0.428) ↓",beginning_vs_middle; beginning_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_DET,La conclusion,pos_tag_density,"full:0.11 (p=0.315) → beginning:0.09 (p=0.375) ↓, middle:0.10 (p=0.343) ↓, end:0.03 (p=0.785) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_DET,Persuasivité,pos_tag_density,"full:-0.02 (p=0.858) → beginning:0.08 (p=0.439) ↑, middle:-0.03 (p=0.792) ↓, end:-0.09 (p=0.396) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_DET,Clarté du Langage,pos_tag_density,"full:-0.02 (p=0.831) → beginning:0.02 (p=0.871) ↑, middle:-0.09 (p=0.382) ↓, end:0.10 (p=0.372) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_DET,Créativité du discours,pos_tag_density,"full:-0.12 (p=0.263) → beginning:-0.14 (p=0.199) ↓, middle:-0.00 (p=0.970) ↑, end:-0.09 (p=0.424) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_DET,Global,pos_tag_density,"full:0.11 (p=0.299) → beginning:0.18 (p=0.089) ↑, middle:0.06 (p=0.549) ↓, end:-0.00 (p=0.998) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADP,Présentation du Sujet,pos_tag_density,"full:-0.04 (p=0.719) → beginning:-0.08 (p=0.434) ↓, middle:-0.10 (p=0.355) ↓, end:0.13 (p=0.211) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADP,Structure,pos_tag_density,"full:-0.02 (p=0.824) → beginning:-0.20 (p=0.059) ↓, middle:-0.09 (p=0.403) ↓, end:0.24 (p=0.022) ↑",beginning_vs_end; middle_vs_end,0.05,6,,0.01667,3,beginning_vs_end,0.01667,3,beginning_vs_end,0.00833,6
+proportion_ADP,Niveau de Langue,pos_tag_density,"full:-0.09 (p=0.397) → beginning:-0.11 (p=0.301) ↓, middle:-0.00 (p=0.994) ↑, end:-0.05 (p=0.632) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADP,Voix Passive,pos_tag_density,"full:-0.05 (p=0.616) → beginning:-0.09 (p=0.378) ↓, middle:-0.11 (p=0.299) ↓, end:0.10 (p=0.342) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADP,Concision,pos_tag_density,"full:-0.04 (p=0.675) → beginning:-0.08 (p=0.429) ↓, middle:-0.14 (p=0.191) ↓, end:0.09 (p=0.407) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADP,Redondance,pos_tag_density,"full:-0.06 (p=0.603) → beginning:-0.12 (p=0.252) ↓, middle:-0.15 (p=0.152) ↓, end:0.16 (p=0.130) ↑",middle_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADP,Langage Négatif,pos_tag_density,"full:-0.03 (p=0.759) → beginning:0.06 (p=0.605) ↑, middle:-0.12 (p=0.264) ↓, end:0.02 (p=0.882) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADP,Métaphore,pos_tag_density,"full:0.07 (p=0.537) → beginning:0.02 (p=0.872) ↓, middle:0.07 (p=0.522) ↑, end:0.06 (p=0.558) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADP,Discours,pos_tag_density,"full:-0.41 (p=0.000) → beginning:-0.43 (p=0.000) ↓, middle:-0.29 (p=0.005) ↑, end:-0.11 (p=0.285) ↑",full_vs_end; beginning_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADP,L'introduction,pos_tag_density,"full:-0.02 (p=0.844) → beginning:-0.02 (p=0.855) ↑, middle:-0.06 (p=0.582) ↓, end:0.09 (p=0.416) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADP,La conclusion,pos_tag_density,"full:-0.01 (p=0.931) → beginning:-0.09 (p=0.419) ↓, middle:-0.07 (p=0.488) ↓, end:0.15 (p=0.146) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADP,Persuasivité,pos_tag_density,"full:-0.12 (p=0.244) → beginning:-0.03 (p=0.795) ↑, middle:-0.21 (p=0.050) ↓, end:0.01 (p=0.910) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADP,Clarté du Langage,pos_tag_density,"full:-0.07 (p=0.487) → beginning:-0.07 (p=0.520) ↑, middle:-0.24 (p=0.025) ↓, end:0.20 (p=0.063) ↑",middle_vs_end,0.05,6,,0.01667,3,middle_vs_end,0.01667,3,middle_vs_end,0.00833,6
+proportion_ADP,Créativité du discours,pos_tag_density,"full:-0.04 (p=0.712) → beginning:-0.12 (p=0.250) ↓, middle:0.05 (p=0.667) ↑, end:0.07 (p=0.541) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_ADP,Global,pos_tag_density,"full:-0.06 (p=0.555) → beginning:-0.04 (p=0.685) ↑, middle:-0.14 (p=0.188) ↓, end:0.06 (p=0.551) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_CCONJ,Présentation du Sujet,pos_tag_density,"full:0.04 (p=0.709) → beginning:0.10 (p=0.362) ↑, middle:0.09 (p=0.416) ↑, end:-0.11 (p=0.324) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_CCONJ,Structure,pos_tag_density,"full:0.08 (p=0.482) → beginning:0.11 (p=0.287) ↑, middle:0.07 (p=0.513) ↓, end:-0.12 (p=0.248) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_CCONJ,Niveau de Langue,pos_tag_density,"full:-0.06 (p=0.567) → beginning:-0.00 (p=0.971) ↑, middle:-0.16 (p=0.139) ↓, end:-0.06 (p=0.570) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_CCONJ,Voix Passive,pos_tag_density,"full:-0.02 (p=0.867) → beginning:-0.02 (p=0.841) ↓, middle:0.03 (p=0.763) ↑, end:-0.07 (p=0.496) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_CCONJ,Concision,pos_tag_density,"full:-0.17 (p=0.112) → beginning:-0.01 (p=0.916) ↑, middle:-0.08 (p=0.449) ↑, end:-0.30 (p=0.005) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_CCONJ,Redondance,pos_tag_density,"full:-0.10 (p=0.355) → beginning:-0.05 (p=0.638) ↑, middle:-0.08 (p=0.459) ↑, end:-0.24 (p=0.025) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_CCONJ,Langage Négatif,pos_tag_density,"full:0.15 (p=0.162) → beginning:0.20 (p=0.061) ↑, middle:-0.02 (p=0.820) ↓, end:0.14 (p=0.178) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_CCONJ,Métaphore,pos_tag_density,"full:-0.14 (p=0.179) → beginning:0.02 (p=0.863) ↑, middle:-0.21 (p=0.046) ↓, end:-0.17 (p=0.104) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_CCONJ,Discours,pos_tag_density,"full:0.13 (p=0.206) → beginning:0.04 (p=0.675) ↓, middle:0.02 (p=0.852) ↓, end:0.09 (p=0.412) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_CCONJ,L'introduction,pos_tag_density,"full:0.01 (p=0.925) → beginning:0.12 (p=0.264) ↑, middle:-0.02 (p=0.846) ↓, end:-0.08 (p=0.472) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_CCONJ,La conclusion,pos_tag_density,"full:-0.05 (p=0.615) → beginning:0.02 (p=0.838) ↑, middle:-0.05 (p=0.614) ↓, end:-0.04 (p=0.683) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_CCONJ,Persuasivité,pos_tag_density,"full:-0.04 (p=0.725) → beginning:-0.02 (p=0.873) ↑, middle:0.06 (p=0.569) ↑, end:-0.12 (p=0.271) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_CCONJ,Clarté du Langage,pos_tag_density,"full:-0.08 (p=0.462) → beginning:-0.05 (p=0.647) ↑, middle:-0.04 (p=0.734) ↑, end:-0.14 (p=0.192) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_CCONJ,Créativité du discours,pos_tag_density,"full:-0.10 (p=0.344) → beginning:-0.01 (p=0.957) ↑, middle:-0.25 (p=0.018) ↓, end:-0.04 (p=0.691) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_CCONJ,Global,pos_tag_density,"full:-0.05 (p=0.621) → beginning:-0.06 (p=0.545) ↓, middle:-0.02 (p=0.884) ↑, end:-0.06 (p=0.597) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_SCONJ,Présentation du Sujet,pos_tag_density,"full:0.08 (p=0.426) → beginning:0.06 (p=0.557) ↓, middle:0.14 (p=0.189) ↑, end:0.02 (p=0.883) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_SCONJ,Structure,pos_tag_density,"full:-0.03 (p=0.775) → beginning:-0.03 (p=0.759) ↓, middle:0.09 (p=0.425) ↑, end:-0.15 (p=0.159) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_SCONJ,Niveau de Langue,pos_tag_density,"full:-0.02 (p=0.825) → beginning:-0.15 (p=0.146) ↓, middle:0.13 (p=0.228) ↑, end:0.05 (p=0.640) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_SCONJ,Voix Passive,pos_tag_density,"full:-0.03 (p=0.798) → beginning:-0.18 (p=0.090) ↓, middle:0.21 (p=0.044) ↑, end:-0.09 (p=0.390) ↓",beginning_vs_middle; middle_vs_end,0.05,6,,0.01667,3,beginning_vs_middle,0.01667,3,,0.00833,6
+proportion_SCONJ,Concision,pos_tag_density,"full:0.11 (p=0.295) → beginning:-0.07 (p=0.525) ↓, middle:0.15 (p=0.155) ↑, end:0.09 (p=0.376) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_SCONJ,Redondance,pos_tag_density,"full:0.20 (p=0.065) → beginning:0.04 (p=0.732) ↓, middle:0.21 (p=0.049) ↑, end:0.08 (p=0.452) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_SCONJ,Langage Négatif,pos_tag_density,"full:-0.11 (p=0.320) → beginning:-0.26 (p=0.013) ↓, middle:0.10 (p=0.343) ↑, end:0.01 (p=0.904) ↑",beginning_vs_middle,0.05,6,,0.01667,3,beginning_vs_middle,0.01667,3,,0.00833,6
+proportion_SCONJ,Métaphore,pos_tag_density,"full:0.02 (p=0.821) → beginning:-0.06 (p=0.579) ↓, middle:0.06 (p=0.604) ↑, end:0.04 (p=0.697) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_SCONJ,Discours,pos_tag_density,"full:0.08 (p=0.459) → beginning:0.02 (p=0.830) ↓, middle:0.09 (p=0.411) ↑, end:-0.02 (p=0.844) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_SCONJ,L'introduction,pos_tag_density,"full:0.01 (p=0.950) → beginning:-0.09 (p=0.385) ↓, middle:0.04 (p=0.738) ↑, end:0.03 (p=0.780) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_SCONJ,La conclusion,pos_tag_density,"full:-0.07 (p=0.530) → beginning:-0.04 (p=0.727) ↑, middle:-0.10 (p=0.328) ↓, end:-0.01 (p=0.951) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_SCONJ,Persuasivité,pos_tag_density,"full:-0.08 (p=0.479) → beginning:-0.04 (p=0.730) ↑, middle:0.06 (p=0.597) ↑, end:-0.21 (p=0.050) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_SCONJ,Clarté du Langage,pos_tag_density,"full:-0.01 (p=0.932) → beginning:-0.02 (p=0.818) ↓, middle:0.02 (p=0.878) ↑, end:-0.00 (p=0.998) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_SCONJ,Créativité du discours,pos_tag_density,"full:0.08 (p=0.459) → beginning:0.02 (p=0.826) ↓, middle:0.11 (p=0.317) ↑, end:-0.00 (p=0.983) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_SCONJ,Global,pos_tag_density,"full:-0.16 (p=0.137) → beginning:-0.16 (p=0.134) ↓, middle:-0.05 (p=0.639) ↑, end:-0.08 (p=0.481) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_NUM,Présentation du Sujet,pos_tag_density,"full:-0.10 (p=0.345) → beginning:-0.04 (p=0.709) ↑, middle:-0.10 (p=0.360) ↑, end:-0.01 (p=0.937) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_NUM,Structure,pos_tag_density,"full:-0.17 (p=0.120) → beginning:-0.19 (p=0.081) ↓, middle:-0.01 (p=0.924) ↑, end:0.05 (p=0.637) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_NUM,Niveau de Langue,pos_tag_density,"full:-0.18 (p=0.081) → beginning:0.03 (p=0.777) ↑, middle:-0.19 (p=0.071) ↓, end:-0.16 (p=0.138) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_NUM,Voix Passive,pos_tag_density,"full:-0.25 (p=0.016) → beginning:-0.08 (p=0.452) ↑, middle:-0.12 (p=0.250) ↑, end:-0.27 (p=0.010) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_NUM,Concision,pos_tag_density,"full:-0.16 (p=0.141) → beginning:-0.04 (p=0.714) ↑, middle:-0.16 (p=0.135) ↓, end:-0.04 (p=0.740) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_NUM,Redondance,pos_tag_density,"full:-0.16 (p=0.143) → beginning:-0.21 (p=0.051) ↓, middle:-0.02 (p=0.887) ↑, end:0.02 (p=0.885) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_NUM,Langage Négatif,pos_tag_density,"full:-0.12 (p=0.268) → beginning:-0.07 (p=0.505) ↑, middle:-0.07 (p=0.537) ↑, end:-0.07 (p=0.528) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_NUM,Métaphore,pos_tag_density,"full:-0.36 (p=0.001) → beginning:-0.21 (p=0.042) ↑, middle:-0.20 (p=0.064) ↑, end:-0.16 (p=0.141) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_NUM,Discours,pos_tag_density,"full:-0.12 (p=0.241) → beginning:-0.12 (p=0.249) ↑, middle:0.02 (p=0.842) ↑, end:-0.09 (p=0.408) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_NUM,L'introduction,pos_tag_density,"full:-0.05 (p=0.619) → beginning:0.03 (p=0.766) ↑, middle:-0.14 (p=0.185) ↓, end:0.10 (p=0.341) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_NUM,La conclusion,pos_tag_density,"full:0.03 (p=0.799) → beginning:0.01 (p=0.928) ↓, middle:-0.01 (p=0.892) ↓, end:0.02 (p=0.845) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_NUM,Persuasivité,pos_tag_density,"full:-0.19 (p=0.072) → beginning:-0.12 (p=0.254) ↑, middle:-0.19 (p=0.066) ↓, end:-0.02 (p=0.851) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_NUM,Clarté du Langage,pos_tag_density,"full:-0.07 (p=0.504) → beginning:-0.01 (p=0.890) ↑, middle:-0.08 (p=0.478) ↓, end:-0.03 (p=0.815) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_NUM,Créativité du discours,pos_tag_density,"full:-0.17 (p=0.102) → beginning:-0.04 (p=0.705) ↑, middle:-0.18 (p=0.097) ↓, end:-0.09 (p=0.375) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_NUM,Global,pos_tag_density,"full:-0.13 (p=0.221) → beginning:0.01 (p=0.961) ↑, middle:-0.10 (p=0.339) ↑, end:-0.12 (p=0.269) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_PART,Présentation du Sujet,pos_tag_density,"full:nan (p=nan) → beginning:nan (p=nan) ?, middle:nan (p=nan) ?, end:nan (p=nan) ?",,0.05,0,,0.05,0,,0.05,0,,0.05,0
+proportion_PART,Structure,pos_tag_density,"full:nan (p=nan) → beginning:nan (p=nan) ?, middle:nan (p=nan) ?, end:nan (p=nan) ?",,0.05,0,,0.05,0,,0.05,0,,0.05,0
+proportion_PART,Niveau de Langue,pos_tag_density,"full:nan (p=nan) → beginning:nan (p=nan) ?, middle:nan (p=nan) ?, end:nan (p=nan) ?",,0.05,0,,0.05,0,,0.05,0,,0.05,0
+proportion_PART,Voix Passive,pos_tag_density,"full:nan (p=nan) → beginning:nan (p=nan) ?, middle:nan (p=nan) ?, end:nan (p=nan) ?",,0.05,0,,0.05,0,,0.05,0,,0.05,0
+proportion_PART,Concision,pos_tag_density,"full:nan (p=nan) → beginning:nan (p=nan) ?, middle:nan (p=nan) ?, end:nan (p=nan) ?",,0.05,0,,0.05,0,,0.05,0,,0.05,0
+proportion_PART,Redondance,pos_tag_density,"full:nan (p=nan) → beginning:nan (p=nan) ?, middle:nan (p=nan) ?, end:nan (p=nan) ?",,0.05,0,,0.05,0,,0.05,0,,0.05,0
+proportion_PART,Langage Négatif,pos_tag_density,"full:nan (p=nan) → beginning:nan (p=nan) ?, middle:nan (p=nan) ?, end:nan (p=nan) ?",,0.05,0,,0.05,0,,0.05,0,,0.05,0
+proportion_PART,Métaphore,pos_tag_density,"full:nan (p=nan) → beginning:nan (p=nan) ?, middle:nan (p=nan) ?, end:nan (p=nan) ?",,0.05,0,,0.05,0,,0.05,0,,0.05,0
+proportion_PART,Discours,pos_tag_density,"full:nan (p=nan) → beginning:nan (p=nan) ?, middle:nan (p=nan) ?, end:nan (p=nan) ?",,0.05,0,,0.05,0,,0.05,0,,0.05,0
+proportion_PART,L'introduction,pos_tag_density,"full:nan (p=nan) → beginning:nan (p=nan) ?, middle:nan (p=nan) ?, end:nan (p=nan) ?",,0.05,0,,0.05,0,,0.05,0,,0.05,0
+proportion_PART,La conclusion,pos_tag_density,"full:nan (p=nan) → beginning:nan (p=nan) ?, middle:nan (p=nan) ?, end:nan (p=nan) ?",,0.05,0,,0.05,0,,0.05,0,,0.05,0
+proportion_PART,Persuasivité,pos_tag_density,"full:nan (p=nan) → beginning:nan (p=nan) ?, middle:nan (p=nan) ?, end:nan (p=nan) ?",,0.05,0,,0.05,0,,0.05,0,,0.05,0
+proportion_PART,Clarté du Langage,pos_tag_density,"full:nan (p=nan) → beginning:nan (p=nan) ?, middle:nan (p=nan) ?, end:nan (p=nan) ?",,0.05,0,,0.05,0,,0.05,0,,0.05,0
+proportion_PART,Créativité du discours,pos_tag_density,"full:nan (p=nan) → beginning:nan (p=nan) ?, middle:nan (p=nan) ?, end:nan (p=nan) ?",,0.05,0,,0.05,0,,0.05,0,,0.05,0
+proportion_PART,Global,pos_tag_density,"full:nan (p=nan) → beginning:nan (p=nan) ?, middle:nan (p=nan) ?, end:nan (p=nan) ?",,0.05,0,,0.05,0,,0.05,0,,0.05,0
+proportion_SYM,Présentation du Sujet,pos_tag_density,"full:-0.24 (p=0.024) → beginning:0.06 (p=0.598) ↑, middle:-0.06 (p=0.548) ↑, end:-0.26 (p=0.015) ↓",full_vs_beginning; beginning_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_SYM,Structure,pos_tag_density,"full:-0.26 (p=0.012) → beginning:0.07 (p=0.497) ↑, middle:-0.12 (p=0.241) ↑, end:-0.35 (p=0.001) ↓",full_vs_beginning; beginning_vs_end,0.05,6,,0.01667,3,beginning_vs_end,0.01667,3,beginning_vs_end,0.00833,6
+proportion_SYM,Niveau de Langue,pos_tag_density,"full:-0.22 (p=0.037) → beginning:-0.13 (p=0.205) ↑, middle:-0.11 (p=0.281) ↑, end:-0.19 (p=0.069) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_SYM,Voix Passive,pos_tag_density,"full:-0.38 (p=0.000) → beginning:0.03 (p=0.793) ↑, middle:0.05 (p=0.674) ↑, end:-0.57 (p=0.000) ↓",full_vs_beginning; full_vs_middle; beginning_vs_end; middle_vs_end,0.05,6,full_vs_beginning; full_vs_middle,0.01667,3,beginning_vs_end; middle_vs_end,0.01667,3,full_vs_beginning; full_vs_middle; beginning_vs_end; middle_vs_end,0.00833,6
+proportion_SYM,Concision,pos_tag_density,"full:-0.27 (p=0.009) → beginning:-0.14 (p=0.185) ↑, middle:-0.02 (p=0.824) ↑, end:-0.36 (p=0.001) ↓",middle_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_SYM,Redondance,pos_tag_density,"full:-0.12 (p=0.263) → beginning:0.06 (p=0.598) ↑, middle:0.09 (p=0.397) ↑, end:-0.26 (p=0.015) ↓",beginning_vs_end; middle_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_SYM,Langage Négatif,pos_tag_density,"full:-0.19 (p=0.074) → beginning:-0.09 (p=0.422) ↑, middle:-0.14 (p=0.195) ↑, end:-0.12 (p=0.250) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_SYM,Métaphore,pos_tag_density,"full:-0.40 (p=0.000) → beginning:-0.36 (p=0.001) ↑, middle:-0.24 (p=0.026) ↑, end:-0.16 (p=0.132) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_SYM,Discours,pos_tag_density,"full:-0.14 (p=0.190) → beginning:0.10 (p=0.332) ↑, middle:-0.09 (p=0.425) ↑, end:-0.25 (p=0.018) ↓",beginning_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_SYM,L'introduction,pos_tag_density,"full:-0.06 (p=0.553) → beginning:0.16 (p=0.134) ↑, middle:-0.03 (p=0.811) ↑, end:-0.25 (p=0.018) ↓",beginning_vs_end,0.05,6,,0.01667,3,beginning_vs_end,0.01667,3,beginning_vs_end,0.00833,6
+proportion_SYM,La conclusion,pos_tag_density,"full:-0.05 (p=0.667) → beginning:0.06 (p=0.559) ↑, middle:0.05 (p=0.646) ↑, end:-0.21 (p=0.049) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_SYM,Persuasivité,pos_tag_density,"full:-0.06 (p=0.544) → beginning:0.10 (p=0.334) ↑, middle:-0.00 (p=1.000) ↑, end:-0.20 (p=0.058) ↓",beginning_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_SYM,Clarté du Langage,pos_tag_density,"full:-0.18 (p=0.086) → beginning:0.16 (p=0.128) ↑, middle:-0.10 (p=0.326) ↑, end:-0.24 (p=0.021) ↓",full_vs_beginning; beginning_vs_end,0.05,6,,0.01667,3,beginning_vs_end,0.01667,3,beginning_vs_end,0.00833,6
+proportion_SYM,Créativité du discours,pos_tag_density,"full:-0.15 (p=0.149) → beginning:-0.08 (p=0.482) ↑, middle:-0.01 (p=0.962) ↑, end:-0.21 (p=0.047) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_SYM,Global,pos_tag_density,"full:-0.12 (p=0.246) → beginning:0.18 (p=0.084) ↑, middle:-0.01 (p=0.946) ↑, end:-0.28 (p=0.007) ↓",full_vs_beginning; beginning_vs_end,0.05,6,,0.01667,3,beginning_vs_end,0.01667,3,beginning_vs_end,0.00833,6
+proportion_X,Présentation du Sujet,pos_tag_density,"full:-0.20 (p=0.064) → beginning:-0.15 (p=0.165) ↑, middle:-0.25 (p=0.018) ↓, end:0.09 (p=0.397) ↑",middle_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_X,Structure,pos_tag_density,"full:-0.17 (p=0.115) → beginning:-0.07 (p=0.517) ↑, middle:-0.33 (p=0.002) ↓, end:0.12 (p=0.273) ↑",middle_vs_end,0.05,6,,0.01667,3,middle_vs_end,0.01667,3,middle_vs_end,0.00833,6
+proportion_X,Niveau de Langue,pos_tag_density,"full:-0.03 (p=0.756) → beginning:0.07 (p=0.487) ↑, middle:-0.19 (p=0.069) ↓, end:-0.02 (p=0.839) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_X,Voix Passive,pos_tag_density,"full:-0.24 (p=0.025) → beginning:0.05 (p=0.614) ↑, middle:-0.56 (p=0.000) ↓, end:0.05 (p=0.674) ↑",full_vs_middle; beginning_vs_middle; middle_vs_end,0.05,6,full_vs_middle,0.01667,3,beginning_vs_middle; middle_vs_end,0.01667,3,beginning_vs_middle; middle_vs_end,0.00833,6
+proportion_X,Concision,pos_tag_density,"full:-0.21 (p=0.044) → beginning:0.01 (p=0.924) ↑, middle:-0.36 (p=0.001) ↓, end:-0.03 (p=0.781) ↑",beginning_vs_middle; middle_vs_end,0.05,6,,0.01667,3,beginning_vs_middle,0.01667,3,,0.00833,6
+proportion_X,Redondance,pos_tag_density,"full:-0.10 (p=0.350) → beginning:0.11 (p=0.310) ↑, middle:-0.42 (p=0.000) ↓, end:0.09 (p=0.397) ↑",full_vs_middle; beginning_vs_middle; middle_vs_end,0.05,6,,0.01667,3,beginning_vs_middle; middle_vs_end,0.01667,3,beginning_vs_middle; middle_vs_end,0.00833,6
+proportion_X,Langage Négatif,pos_tag_density,"full:-0.11 (p=0.314) → beginning:0.03 (p=0.748) ↑, middle:-0.12 (p=0.250) ↓, end:-0.14 (p=0.195) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_X,Métaphore,pos_tag_density,"full:-0.04 (p=0.739) → beginning:-0.08 (p=0.436) ↓, middle:0.10 (p=0.368) ↑, end:-0.16 (p=0.133) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_X,Discours,pos_tag_density,"full:-0.14 (p=0.199) → beginning:-0.07 (p=0.515) ↑, middle:-0.32 (p=0.002) ↓, end:0.07 (p=0.540) ↑",middle_vs_end,0.05,6,,0.01667,3,middle_vs_end,0.01667,3,,0.00833,6
+proportion_X,L'introduction,pos_tag_density,"full:0.05 (p=0.672) → beginning:0.07 (p=0.517) ↑, middle:-0.15 (p=0.172) ↓, end:0.16 (p=0.122) ↑",middle_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_X,La conclusion,pos_tag_density,"full:-0.06 (p=0.562) → beginning:0.00 (p=0.988) ↑, middle:-0.10 (p=0.358) ↓, end:-0.05 (p=0.668) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_X,Persuasivité,pos_tag_density,"full:0.06 (p=0.567) → beginning:0.05 (p=0.659) ↓, middle:-0.08 (p=0.456) ↓, end:0.21 (p=0.042) ↑",middle_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_X,Clarté du Langage,pos_tag_density,"full:-0.18 (p=0.090) → beginning:0.00 (p=0.969) ↑, middle:-0.35 (p=0.001) ↓, end:0.00 (p=1.000) ↑",beginning_vs_middle,0.05,3,,0.025,2,beginning_vs_middle,0.05,1,beginning_vs_middle,0.01667,3
+proportion_X,Créativité du discours,pos_tag_density,"full:-0.08 (p=0.444) → beginning:0.05 (p=0.662) ↑, middle:-0.11 (p=0.313) ↓, end:-0.12 (p=0.257) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+proportion_X,Global,pos_tag_density,"full:-0.17 (p=0.119) → beginning:-0.11 (p=0.315) ↑, middle:-0.14 (p=0.185) ↑, end:-0.01 (p=0.946) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_per_sentence,Présentation du Sujet,transitions,"full:0.12 (p=0.257) → beginning:0.07 (p=0.533) ↓, middle:0.11 (p=0.312) ↓, end:0.07 (p=0.529) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_per_sentence,Structure,transitions,"full:0.11 (p=0.299) → beginning:0.07 (p=0.505) ↓, middle:0.12 (p=0.257) ↑, end:0.05 (p=0.619) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_per_sentence,Niveau de Langue,transitions,"full:-0.11 (p=0.297) → beginning:-0.12 (p=0.241) ↓, middle:-0.05 (p=0.657) ↑, end:-0.02 (p=0.866) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_per_sentence,Voix Passive,transitions,"full:0.04 (p=0.713) → beginning:-0.12 (p=0.278) ↓, middle:0.10 (p=0.348) ↑, end:0.08 (p=0.434) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_per_sentence,Concision,transitions,"full:-0.00 (p=0.987) → beginning:-0.11 (p=0.319) ↓, middle:-0.03 (p=0.799) ↓, end:0.15 (p=0.170) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_per_sentence,Redondance,transitions,"full:0.14 (p=0.200) → beginning:0.01 (p=0.917) ↓, middle:0.15 (p=0.173) ↑, end:0.15 (p=0.152) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_per_sentence,Langage Négatif,transitions,"full:0.04 (p=0.678) → beginning:0.06 (p=0.566) ↑, middle:0.04 (p=0.723) ↓, end:0.04 (p=0.675) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_per_sentence,Métaphore,transitions,"full:-0.11 (p=0.313) → beginning:-0.03 (p=0.792) ↑, middle:-0.08 (p=0.439) ↑, end:-0.09 (p=0.385) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_per_sentence,Discours,transitions,"full:-0.04 (p=0.706) → beginning:-0.11 (p=0.292) ↓, middle:-0.00 (p=0.979) ↑, end:0.05 (p=0.649) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_per_sentence,L'introduction,transitions,"full:0.12 (p=0.268) → beginning:0.00 (p=0.984) ↓, middle:0.08 (p=0.453) ↓, end:0.14 (p=0.202) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_per_sentence,La conclusion,transitions,"full:0.01 (p=0.945) → beginning:0.04 (p=0.739) ↑, middle:-0.02 (p=0.866) ↓, end:0.05 (p=0.669) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_per_sentence,Persuasivité,transitions,"full:-0.02 (p=0.819) → beginning:-0.03 (p=0.756) ↓, middle:0.09 (p=0.378) ↑, end:-0.08 (p=0.428) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_per_sentence,Clarté du Langage,transitions,"full:-0.00 (p=0.982) → beginning:-0.06 (p=0.593) ↓, middle:-0.04 (p=0.729) ↓, end:0.11 (p=0.315) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_per_sentence,Créativité du discours,transitions,"full:-0.11 (p=0.287) → beginning:-0.09 (p=0.395) ↑, middle:-0.15 (p=0.167) ↓, end:-0.04 (p=0.714) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_per_sentence,Global,transitions,"full:-0.06 (p=0.592) → beginning:-0.13 (p=0.227) ↓, middle:-0.03 (p=0.807) ↑, end:0.00 (p=0.999) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_number,Présentation du Sujet,transitions,"full:0.19 (p=0.066) → beginning:0.14 (p=0.193) ↓, middle:0.18 (p=0.087) ↓, end:0.08 (p=0.481) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_number,Structure,transitions,"full:0.20 (p=0.059) → beginning:0.14 (p=0.183) ↓, middle:0.20 (p=0.059) ↑, end:0.07 (p=0.512) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_number,Niveau de Langue,transitions,"full:0.01 (p=0.945) → beginning:-0.01 (p=0.948) ↓, middle:-0.05 (p=0.638) ↓, end:0.05 (p=0.636) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_number,Voix Passive,transitions,"full:0.07 (p=0.488) → beginning:-0.06 (p=0.591) ↓, middle:0.12 (p=0.270) ↑, end:0.07 (p=0.502) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_number,Concision,transitions,"full:0.10 (p=0.355) → beginning:-0.06 (p=0.553) ↓, middle:0.02 (p=0.855) ↓, end:0.17 (p=0.119) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_number,Redondance,transitions,"full:0.18 (p=0.086) → beginning:0.03 (p=0.773) ↓, middle:0.12 (p=0.262) ↓, end:0.18 (p=0.096) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_number,Langage Négatif,transitions,"full:-0.02 (p=0.845) → beginning:0.04 (p=0.698) ↑, middle:-0.06 (p=0.590) ↓, end:0.00 (p=0.981) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_number,Métaphore,transitions,"full:0.01 (p=0.926) → beginning:0.15 (p=0.162) ↑, middle:-0.04 (p=0.717) ↓, end:-0.09 (p=0.385) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_number,Discours,transitions,"full:0.23 (p=0.033) → beginning:0.05 (p=0.661) ↓, middle:0.17 (p=0.100) ↓, end:0.19 (p=0.073) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_number,L'introduction,transitions,"full:0.15 (p=0.160) → beginning:0.04 (p=0.731) ↓, middle:0.05 (p=0.615) ↓, end:0.19 (p=0.072) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_number,La conclusion,transitions,"full:0.05 (p=0.667) → beginning:0.04 (p=0.708) ↓, middle:-0.02 (p=0.836) ↓, end:0.12 (p=0.273) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_number,Persuasivité,transitions,"full:0.06 (p=0.561) → beginning:0.05 (p=0.657) ↓, middle:0.14 (p=0.199) ↑, end:-0.05 (p=0.666) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_number,Clarté du Langage,transitions,"full:0.06 (p=0.544) → beginning:0.01 (p=0.899) ↓, middle:-0.03 (p=0.763) ↓, end:0.16 (p=0.127) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_number,Créativité du discours,transitions,"full:0.08 (p=0.441) → beginning:0.09 (p=0.383) ↑, middle:-0.05 (p=0.645) ↓, end:0.09 (p=0.384) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_number,Global,transitions,"full:-0.06 (p=0.593) → beginning:-0.11 (p=0.308) ↓, middle:-0.03 (p=0.747) ↑, end:0.01 (p=0.942) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_similarity_for_neighbour_sentenses,Présentation du Sujet,transitions,"full:-0.11 (p=0.296) → beginning:-0.14 (p=0.183) ↓, middle:-0.02 (p=0.835) ↑, end:0.03 (p=0.799) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_similarity_for_neighbour_sentenses,Structure,transitions,"full:-0.14 (p=0.190) → beginning:0.06 (p=0.582) ↑, middle:-0.01 (p=0.902) ↑, end:-0.15 (p=0.166) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_similarity_for_neighbour_sentenses,Niveau de Langue,transitions,"full:-0.21 (p=0.048) → beginning:-0.07 (p=0.493) ↑, middle:-0.08 (p=0.463) ↑, end:-0.18 (p=0.093) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_similarity_for_neighbour_sentenses,Voix Passive,transitions,"full:-0.03 (p=0.771) → beginning:-0.12 (p=0.275) ↓, middle:0.10 (p=0.347) ↑, end:-0.03 (p=0.775) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_similarity_for_neighbour_sentenses,Concision,transitions,"full:-0.19 (p=0.070) → beginning:0.02 (p=0.874) ↑, middle:-0.10 (p=0.337) ↑, end:-0.16 (p=0.136) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_similarity_for_neighbour_sentenses,Redondance,transitions,"full:-0.27 (p=0.010) → beginning:0.02 (p=0.850) ↑, middle:-0.09 (p=0.401) ↑, end:-0.29 (p=0.006) ↓",beginning_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_similarity_for_neighbour_sentenses,Langage Négatif,transitions,"full:-0.08 (p=0.440) → beginning:0.05 (p=0.638) ↑, middle:-0.18 (p=0.094) ↓, end:-0.09 (p=0.425) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_similarity_for_neighbour_sentenses,Métaphore,transitions,"full:-0.23 (p=0.030) → beginning:-0.11 (p=0.308) ↑, middle:-0.02 (p=0.843) ↑, end:-0.28 (p=0.008) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_similarity_for_neighbour_sentenses,Discours,transitions,"full:-0.07 (p=0.487) → beginning:-0.16 (p=0.124) ↓, middle:-0.01 (p=0.944) ↑, end:0.08 (p=0.439) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_similarity_for_neighbour_sentenses,L'introduction,transitions,"full:-0.22 (p=0.034) → beginning:-0.20 (p=0.065) ↑, middle:-0.05 (p=0.647) ↑, end:-0.19 (p=0.079) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_similarity_for_neighbour_sentenses,La conclusion,transitions,"full:-0.09 (p=0.401) → beginning:-0.08 (p=0.467) ↑, middle:0.01 (p=0.925) ↑, end:-0.02 (p=0.869) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_similarity_for_neighbour_sentenses,Persuasivité,transitions,"full:0.05 (p=0.642) → beginning:0.14 (p=0.175) ↑, middle:0.18 (p=0.088) ↑, end:-0.10 (p=0.358) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_similarity_for_neighbour_sentenses,Clarté du Langage,transitions,"full:-0.31 (p=0.003) → beginning:-0.25 (p=0.020) ↑, middle:-0.07 (p=0.502) ↑, end:-0.24 (p=0.021) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_similarity_for_neighbour_sentenses,Créativité du discours,transitions,"full:-0.26 (p=0.012) → beginning:-0.25 (p=0.018) ↑, middle:-0.05 (p=0.609) ↑, end:-0.18 (p=0.085) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transitions_similarity_for_neighbour_sentenses,Global,transitions,"full:-0.08 (p=0.454) → beginning:0.03 (p=0.756) ↑, middle:0.16 (p=0.128) ↑, end:-0.13 (p=0.231) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transition_types_count,Présentation du Sujet,transitions,"full:0.20 (p=0.061) → beginning:0.12 (p=0.280) ↓, middle:0.11 (p=0.324) ↓, end:0.13 (p=0.211) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transition_types_count,Structure,transitions,"full:0.24 (p=0.023) → beginning:0.04 (p=0.698) ↓, middle:0.10 (p=0.348) ↓, end:0.20 (p=0.059) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transition_types_count,Niveau de Langue,transitions,"full:-0.03 (p=0.795) → beginning:0.10 (p=0.365) ↑, middle:-0.06 (p=0.586) ↓, end:0.12 (p=0.257) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transition_types_count,Voix Passive,transitions,"full:0.07 (p=0.529) → beginning:0.09 (p=0.404) ↑, middle:0.08 (p=0.443) ↑, end:0.02 (p=0.874) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transition_types_count,Concision,transitions,"full:0.14 (p=0.197) → beginning:0.01 (p=0.932) ↓, middle:0.08 (p=0.444) ↓, end:0.26 (p=0.015) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transition_types_count,Redondance,transitions,"full:0.20 (p=0.064) → beginning:0.07 (p=0.531) ↓, middle:-0.02 (p=0.871) ↓, end:0.30 (p=0.004) ↑",middle_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transition_types_count,Langage Négatif,transitions,"full:0.04 (p=0.735) → beginning:0.05 (p=0.613) ↑, middle:-0.08 (p=0.447) ↓, end:-0.01 (p=0.962) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transition_types_count,Métaphore,transitions,"full:0.09 (p=0.403) → beginning:0.21 (p=0.044) ↑, middle:0.08 (p=0.467) ↓, end:0.01 (p=0.917) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transition_types_count,Discours,transitions,"full:0.08 (p=0.436) → beginning:-0.00 (p=0.973) ↓, middle:0.09 (p=0.399) ↑, end:0.16 (p=0.142) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transition_types_count,L'introduction,transitions,"full:0.17 (p=0.115) → beginning:-0.02 (p=0.845) ↓, middle:0.10 (p=0.354) ↓, end:0.20 (p=0.054) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transition_types_count,La conclusion,transitions,"full:0.15 (p=0.165) → beginning:0.03 (p=0.767) ↓, middle:0.04 (p=0.678) ↓, end:0.12 (p=0.245) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transition_types_count,Persuasivité,transitions,"full:0.09 (p=0.392) → beginning:0.07 (p=0.515) ↓, middle:0.18 (p=0.093) ↑, end:-0.04 (p=0.721) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transition_types_count,Clarté du Langage,transitions,"full:0.10 (p=0.363) → beginning:0.10 (p=0.328) ↑, middle:0.01 (p=0.922) ↓, end:0.29 (p=0.005) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transition_types_count,Créativité du discours,transitions,"full:-0.01 (p=0.952) → beginning:0.16 (p=0.132) ↑, middle:0.07 (p=0.516) ↑, end:0.08 (p=0.450) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+transition_types_count,Global,transitions,"full:-0.03 (p=0.753) → beginning:-0.01 (p=0.912) ↑, middle:-0.01 (p=0.904) ↑, end:-0.02 (p=0.831) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+expletives_count,Présentation du Sujet,transitions,"full:0.09 (p=0.409) → beginning:0.09 (p=0.377) ↑, middle:0.09 (p=0.407) ↑, end:0.02 (p=0.847) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+expletives_count,Structure,transitions,"full:0.03 (p=0.779) → beginning:0.09 (p=0.387) ↑, middle:0.02 (p=0.880) ↓, end:-0.04 (p=0.687) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+expletives_count,Niveau de Langue,transitions,"full:0.14 (p=0.192) → beginning:0.14 (p=0.176) ↑, middle:0.17 (p=0.102) ↑, end:0.01 (p=0.908) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+expletives_count,Voix Passive,transitions,"full:-0.05 (p=0.616) → beginning:0.09 (p=0.402) ↑, middle:0.09 (p=0.420) ↑, end:-0.21 (p=0.048) ↓",beginning_vs_end; middle_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+expletives_count,Concision,transitions,"full:0.05 (p=0.619) → beginning:0.05 (p=0.625) ↓, middle:0.12 (p=0.250) ↑, end:-0.01 (p=0.924) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+expletives_count,Redondance,transitions,"full:0.09 (p=0.409) → beginning:0.09 (p=0.377) ↑, middle:0.17 (p=0.103) ↑, end:-0.06 (p=0.561) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+expletives_count,Langage Négatif,transitions,"full:-0.11 (p=0.311) → beginning:-0.07 (p=0.537) ↑, middle:0.06 (p=0.585) ↑, end:-0.16 (p=0.138) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+expletives_count,Métaphore,transitions,"full:-0.02 (p=0.818) → beginning:0.07 (p=0.518) ↑, middle:-0.02 (p=0.885) ↑, end:-0.08 (p=0.433) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+expletives_count,Discours,transitions,"full:0.12 (p=0.280) → beginning:0.21 (p=0.048) ↑, middle:0.08 (p=0.471) ↓, end:-0.01 (p=0.913) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+expletives_count,L'introduction,transitions,"full:0.02 (p=0.865) → beginning:0.06 (p=0.547) ↑, middle:-0.08 (p=0.474) ↓, end:0.02 (p=0.886) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+expletives_count,La conclusion,transitions,"full:-0.12 (p=0.266) → beginning:-0.01 (p=0.942) ↑, middle:-0.04 (p=0.743) ↑, end:-0.16 (p=0.128) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+expletives_count,Persuasivité,transitions,"full:0.05 (p=0.639) → beginning:0.03 (p=0.774) ↓, middle:0.06 (p=0.578) ↑, end:0.04 (p=0.711) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+expletives_count,Clarté du Langage,transitions,"full:0.02 (p=0.815) → beginning:0.12 (p=0.258) ↑, middle:0.01 (p=0.897) ↓, end:0.01 (p=0.945) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+expletives_count,Créativité du discours,transitions,"full:0.08 (p=0.473) → beginning:0.09 (p=0.415) ↑, middle:0.04 (p=0.712) ↓, end:-0.06 (p=0.582) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+expletives_count,Global,transitions,"full:-0.03 (p=0.810) → beginning:0.05 (p=0.608) ↑, middle:-0.01 (p=0.898) ↑, end:-0.08 (p=0.445) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+polysyndeton_count,Présentation du Sujet,transitions,"full:-0.02 (p=0.880) → beginning:0.02 (p=0.827) ↑, middle:-0.02 (p=0.854) ↓, end:-0.04 (p=0.692) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+polysyndeton_count,Structure,transitions,"full:0.05 (p=0.607) → beginning:0.02 (p=0.885) ↓, middle:0.09 (p=0.390) ↑, end:0.02 (p=0.864) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+polysyndeton_count,Niveau de Langue,transitions,"full:0.00 (p=0.993) → beginning:-0.09 (p=0.392) ↓, middle:0.03 (p=0.756) ↑, end:0.03 (p=0.808) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+polysyndeton_count,Voix Passive,transitions,"full:0.07 (p=0.485) → beginning:0.00 (p=1.000) ↓, middle:0.01 (p=0.914) ↓, end:0.10 (p=0.372) ↑",,0.05,3,,0.025,2,,0.05,1,,0.01667,3
+polysyndeton_count,Concision,transitions,"full:-0.07 (p=0.511) → beginning:0.02 (p=0.876) ↑, middle:-0.03 (p=0.770) ↑, end:-0.07 (p=0.531) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+polysyndeton_count,Redondance,transitions,"full:-0.04 (p=0.721) → beginning:-0.12 (p=0.273) ↓, middle:0.07 (p=0.536) ↑, end:-0.02 (p=0.828) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+polysyndeton_count,Langage Négatif,transitions,"full:0.21 (p=0.048) → beginning:0.17 (p=0.108) ↓, middle:0.05 (p=0.666) ↓, end:0.22 (p=0.041) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+polysyndeton_count,Métaphore,transitions,"full:-0.15 (p=0.158) → beginning:-0.01 (p=0.899) ↑, middle:-0.22 (p=0.035) ↓, end:-0.12 (p=0.259) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+polysyndeton_count,Discours,transitions,"full:-0.01 (p=0.931) → beginning:-0.01 (p=0.907) ↓, middle:0.09 (p=0.397) ↑, end:-0.01 (p=0.903) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+polysyndeton_count,L'introduction,transitions,"full:0.08 (p=0.478) → beginning:0.04 (p=0.686) ↓, middle:0.08 (p=0.438) ↑, end:0.07 (p=0.488) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+polysyndeton_count,La conclusion,transitions,"full:0.12 (p=0.255) → beginning:-0.03 (p=0.789) ↓, middle:0.22 (p=0.036) ↑, end:0.12 (p=0.254) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+polysyndeton_count,Persuasivité,transitions,"full:0.06 (p=0.548) → beginning:0.03 (p=0.812) ↓, middle:0.14 (p=0.188) ↑, end:-0.04 (p=0.680) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+polysyndeton_count,Clarté du Langage,transitions,"full:0.00 (p=0.971) → beginning:-0.10 (p=0.330) ↓, middle:0.14 (p=0.203) ↑, end:-0.02 (p=0.849) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+polysyndeton_count,Créativité du discours,transitions,"full:-0.08 (p=0.477) → beginning:-0.11 (p=0.313) ↓, middle:-0.03 (p=0.781) ↑, end:-0.03 (p=0.747) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+polysyndeton_count,Global,transitions,"full:0.03 (p=0.760) → beginning:0.00 (p=0.987) ↓, middle:-0.05 (p=0.640) ↓, end:0.02 (p=0.838) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+asyndeton_count,Présentation du Sujet,transitions,"full:0.22 (p=0.034) → beginning:0.09 (p=0.406) ↓, middle:0.09 (p=0.378) ↓, end:0.28 (p=0.007) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+asyndeton_count,Structure,transitions,"full:0.29 (p=0.006) → beginning:0.25 (p=0.018) ↓, middle:0.14 (p=0.193) ↓, end:0.29 (p=0.006) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+asyndeton_count,Niveau de Langue,transitions,"full:0.26 (p=0.015) → beginning:0.24 (p=0.023) ↓, middle:0.12 (p=0.248) ↓, end:0.14 (p=0.203) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+asyndeton_count,Voix Passive,transitions,"full:0.13 (p=0.222) → beginning:0.15 (p=0.166) ↑, middle:0.01 (p=0.937) ↓, end:0.15 (p=0.149) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+asyndeton_count,Concision,transitions,"full:0.36 (p=0.000) → beginning:0.25 (p=0.017) ↓, middle:0.20 (p=0.056) ↓, end:0.34 (p=0.001) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+asyndeton_count,Redondance,transitions,"full:0.34 (p=0.001) → beginning:0.27 (p=0.010) ↓, middle:0.21 (p=0.050) ↓, end:0.31 (p=0.003) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+asyndeton_count,Langage Négatif,transitions,"full:-0.24 (p=0.021) → beginning:-0.16 (p=0.145) ↑, middle:-0.06 (p=0.580) ↑, end:-0.21 (p=0.048) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+asyndeton_count,Métaphore,transitions,"full:0.17 (p=0.100) → beginning:0.19 (p=0.075) ↑, middle:0.17 (p=0.113) ↓, end:0.12 (p=0.241) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+asyndeton_count,Discours,transitions,"full:0.23 (p=0.029) → beginning:0.14 (p=0.187) ↓, middle:0.27 (p=0.010) ↑, end:0.15 (p=0.154) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+asyndeton_count,L'introduction,transitions,"full:0.18 (p=0.094) → beginning:0.13 (p=0.225) ↓, middle:0.04 (p=0.705) ↓, end:0.18 (p=0.093) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+asyndeton_count,La conclusion,transitions,"full:0.15 (p=0.148) → beginning:0.17 (p=0.113) ↑, middle:0.05 (p=0.669) ↓, end:0.05 (p=0.638) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+asyndeton_count,Persuasivité,transitions,"full:0.31 (p=0.003) → beginning:0.30 (p=0.004) ↓, middle:0.18 (p=0.099) ↓, end:0.16 (p=0.143) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+asyndeton_count,Clarté du Langage,transitions,"full:0.32 (p=0.002) → beginning:0.27 (p=0.010) ↓, middle:0.21 (p=0.050) ↓, end:0.15 (p=0.160) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+asyndeton_count,Créativité du discours,transitions,"full:0.23 (p=0.026) → beginning:0.22 (p=0.038) ↓, middle:0.21 (p=0.050) ↓, end:0.09 (p=0.411) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+asyndeton_count,Global,transitions,"full:0.24 (p=0.025) → beginning:0.21 (p=0.043) ↓, middle:0.04 (p=0.740) ↓, end:0.16 (p=0.130) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+narrative_words,Présentation du Sujet,storytelling,"full:-0.12 (p=0.254) → beginning:-0.28 (p=0.008) ↓, middle:0.08 (p=0.473) ↑, end:-0.01 (p=0.960) ↑",beginning_vs_middle,0.05,6,,0.01667,3,beginning_vs_middle,0.01667,3,,0.00833,6
+narrative_words,Structure,storytelling,"full:0.00 (p=0.998) → beginning:-0.12 (p=0.274) ↓, middle:0.10 (p=0.362) ↑, end:0.02 (p=0.882) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+narrative_words,Niveau de Langue,storytelling,"full:0.10 (p=0.359) → beginning:0.02 (p=0.853) ↓, middle:0.09 (p=0.404) ↓, end:0.07 (p=0.505) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+narrative_words,Voix Passive,storytelling,"full:-0.00 (p=0.982) → beginning:-0.13 (p=0.224) ↓, middle:-0.02 (p=0.873) ↓, end:0.14 (p=0.203) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+narrative_words,Concision,storytelling,"full:0.04 (p=0.743) → beginning:-0.19 (p=0.077) ↓, middle:0.10 (p=0.363) ↑, end:0.14 (p=0.184) ↑",beginning_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+narrative_words,Redondance,storytelling,"full:0.22 (p=0.038) → beginning:-0.05 (p=0.656) ↓, middle:0.24 (p=0.023) ↑, end:0.24 (p=0.023) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+narrative_words,Langage Négatif,storytelling,"full:0.06 (p=0.587) → beginning:-0.02 (p=0.819) ↓, middle:0.00 (p=0.973) ↓, end:0.07 (p=0.511) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+narrative_words,Métaphore,storytelling,"full:0.08 (p=0.465) → beginning:0.06 (p=0.560) ↓, middle:0.08 (p=0.441) ↑, end:-0.02 (p=0.879) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+narrative_words,Discours,storytelling,"full:0.06 (p=0.558) → beginning:0.02 (p=0.886) ↓, middle:0.01 (p=0.914) ↓, end:0.12 (p=0.279) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+narrative_words,L'introduction,storytelling,"full:0.06 (p=0.601) → beginning:0.03 (p=0.758) ↓, middle:0.07 (p=0.524) ↑, end:0.08 (p=0.447) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+narrative_words,La conclusion,storytelling,"full:0.05 (p=0.673) → beginning:-0.08 (p=0.481) ↓, middle:-0.01 (p=0.950) ↓, end:0.15 (p=0.172) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+narrative_words,Persuasivité,storytelling,"full:0.08 (p=0.450) → beginning:0.00 (p=0.987) ↓, middle:0.01 (p=0.958) ↓, end:0.15 (p=0.149) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+narrative_words,Clarté du Langage,storytelling,"full:0.15 (p=0.151) → beginning:0.03 (p=0.797) ↓, middle:0.13 (p=0.231) ↓, end:0.18 (p=0.082) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+narrative_words,Créativité du discours,storytelling,"full:0.11 (p=0.308) → beginning:0.13 (p=0.218) ↑, middle:-0.01 (p=0.947) ↓, end:0.13 (p=0.217) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+narrative_words,Global,storytelling,"full:-0.10 (p=0.346) → beginning:-0.21 (p=0.052) ↓, middle:-0.06 (p=0.597) ↑, end:0.02 (p=0.820) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+comparison_count,Présentation du Sujet,storytelling,"full:0.05 (p=0.652) → beginning:-0.07 (p=0.529) ↓, middle:0.05 (p=0.664) ↓, end:0.12 (p=0.274) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+comparison_count,Structure,storytelling,"full:-0.02 (p=0.830) → beginning:-0.10 (p=0.330) ↓, middle:0.07 (p=0.493) ↑, end:-0.02 (p=0.864) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+comparison_count,Niveau de Langue,storytelling,"full:0.03 (p=0.794) → beginning:-0.07 (p=0.526) ↓, middle:0.04 (p=0.721) ↑, end:0.10 (p=0.372) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+comparison_count,Voix Passive,storytelling,"full:-0.01 (p=0.892) → beginning:-0.16 (p=0.123) ↓, middle:0.02 (p=0.880) ↑, end:0.07 (p=0.492) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+comparison_count,Concision,storytelling,"full:0.16 (p=0.126) → beginning:-0.17 (p=0.105) ↓, middle:0.27 (p=0.009) ↑, end:0.23 (p=0.031) ↑",full_vs_beginning; beginning_vs_middle; beginning_vs_end,0.05,6,,0.01667,3,beginning_vs_middle; beginning_vs_end,0.01667,3,beginning_vs_middle; beginning_vs_end,0.00833,6
+comparison_count,Redondance,storytelling,"full:0.12 (p=0.248) → beginning:-0.01 (p=0.923) ↓, middle:0.13 (p=0.228) ↑, end:0.12 (p=0.274) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+comparison_count,Langage Négatif,storytelling,"full:-0.16 (p=0.124) → beginning:-0.11 (p=0.299) ↑, middle:-0.07 (p=0.520) ↑, end:-0.18 (p=0.084) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+comparison_count,Métaphore,storytelling,"full:-0.00 (p=0.986) → beginning:-0.12 (p=0.274) ↓, middle:0.14 (p=0.193) ↑, end:-0.06 (p=0.571) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+comparison_count,Discours,storytelling,"full:0.13 (p=0.240) → beginning:-0.17 (p=0.115) ↓, middle:0.32 (p=0.002) ↑, end:0.13 (p=0.228) ↑",beginning_vs_middle; beginning_vs_end,0.05,6,,0.01667,3,beginning_vs_middle,0.01667,3,beginning_vs_middle,0.00833,6
+comparison_count,L'introduction,storytelling,"full:0.05 (p=0.643) → beginning:-0.09 (p=0.374) ↓, middle:0.03 (p=0.802) ↓, end:0.18 (p=0.089) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+comparison_count,La conclusion,storytelling,"full:0.01 (p=0.901) → beginning:-0.16 (p=0.120) ↓, middle:0.17 (p=0.106) ↑, end:0.05 (p=0.615) ↑",beginning_vs_middle,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+comparison_count,Persuasivité,storytelling,"full:0.04 (p=0.675) → beginning:-0.01 (p=0.944) ↓, middle:0.02 (p=0.848) ↓, end:0.09 (p=0.398) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+comparison_count,Clarté du Langage,storytelling,"full:0.06 (p=0.547) → beginning:-0.10 (p=0.340) ↓, middle:0.18 (p=0.093) ↑, end:0.07 (p=0.529) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+comparison_count,Créativité du discours,storytelling,"full:0.08 (p=0.482) → beginning:0.01 (p=0.935) ↓, middle:0.11 (p=0.295) ↑, end:0.07 (p=0.529) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+comparison_count,Global,storytelling,"full:0.03 (p=0.751) → beginning:-0.07 (p=0.491) ↓, middle:0.15 (p=0.171) ↑, end:0.03 (p=0.756) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+syntactic_diversity_mean,Présentation du Sujet,syntactic_diversity,"full:-0.09 (p=0.423) → beginning:-0.12 (p=0.242) ↓, middle:-0.03 (p=0.774) ↑, end:-0.18 (p=0.095) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+syntactic_diversity_mean,Structure,syntactic_diversity,"full:-0.18 (p=0.082) → beginning:-0.09 (p=0.389) ↑, middle:0.03 (p=0.746) ↑, end:-0.20 (p=0.058) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+syntactic_diversity_mean,Niveau de Langue,syntactic_diversity,"full:0.04 (p=0.681) → beginning:0.10 (p=0.337) ↑, middle:0.03 (p=0.778) ↓, end:0.07 (p=0.483) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+syntactic_diversity_mean,Voix Passive,syntactic_diversity,"full:0.01 (p=0.938) → beginning:0.03 (p=0.781) ↑, middle:0.04 (p=0.680) ↑, end:-0.18 (p=0.090) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+syntactic_diversity_mean,Concision,syntactic_diversity,"full:-0.05 (p=0.627) → beginning:-0.04 (p=0.707) ↑, middle:0.10 (p=0.370) ↑, end:-0.29 (p=0.006) ↓",middle_vs_end,0.05,6,,0.01667,3,middle_vs_end,0.01667,3,,0.00833,6
+syntactic_diversity_mean,Redondance,syntactic_diversity,"full:-0.12 (p=0.252) → beginning:0.08 (p=0.430) ↑, middle:0.03 (p=0.765) ↑, end:-0.22 (p=0.035) ↓",beginning_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+syntactic_diversity_mean,Langage Négatif,syntactic_diversity,"full:-0.01 (p=0.941) → beginning:-0.03 (p=0.752) ↓, middle:0.11 (p=0.313) ↑, end:0.01 (p=0.911) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+syntactic_diversity_mean,Métaphore,syntactic_diversity,"full:-0.10 (p=0.353) → beginning:-0.21 (p=0.047) ↓, middle:-0.14 (p=0.174) ↓, end:0.02 (p=0.817) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+syntactic_diversity_mean,Discours,syntactic_diversity,"full:0.18 (p=0.090) → beginning:0.29 (p=0.005) ↑, middle:0.11 (p=0.313) ↓, end:-0.07 (p=0.500) ↓",beginning_vs_end,0.05,6,,0.01667,3,beginning_vs_end,0.01667,3,,0.00833,6
+syntactic_diversity_mean,L'introduction,syntactic_diversity,"full:-0.15 (p=0.147) → beginning:-0.06 (p=0.579) ↑, middle:-0.08 (p=0.461) ↑, end:-0.23 (p=0.033) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+syntactic_diversity_mean,La conclusion,syntactic_diversity,"full:-0.22 (p=0.039) → beginning:0.02 (p=0.875) ↑, middle:-0.06 (p=0.561) ↑, end:-0.22 (p=0.033) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+syntactic_diversity_mean,Persuasivité,syntactic_diversity,"full:-0.12 (p=0.246) → beginning:-0.02 (p=0.884) ↑, middle:-0.04 (p=0.715) ↑, end:-0.08 (p=0.472) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+syntactic_diversity_mean,Clarté du Langage,syntactic_diversity,"full:-0.06 (p=0.583) → beginning:0.00 (p=0.983) ↑, middle:0.20 (p=0.061) ↑, end:-0.31 (p=0.003) ↓",beginning_vs_end; middle_vs_end,0.05,6,,0.01667,3,middle_vs_end,0.01667,3,middle_vs_end,0.00833,6
+syntactic_diversity_mean,Créativité du discours,syntactic_diversity,"full:-0.07 (p=0.518) → beginning:0.08 (p=0.460) ↑, middle:-0.10 (p=0.334) ↓, end:0.06 (p=0.589) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+syntactic_diversity_mean,Global,syntactic_diversity,"full:-0.05 (p=0.620) → beginning:-0.08 (p=0.482) ↓, middle:-0.03 (p=0.753) ↑, end:-0.08 (p=0.447) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+syntactic_diversity_error,Présentation du Sujet,syntactic_diversity,"full:-0.06 (p=0.553) → beginning:-0.24 (p=0.020) ↓, middle:-0.22 (p=0.038) ↓, end:-0.04 (p=0.700) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+syntactic_diversity_error,Structure,syntactic_diversity,"full:-0.05 (p=0.644) → beginning:-0.23 (p=0.026) ↓, middle:-0.08 (p=0.458) ↓, end:-0.12 (p=0.271) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+syntactic_diversity_error,Niveau de Langue,syntactic_diversity,"full:-0.10 (p=0.345) → beginning:-0.12 (p=0.248) ↓, middle:-0.22 (p=0.041) ↓, end:-0.08 (p=0.463) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+syntactic_diversity_error,Voix Passive,syntactic_diversity,"full:0.01 (p=0.956) → beginning:-0.07 (p=0.510) ↓, middle:-0.16 (p=0.124) ↓, end:-0.01 (p=0.956) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+syntactic_diversity_error,Concision,syntactic_diversity,"full:-0.13 (p=0.206) → beginning:-0.22 (p=0.041) ↓, middle:-0.18 (p=0.089) ↓, end:-0.07 (p=0.514) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+syntactic_diversity_error,Redondance,syntactic_diversity,"full:-0.21 (p=0.046) → beginning:-0.15 (p=0.156) ↑, middle:-0.12 (p=0.278) ↑, end:-0.23 (p=0.030) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+syntactic_diversity_error,Langage Négatif,syntactic_diversity,"full:-0.03 (p=0.759) → beginning:0.07 (p=0.532) ↑, middle:0.05 (p=0.641) ↑, end:0.07 (p=0.520) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+syntactic_diversity_error,Métaphore,syntactic_diversity,"full:-0.22 (p=0.041) → beginning:-0.19 (p=0.067) ↑, middle:-0.12 (p=0.244) ↑, end:-0.06 (p=0.602) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+syntactic_diversity_error,Discours,syntactic_diversity,"full:0.07 (p=0.527) → beginning:-0.14 (p=0.201) ↓, middle:-0.32 (p=0.002) ↓, end:-0.15 (p=0.158) ↓",full_vs_middle,0.05,6,full_vs_middle,0.01667,3,,0.01667,3,,0.00833,6
+syntactic_diversity_error,L'introduction,syntactic_diversity,"full:-0.17 (p=0.099) → beginning:-0.07 (p=0.532) ↑, middle:-0.10 (p=0.370) ↑, end:-0.16 (p=0.143) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+syntactic_diversity_error,La conclusion,syntactic_diversity,"full:-0.06 (p=0.567) → beginning:-0.09 (p=0.411) ↓, middle:-0.07 (p=0.512) ↓, end:-0.14 (p=0.202) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+syntactic_diversity_error,Persuasivité,syntactic_diversity,"full:-0.12 (p=0.265) → beginning:-0.14 (p=0.190) ↓, middle:-0.06 (p=0.603) ↑, end:-0.20 (p=0.060) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+syntactic_diversity_error,Clarté du Langage,syntactic_diversity,"full:-0.13 (p=0.239) → beginning:-0.16 (p=0.124) ↓, middle:-0.06 (p=0.565) ↑, end:-0.17 (p=0.102) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+syntactic_diversity_error,Créativité du discours,syntactic_diversity,"full:-0.14 (p=0.176) → beginning:-0.21 (p=0.043) ↓, middle:-0.36 (p=0.000) ↓, end:0.01 (p=0.912) ↑",middle_vs_end,0.05,6,,0.01667,3,middle_vs_end,0.01667,3,,0.00833,6
+syntactic_diversity_error,Global,syntactic_diversity,"full:0.04 (p=0.719) → beginning:-0.20 (p=0.065) ↓, middle:-0.02 (p=0.870) ↓, end:-0.04 (p=0.702) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+ttr,Présentation du Sujet,lexical_diversity,"full:-0.23 (p=0.033) → beginning:-0.13 (p=0.239) ↑, middle:-0.11 (p=0.286) ↑, end:-0.16 (p=0.140) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+ttr,Structure,lexical_diversity,"full:-0.34 (p=0.001) → beginning:-0.20 (p=0.057) ↑, middle:-0.14 (p=0.204) ↑, end:-0.29 (p=0.006) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+ttr,Niveau de Langue,lexical_diversity,"full:-0.16 (p=0.137) → beginning:-0.11 (p=0.292) ↑, middle:-0.08 (p=0.456) ↑, end:-0.12 (p=0.244) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+ttr,Voix Passive,lexical_diversity,"full:-0.15 (p=0.155) → beginning:-0.09 (p=0.384) ↑, middle:0.01 (p=0.938) ↑, end:-0.21 (p=0.051) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+ttr,Concision,lexical_diversity,"full:-0.26 (p=0.014) → beginning:0.04 (p=0.740) ↑, middle:-0.04 (p=0.699) ↑, end:-0.32 (p=0.002) ↓",full_vs_beginning; beginning_vs_end,0.05,6,,0.01667,3,beginning_vs_end,0.01667,3,,0.00833,6
+ttr,Redondance,lexical_diversity,"full:-0.28 (p=0.008) → beginning:-0.05 (p=0.629) ↑, middle:-0.10 (p=0.368) ↑, end:-0.35 (p=0.001) ↓",beginning_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+ttr,Langage Négatif,lexical_diversity,"full:0.01 (p=0.930) → beginning:-0.08 (p=0.436) ↓, middle:0.16 (p=0.135) ↑, end:0.04 (p=0.720) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+ttr,Métaphore,lexical_diversity,"full:-0.23 (p=0.033) → beginning:-0.32 (p=0.002) ↓, middle:-0.07 (p=0.542) ↑, end:0.01 (p=0.928) ↑",beginning_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+ttr,Discours,lexical_diversity,"full:-0.19 (p=0.072) → beginning:-0.00 (p=0.983) ↑, middle:-0.11 (p=0.323) ↑, end:-0.16 (p=0.127) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+ttr,L'introduction,lexical_diversity,"full:-0.21 (p=0.042) → beginning:0.02 (p=0.843) ↑, middle:-0.15 (p=0.158) ↑, end:-0.26 (p=0.015) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+ttr,La conclusion,lexical_diversity,"full:-0.16 (p=0.132) → beginning:-0.10 (p=0.330) ↑, middle:-0.10 (p=0.362) ↑, end:-0.16 (p=0.121) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+ttr,Persuasivité,lexical_diversity,"full:-0.24 (p=0.026) → beginning:-0.10 (p=0.351) ↑, middle:-0.18 (p=0.094) ↑, end:-0.16 (p=0.124) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+ttr,Clarté du Langage,lexical_diversity,"full:-0.22 (p=0.037) → beginning:-0.10 (p=0.355) ↑, middle:0.04 (p=0.738) ↑, end:-0.31 (p=0.003) ↓",middle_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+ttr,Créativité du discours,lexical_diversity,"full:-0.21 (p=0.050) → beginning:-0.08 (p=0.427) ↑, middle:-0.16 (p=0.136) ↑, end:-0.13 (p=0.211) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+ttr,Global,lexical_diversity,"full:-0.14 (p=0.179) → beginning:-0.07 (p=0.497) ↑, middle:-0.00 (p=0.981) ↑, end:-0.10 (p=0.349) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+mtld,Présentation du Sujet,lexical_diversity,"full:0.02 (p=0.888) → beginning:-0.07 (p=0.513) ↓, middle:-0.11 (p=0.306) ↓, end:-0.03 (p=0.774) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+mtld,Structure,lexical_diversity,"full:0.18 (p=0.094) → beginning:-0.09 (p=0.424) ↓, middle:0.09 (p=0.385) ↓, end:0.14 (p=0.203) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+mtld,Niveau de Langue,lexical_diversity,"full:0.30 (p=0.004) → beginning:0.23 (p=0.031) ↓, middle:0.23 (p=0.029) ↓, end:0.07 (p=0.509) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+mtld,Voix Passive,lexical_diversity,"full:0.07 (p=0.496) → beginning:-0.00 (p=0.973) ↓, middle:0.13 (p=0.223) ↑, end:-0.06 (p=0.600) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+mtld,Concision,lexical_diversity,"full:0.13 (p=0.236) → beginning:0.00 (p=0.982) ↓, middle:0.10 (p=0.353) ↓, end:0.08 (p=0.472) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+mtld,Redondance,lexical_diversity,"full:0.34 (p=0.001) → beginning:0.11 (p=0.295) ↓, middle:0.29 (p=0.006) ↓, end:0.21 (p=0.043) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+mtld,Langage Négatif,lexical_diversity,"full:-0.06 (p=0.576) → beginning:-0.10 (p=0.370) ↓, middle:-0.05 (p=0.635) ↑, end:-0.05 (p=0.621) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+mtld,Métaphore,lexical_diversity,"full:0.08 (p=0.439) → beginning:-0.01 (p=0.898) ↓, middle:0.07 (p=0.494) ↓, end:0.01 (p=0.917) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+mtld,Discours,lexical_diversity,"full:0.04 (p=0.692) → beginning:-0.03 (p=0.812) ↓, middle:0.05 (p=0.667) ↑, end:-0.07 (p=0.529) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+mtld,L'introduction,lexical_diversity,"full:0.19 (p=0.077) → beginning:0.04 (p=0.739) ↓, middle:0.10 (p=0.359) ↓, end:0.08 (p=0.435) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+mtld,La conclusion,lexical_diversity,"full:0.03 (p=0.797) → beginning:-0.05 (p=0.608) ↓, middle:-0.04 (p=0.712) ↓, end:0.03 (p=0.813) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+mtld,Persuasivité,lexical_diversity,"full:0.04 (p=0.743) → beginning:-0.10 (p=0.345) ↓, middle:-0.06 (p=0.591) ↓, end:0.04 (p=0.723) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+mtld,Clarté du Langage,lexical_diversity,"full:0.26 (p=0.012) → beginning:0.07 (p=0.498) ↓, middle:0.17 (p=0.113) ↓, end:0.13 (p=0.206) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+mtld,Créativité du discours,lexical_diversity,"full:0.21 (p=0.050) → beginning:0.25 (p=0.017) ↑, middle:0.20 (p=0.053) ↓, end:-0.04 (p=0.699) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+mtld,Global,lexical_diversity,"full:0.04 (p=0.686) → beginning:-0.09 (p=0.417) ↓, middle:0.04 (p=0.729) ↓, end:-0.08 (p=0.473) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+passive_voice_count,Présentation du Sujet,passive_voice,"full:-0.21 (p=0.045) → beginning:-0.17 (p=0.102) ↑, middle:-0.14 (p=0.192) ↑, end:-0.02 (p=0.836) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+passive_voice_count,Structure,passive_voice,"full:-0.08 (p=0.442) → beginning:-0.07 (p=0.520) ↑, middle:-0.02 (p=0.853) ↑, end:0.05 (p=0.632) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+passive_voice_count,Niveau de Langue,passive_voice,"full:-0.14 (p=0.200) → beginning:-0.05 (p=0.668) ↑, middle:-0.02 (p=0.828) ↑, end:-0.16 (p=0.122) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+passive_voice_count,Voix Passive,passive_voice,"full:-0.09 (p=0.413) → beginning:-0.03 (p=0.803) ↑, middle:-0.10 (p=0.346) ↓, end:-0.05 (p=0.622) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+passive_voice_count,Concision,passive_voice,"full:-0.15 (p=0.151) → beginning:-0.05 (p=0.664) ↑, middle:-0.02 (p=0.823) ↑, end:-0.16 (p=0.134) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+passive_voice_count,Redondance,passive_voice,"full:-0.08 (p=0.454) → beginning:-0.02 (p=0.856) ↑, middle:-0.02 (p=0.821) ↑, end:-0.04 (p=0.735) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+passive_voice_count,Langage Négatif,passive_voice,"full:0.19 (p=0.073) → beginning:0.19 (p=0.066) ↑, middle:0.22 (p=0.038) ↑, end:-0.08 (p=0.441) ↓",middle_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+passive_voice_count,Métaphore,passive_voice,"full:-0.03 (p=0.744) → beginning:0.04 (p=0.704) ↑, middle:-0.02 (p=0.841) ↑, end:-0.08 (p=0.451) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+passive_voice_count,Discours,passive_voice,"full:-0.13 (p=0.206) → beginning:-0.06 (p=0.575) ↑, middle:-0.12 (p=0.246) ↑, end:-0.10 (p=0.344) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+passive_voice_count,L'introduction,passive_voice,"full:-0.02 (p=0.857) → beginning:0.06 (p=0.569) ↑, middle:-0.04 (p=0.707) ↓, end:-0.04 (p=0.737) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+passive_voice_count,La conclusion,passive_voice,"full:-0.22 (p=0.039) → beginning:-0.13 (p=0.205) ↑, middle:-0.19 (p=0.071) ↑, end:-0.14 (p=0.200) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+passive_voice_count,Persuasivité,passive_voice,"full:0.01 (p=0.953) → beginning:0.13 (p=0.208) ↑, middle:-0.16 (p=0.130) ↓, end:-0.03 (p=0.744) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+passive_voice_count,Clarté du Langage,passive_voice,"full:-0.09 (p=0.419) → beginning:-0.04 (p=0.706) ↑, middle:-0.10 (p=0.328) ↓, end:0.02 (p=0.825) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+passive_voice_count,Créativité du discours,passive_voice,"full:-0.10 (p=0.330) → beginning:-0.01 (p=0.942) ↑, middle:-0.06 (p=0.546) ↑, end:-0.12 (p=0.256) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+passive_voice_count,Global,passive_voice,"full:0.06 (p=0.594) → beginning:0.16 (p=0.123) ↑, middle:-0.16 (p=0.129) ↓, end:0.08 (p=0.446) ↑",beginning_vs_middle,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+negation_count,Présentation du Sujet,negation,"full:0.00 (p=0.980) → beginning:-0.15 (p=0.165) ↓, middle:0.01 (p=0.950) ↑, end:0.08 (p=0.449) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+negation_count,Structure,negation,"full:-0.03 (p=0.806) → beginning:-0.19 (p=0.076) ↓, middle:0.00 (p=0.994) ↑, end:0.10 (p=0.355) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+negation_count,Niveau de Langue,negation,"full:-0.03 (p=0.780) → beginning:0.00 (p=0.997) ↑, middle:-0.18 (p=0.097) ↓, end:0.19 (p=0.067) ↑",middle_vs_end,0.05,6,,0.01667,3,middle_vs_end,0.01667,3,,0.00833,6
+negation_count,Voix Passive,negation,"full:-0.05 (p=0.653) → beginning:-0.07 (p=0.540) ↓, middle:-0.07 (p=0.519) ↓, end:0.03 (p=0.792) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+negation_count,Concision,negation,"full:-0.00 (p=0.978) → beginning:-0.17 (p=0.114) ↓, middle:-0.02 (p=0.846) ↓, end:0.11 (p=0.302) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+negation_count,Redondance,negation,"full:0.05 (p=0.653) → beginning:-0.07 (p=0.530) ↓, middle:-0.08 (p=0.434) ↓, end:0.16 (p=0.130) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+negation_count,Langage Négatif,negation,"full:0.03 (p=0.771) → beginning:0.10 (p=0.330) ↑, middle:0.01 (p=0.954) ↓, end:-0.06 (p=0.601) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+negation_count,Métaphore,negation,"full:-0.02 (p=0.873) → beginning:-0.04 (p=0.714) ↓, middle:-0.00 (p=0.967) ↑, end:0.06 (p=0.558) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+negation_count,Discours,negation,"full:0.18 (p=0.096) → beginning:0.01 (p=0.941) ↓, middle:0.13 (p=0.229) ↓, end:0.19 (p=0.075) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+negation_count,L'introduction,negation,"full:0.07 (p=0.521) → beginning:-0.09 (p=0.393) ↓, middle:-0.04 (p=0.683) ↓, end:0.23 (p=0.031) ↑",beginning_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+negation_count,La conclusion,negation,"full:-0.06 (p=0.562) → beginning:-0.03 (p=0.747) ↑, middle:-0.12 (p=0.271) ↓, end:0.00 (p=1.000) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+negation_count,Persuasivité,negation,"full:-0.01 (p=0.940) → beginning:-0.14 (p=0.195) ↓, middle:0.08 (p=0.442) ↑, end:0.03 (p=0.801) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+negation_count,Clarté du Langage,negation,"full:-0.04 (p=0.729) → beginning:-0.05 (p=0.611) ↓, middle:-0.10 (p=0.359) ↓, end:0.07 (p=0.519) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+negation_count,Créativité du discours,negation,"full:-0.03 (p=0.760) → beginning:0.04 (p=0.691) ↑, middle:-0.11 (p=0.290) ↓, end:0.09 (p=0.382) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+negation_count,Global,negation,"full:-0.13 (p=0.217) → beginning:-0.13 (p=0.231) ↑, middle:-0.12 (p=0.270) ↑, end:-0.12 (p=0.279) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_NOUN_overlap,Présentation du Sujet,overlap,"full:0.11 (p=0.298) → beginning:0.12 (p=0.259) ↑, middle:0.00 (p=0.990) ↓, end:0.06 (p=0.568) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_NOUN_overlap,Structure,overlap,"full:0.04 (p=0.693) → beginning:0.10 (p=0.361) ↑, middle:-0.07 (p=0.511) ↓, end:0.09 (p=0.385) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_NOUN_overlap,Niveau de Langue,overlap,"full:-0.28 (p=0.008) → beginning:-0.24 (p=0.020) ↑, middle:-0.16 (p=0.144) ↑, end:-0.08 (p=0.432) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_NOUN_overlap,Voix Passive,overlap,"full:-0.04 (p=0.713) → beginning:0.12 (p=0.270) ↑, middle:-0.16 (p=0.129) ↓, end:0.04 (p=0.695) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_NOUN_overlap,Concision,overlap,"full:0.05 (p=0.639) → beginning:0.02 (p=0.868) ↓, middle:-0.00 (p=0.974) ↓, end:0.08 (p=0.437) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_NOUN_overlap,Redondance,overlap,"full:-0.10 (p=0.358) → beginning:0.03 (p=0.758) ↑, middle:-0.05 (p=0.628) ↑, end:-0.09 (p=0.393) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_NOUN_overlap,Langage Négatif,overlap,"full:-0.00 (p=0.967) → beginning:0.01 (p=0.933) ↑, middle:-0.14 (p=0.174) ↓, end:0.17 (p=0.118) ↑",middle_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_NOUN_overlap,Métaphore,overlap,"full:0.03 (p=0.813) → beginning:-0.06 (p=0.579) ↓, middle:0.06 (p=0.600) ↑, end:0.14 (p=0.185) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_NOUN_overlap,Discours,overlap,"full:-0.25 (p=0.018) → beginning:-0.21 (p=0.053) ↑, middle:-0.18 (p=0.096) ↑, end:-0.10 (p=0.342) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_NOUN_overlap,L'introduction,overlap,"full:0.03 (p=0.812) → beginning:0.04 (p=0.690) ↑, middle:-0.09 (p=0.398) ↓, end:0.12 (p=0.259) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_NOUN_overlap,La conclusion,overlap,"full:0.10 (p=0.345) → beginning:-0.00 (p=0.996) ↓, middle:0.13 (p=0.216) ↑, end:0.10 (p=0.361) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_NOUN_overlap,Persuasivité,overlap,"full:-0.03 (p=0.804) → beginning:0.02 (p=0.862) ↑, middle:0.02 (p=0.834) ↑, end:-0.05 (p=0.669) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_NOUN_overlap,Clarté du Langage,overlap,"full:-0.13 (p=0.220) → beginning:-0.09 (p=0.401) ↑, middle:-0.19 (p=0.072) ↓, end:-0.02 (p=0.854) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_NOUN_overlap,Créativité du discours,overlap,"full:-0.19 (p=0.079) → beginning:-0.22 (p=0.034) ↓, middle:-0.07 (p=0.492) ↑, end:-0.03 (p=0.789) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_NOUN_overlap,Global,overlap,"full:0.02 (p=0.861) → beginning:0.05 (p=0.608) ↑, middle:-0.05 (p=0.617) ↓, end:0.09 (p=0.386) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_content_overlap,Présentation du Sujet,overlap,"full:0.20 (p=0.065) → beginning:0.11 (p=0.315) ↓, middle:0.11 (p=0.315) ↓, end:0.18 (p=0.081) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_content_overlap,Structure,overlap,"full:0.20 (p=0.061) → beginning:0.12 (p=0.280) ↓, middle:0.05 (p=0.613) ↓, end:0.27 (p=0.010) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_content_overlap,Niveau de Langue,overlap,"full:-0.12 (p=0.274) → beginning:-0.14 (p=0.180) ↓, middle:-0.10 (p=0.347) ↑, end:-0.02 (p=0.866) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_content_overlap,Voix Passive,overlap,"full:0.05 (p=0.632) → beginning:-0.01 (p=0.911) ↓, middle:-0.02 (p=0.832) ↓, end:0.12 (p=0.259) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_content_overlap,Concision,overlap,"full:0.08 (p=0.439) → beginning:-0.04 (p=0.740) ↓, middle:-0.03 (p=0.770) ↓, end:0.25 (p=0.019) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_content_overlap,Redondance,overlap,"full:0.13 (p=0.232) → beginning:-0.01 (p=0.908) ↓, middle:0.06 (p=0.565) ↓, end:0.18 (p=0.083) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_content_overlap,Langage Négatif,overlap,"full:-0.00 (p=0.978) → beginning:0.08 (p=0.467) ↑, middle:-0.14 (p=0.185) ↓, end:0.04 (p=0.703) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_content_overlap,Métaphore,overlap,"full:0.08 (p=0.475) → beginning:-0.01 (p=0.908) ↓, middle:0.14 (p=0.186) ↑, end:0.08 (p=0.478) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_content_overlap,Discours,overlap,"full:-0.17 (p=0.108) → beginning:-0.25 (p=0.017) ↓, middle:-0.07 (p=0.527) ↑, end:-0.04 (p=0.716) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_content_overlap,L'introduction,overlap,"full:0.19 (p=0.066) → beginning:0.10 (p=0.353) ↓, middle:0.07 (p=0.521) ↓, end:0.16 (p=0.134) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_content_overlap,La conclusion,overlap,"full:0.17 (p=0.103) → beginning:0.11 (p=0.288) ↓, middle:0.11 (p=0.310) ↓, end:0.13 (p=0.233) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_content_overlap,Persuasivité,overlap,"full:0.05 (p=0.619) → beginning:0.03 (p=0.754) ↓, middle:0.01 (p=0.893) ↓, end:-0.03 (p=0.779) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_content_overlap,Clarté du Langage,overlap,"full:0.03 (p=0.795) → beginning:-0.03 (p=0.768) ↓, middle:-0.16 (p=0.133) ↓, end:0.17 (p=0.100) ↑",middle_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_content_overlap,Créativité du discours,overlap,"full:-0.08 (p=0.464) → beginning:-0.17 (p=0.113) ↓, middle:0.02 (p=0.873) ↑, end:-0.08 (p=0.461) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+local_content_overlap,Global,overlap,"full:0.10 (p=0.371) → beginning:0.05 (p=0.635) ↓, middle:-0.02 (p=0.864) ↓, end:0.10 (p=0.371) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_NOUN_overlap,Présentation du Sujet,overlap,"full:0.28 (p=0.008) → beginning:0.27 (p=0.010) ↓, middle:0.07 (p=0.541) ↓, end:0.17 (p=0.112) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_NOUN_overlap,Structure,overlap,"full:0.19 (p=0.074) → beginning:0.11 (p=0.304) ↓, middle:0.06 (p=0.578) ↓, end:0.25 (p=0.019) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_NOUN_overlap,Niveau de Langue,overlap,"full:-0.18 (p=0.099) → beginning:-0.10 (p=0.343) ↑, middle:-0.20 (p=0.059) ↓, end:-0.03 (p=0.812) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_NOUN_overlap,Voix Passive,overlap,"full:0.09 (p=0.402) → beginning:0.19 (p=0.079) ↑, middle:-0.14 (p=0.194) ↓, end:0.16 (p=0.142) ↑",beginning_vs_middle,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_NOUN_overlap,Concision,overlap,"full:0.11 (p=0.311) → beginning:0.01 (p=0.903) ↓, middle:0.05 (p=0.647) ↓, end:0.24 (p=0.023) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_NOUN_overlap,Redondance,overlap,"full:0.01 (p=0.922) → beginning:0.02 (p=0.864) ↑, middle:-0.02 (p=0.874) ↓, end:0.07 (p=0.517) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_NOUN_overlap,Langage Négatif,overlap,"full:-0.08 (p=0.431) → beginning:-0.06 (p=0.563) ↑, middle:-0.13 (p=0.207) ↓, end:0.10 (p=0.363) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_NOUN_overlap,Métaphore,overlap,"full:0.12 (p=0.266) → beginning:0.07 (p=0.522) ↓, middle:0.06 (p=0.544) ↓, end:0.14 (p=0.194) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_NOUN_overlap,Discours,overlap,"full:-0.11 (p=0.299) → beginning:-0.15 (p=0.155) ↓, middle:-0.14 (p=0.197) ↓, end:0.06 (p=0.566) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_NOUN_overlap,L'introduction,overlap,"full:0.15 (p=0.146) → beginning:0.21 (p=0.043) ↑, middle:0.00 (p=0.994) ↓, end:0.22 (p=0.037) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_NOUN_overlap,La conclusion,overlap,"full:0.11 (p=0.308) → beginning:0.11 (p=0.286) ↑, middle:0.10 (p=0.369) ↓, end:0.16 (p=0.138) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_NOUN_overlap,Persuasivité,overlap,"full:0.08 (p=0.434) → beginning:0.22 (p=0.041) ↑, middle:0.02 (p=0.882) ↓, end:0.05 (p=0.657) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_NOUN_overlap,Clarté du Langage,overlap,"full:-0.03 (p=0.811) → beginning:-0.02 (p=0.884) ↑, middle:-0.15 (p=0.158) ↓, end:0.16 (p=0.127) ↑",middle_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_NOUN_overlap,Créativité du discours,overlap,"full:-0.11 (p=0.307) → beginning:-0.06 (p=0.589) ↑, middle:-0.09 (p=0.386) ↑, end:0.01 (p=0.951) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_NOUN_overlap,Global,overlap,"full:-0.00 (p=0.990) → beginning:0.15 (p=0.155) ↑, middle:-0.06 (p=0.585) ↓, end:0.06 (p=0.550) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_content_overlap,Présentation du Sujet,overlap,"full:0.21 (p=0.045) → beginning:0.20 (p=0.058) ↓, middle:0.13 (p=0.237) ↓, end:0.19 (p=0.067) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_content_overlap,Structure,overlap,"full:0.28 (p=0.009) → beginning:0.19 (p=0.080) ↓, middle:0.14 (p=0.185) ↓, end:0.30 (p=0.004) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_content_overlap,Niveau de Langue,overlap,"full:0.13 (p=0.207) → beginning:0.11 (p=0.284) ↓, middle:0.10 (p=0.343) ↓, end:0.05 (p=0.626) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_content_overlap,Voix Passive,overlap,"full:0.01 (p=0.956) → beginning:0.03 (p=0.763) ↑, middle:-0.05 (p=0.664) ↓, end:0.05 (p=0.616) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_content_overlap,Concision,overlap,"full:0.16 (p=0.143) → beginning:0.04 (p=0.675) ↓, middle:0.06 (p=0.551) ↓, end:0.28 (p=0.008) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_content_overlap,Redondance,overlap,"full:0.18 (p=0.081) → beginning:0.06 (p=0.586) ↓, middle:0.09 (p=0.402) ↓, end:0.26 (p=0.015) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_content_overlap,Langage Négatif,overlap,"full:-0.05 (p=0.615) → beginning:0.05 (p=0.668) ↑, middle:-0.07 (p=0.520) ↓, end:-0.08 (p=0.470) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_content_overlap,Métaphore,overlap,"full:0.26 (p=0.014) → beginning:0.21 (p=0.044) ↓, middle:0.19 (p=0.072) ↓, end:0.06 (p=0.563) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_content_overlap,Discours,overlap,"full:0.09 (p=0.379) → beginning:-0.07 (p=0.490) ↓, middle:0.13 (p=0.226) ↑, end:0.15 (p=0.162) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_content_overlap,L'introduction,overlap,"full:0.29 (p=0.005) → beginning:0.13 (p=0.219) ↓, middle:0.21 (p=0.050) ↓, end:0.30 (p=0.004) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_content_overlap,La conclusion,overlap,"full:0.23 (p=0.031) → beginning:0.11 (p=0.290) ↓, middle:0.21 (p=0.051) ↓, end:0.17 (p=0.117) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_content_overlap,Persuasivité,overlap,"full:0.20 (p=0.062) → beginning:0.21 (p=0.043) ↑, middle:0.08 (p=0.433) ↓, end:0.10 (p=0.352) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_content_overlap,Clarté du Langage,overlap,"full:0.18 (p=0.093) → beginning:0.10 (p=0.352) ↓, middle:-0.02 (p=0.820) ↓, end:0.30 (p=0.005) ↑",middle_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_content_overlap,Créativité du discours,overlap,"full:0.27 (p=0.011) → beginning:0.11 (p=0.317) ↓, middle:0.26 (p=0.015) ↓, end:0.13 (p=0.226) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+global_content_overlap,Global,overlap,"full:0.05 (p=0.658) → beginning:0.13 (p=0.215) ↑, middle:-0.02 (p=0.869) ↓, end:0.02 (p=0.847) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+alliteration,Présentation du Sujet,overlap,"full:0.12 (p=0.247) → beginning:0.12 (p=0.247) ↑, middle:0.04 (p=0.737) ↓, end:0.08 (p=0.463) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+alliteration,Structure,overlap,"full:0.16 (p=0.133) → beginning:0.20 (p=0.055) ↑, middle:-0.01 (p=0.922) ↓, end:0.06 (p=0.570) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+alliteration,Niveau de Langue,overlap,"full:0.16 (p=0.136) → beginning:0.11 (p=0.283) ↓, middle:0.18 (p=0.098) ↑, end:0.01 (p=0.952) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+alliteration,Voix Passive,overlap,"full:0.09 (p=0.415) → beginning:0.02 (p=0.867) ↓, middle:-0.03 (p=0.815) ↓, end:0.16 (p=0.142) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+alliteration,Concision,overlap,"full:0.16 (p=0.131) → beginning:0.04 (p=0.740) ↓, middle:0.06 (p=0.588) ↓, end:0.14 (p=0.183) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+alliteration,Redondance,overlap,"full:0.24 (p=0.020) → beginning:0.12 (p=0.267) ↓, middle:0.16 (p=0.123) ↓, end:0.09 (p=0.405) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+alliteration,Langage Négatif,overlap,"full:-0.07 (p=0.514) → beginning:0.05 (p=0.641) ↑, middle:-0.08 (p=0.456) ↓, end:-0.02 (p=0.863) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+alliteration,Métaphore,overlap,"full:-0.00 (p=0.981) → beginning:0.17 (p=0.109) ↑, middle:-0.10 (p=0.329) ↓, end:-0.09 (p=0.386) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+alliteration,Discours,overlap,"full:-0.08 (p=0.459) → beginning:-0.17 (p=0.109) ↓, middle:0.03 (p=0.798) ↑, end:-0.02 (p=0.876) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+alliteration,L'introduction,overlap,"full:0.17 (p=0.114) → beginning:0.13 (p=0.212) ↓, middle:0.09 (p=0.416) ↓, end:0.12 (p=0.275) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+alliteration,La conclusion,overlap,"full:0.06 (p=0.593) → beginning:0.07 (p=0.530) ↑, middle:-0.05 (p=0.640) ↓, end:0.08 (p=0.454) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+alliteration,Persuasivité,overlap,"full:-0.06 (p=0.572) → beginning:-0.05 (p=0.653) ↑, middle:-0.08 (p=0.438) ↓, end:0.02 (p=0.874) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+alliteration,Clarté du Langage,overlap,"full:0.12 (p=0.250) → beginning:0.11 (p=0.310) ↓, middle:0.09 (p=0.418) ↓, end:0.02 (p=0.818) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+alliteration,Créativité du discours,overlap,"full:0.11 (p=0.293) → beginning:0.05 (p=0.658) ↓, middle:0.14 (p=0.179) ↑, end:-0.08 (p=0.449) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+alliteration,Global,overlap,"full:0.10 (p=0.366) → beginning:0.08 (p=0.451) ↓, middle:0.10 (p=0.359) ↑, end:0.05 (p=0.667) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+anaphora,Présentation du Sujet,overlap,"full:-0.09 (p=0.419) → beginning:-0.08 (p=0.441) ↑, middle:0.15 (p=0.151) ↑, end:-0.09 (p=0.419) →",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+anaphora,Structure,overlap,"full:-0.09 (p=0.404) → beginning:-0.19 (p=0.072) ↓, middle:0.04 (p=0.719) ↑, end:-0.09 (p=0.404) →",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+anaphora,Niveau de Langue,overlap,"full:-0.11 (p=0.283) → beginning:0.02 (p=0.822) ↑, middle:-0.13 (p=0.219) ↓, end:-0.11 (p=0.283) →",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+anaphora,Voix Passive,overlap,"full:0.07 (p=0.540) → beginning:-0.26 (p=0.015) ↓, middle:0.08 (p=0.477) ↑, end:0.07 (p=0.540) →",full_vs_beginning; beginning_vs_middle; beginning_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+anaphora,Concision,overlap,"full:0.05 (p=0.649) → beginning:-0.20 (p=0.053) ↓, middle:-0.09 (p=0.405) ↓, end:0.05 (p=0.649) →",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+anaphora,Redondance,overlap,"full:-0.09 (p=0.382) → beginning:-0.25 (p=0.018) ↓, middle:-0.04 (p=0.697) ↑, end:-0.09 (p=0.382) →",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+anaphora,Langage Négatif,overlap,"full:-0.05 (p=0.670) → beginning:0.00 (p=0.969) ↑, middle:-0.09 (p=0.406) ↓, end:-0.05 (p=0.670) →",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+anaphora,Métaphore,overlap,"full:0.16 (p=0.139) → beginning:-0.18 (p=0.082) ↓, middle:-0.10 (p=0.344) ↓, end:0.16 (p=0.139) →",full_vs_beginning; beginning_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+anaphora,Discours,overlap,"full:-0.05 (p=0.619) → beginning:0.03 (p=0.765) ↑, middle:-0.07 (p=0.497) ↓, end:-0.05 (p=0.619) →",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+anaphora,L'introduction,overlap,"full:0.03 (p=0.799) → beginning:-0.15 (p=0.172) ↓, middle:0.01 (p=0.944) ↓, end:0.03 (p=0.799) →",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+anaphora,La conclusion,overlap,"full:-0.14 (p=0.189) → beginning:0.01 (p=0.938) ↑, middle:0.00 (p=0.967) ↑, end:-0.14 (p=0.189) →",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+anaphora,Persuasivité,overlap,"full:0.01 (p=0.961) → beginning:0.05 (p=0.651) ↑, middle:0.11 (p=0.285) ↑, end:0.01 (p=0.961) →",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+anaphora,Clarté du Langage,overlap,"full:-0.08 (p=0.471) → beginning:-0.01 (p=0.897) ↑, middle:-0.11 (p=0.283) ↓, end:-0.08 (p=0.471) →",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+anaphora,Créativité du discours,overlap,"full:-0.10 (p=0.358) → beginning:-0.08 (p=0.433) ↑, middle:-0.06 (p=0.562) ↑, end:-0.10 (p=0.358) →",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+anaphora,Global,overlap,"full:-0.01 (p=0.904) → beginning:-0.02 (p=0.872) ↓, middle:0.07 (p=0.488) ↑, end:-0.01 (p=0.904) →",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+antimetabole,Présentation du Sujet,overlap,"full:0.01 (p=0.944) → beginning:0.15 (p=0.170) ↑, middle:-0.01 (p=0.927) ↓, end:0.01 (p=0.944) →",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+antimetabole,Structure,overlap,"full:-0.02 (p=0.829) → beginning:-0.05 (p=0.658) ↓, middle:0.04 (p=0.686) ↑, end:-0.02 (p=0.829) →",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+antimetabole,Niveau de Langue,overlap,"full:-0.01 (p=0.932) → beginning:-0.08 (p=0.436) ↓, middle:-0.01 (p=0.931) ↓, end:-0.01 (p=0.932) →",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+antimetabole,Voix Passive,overlap,"full:0.06 (p=0.563) → beginning:0.07 (p=0.497) ↑, middle:0.05 (p=0.614) ↓, end:0.06 (p=0.563) →",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+antimetabole,Concision,overlap,"full:-0.06 (p=0.574) → beginning:0.09 (p=0.415) ↑, middle:0.02 (p=0.868) ↑, end:-0.06 (p=0.574) →",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+antimetabole,Redondance,overlap,"full:0.02 (p=0.879) → beginning:0.15 (p=0.170) ↑, middle:0.11 (p=0.310) ↑, end:0.02 (p=0.879) →",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+antimetabole,Langage Négatif,overlap,"full:-0.10 (p=0.347) → beginning:0.02 (p=0.832) ↑, middle:0.03 (p=0.810) ↑, end:-0.10 (p=0.347) →",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+antimetabole,Métaphore,overlap,"full:0.15 (p=0.163) → beginning:0.00 (p=0.990) ↓, middle:0.01 (p=0.908) ↓, end:0.15 (p=0.163) →",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+antimetabole,Discours,overlap,"full:0.07 (p=0.523) → beginning:-0.05 (p=0.648) ↓, middle:0.02 (p=0.862) ↓, end:0.07 (p=0.523) →",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+antimetabole,L'introduction,overlap,"full:-0.09 (p=0.416) → beginning:-0.02 (p=0.865) ↑, middle:0.08 (p=0.474) ↑, end:-0.09 (p=0.416) →",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+antimetabole,La conclusion,overlap,"full:0.03 (p=0.806) → beginning:-0.10 (p=0.349) ↓, middle:-0.09 (p=0.396) ↓, end:0.03 (p=0.806) →",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+antimetabole,Persuasivité,overlap,"full:0.17 (p=0.111) → beginning:-0.04 (p=0.730) ↓, middle:-0.04 (p=0.704) ↓, end:0.17 (p=0.111) →",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+antimetabole,Clarté du Langage,overlap,"full:-0.07 (p=0.494) → beginning:0.00 (p=1.000) ↑, middle:0.09 (p=0.410) ↑, end:-0.07 (p=0.494) →",,0.05,3,,0.025,2,,0.05,1,,0.01667,3
+antimetabole,Créativité du discours,overlap,"full:-0.01 (p=0.950) → beginning:-0.13 (p=0.229) ↓, middle:-0.14 (p=0.174) ↓, end:-0.01 (p=0.950) →",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+antimetabole,Global,overlap,"full:-0.02 (p=0.884) → beginning:-0.01 (p=0.914) ↑, middle:0.00 (p=0.988) ↑, end:-0.02 (p=0.884) →",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+epanalepsis,Présentation du Sujet,overlap,"full:-0.16 (p=0.134) → beginning:-0.07 (p=0.535) ↑, middle:0.03 (p=0.800) ↑, end:-0.11 (p=0.318) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+epanalepsis,Structure,overlap,"full:-0.19 (p=0.074) → beginning:-0.07 (p=0.486) ↑, middle:0.01 (p=0.955) ↑, end:-0.12 (p=0.252) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+epanalepsis,Niveau de Langue,overlap,"full:-0.18 (p=0.089) → beginning:-0.15 (p=0.150) ↑, middle:-0.03 (p=0.745) ↑, end:-0.07 (p=0.493) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+epanalepsis,Voix Passive,overlap,"full:-0.06 (p=0.592) → beginning:0.13 (p=0.238) ↑, middle:0.09 (p=0.379) ↑, end:-0.12 (p=0.247) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+epanalepsis,Concision,overlap,"full:-0.11 (p=0.298) → beginning:0.08 (p=0.480) ↑, middle:0.13 (p=0.238) ↑, end:-0.20 (p=0.058) ↓",middle_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+epanalepsis,Redondance,overlap,"full:-0.31 (p=0.003) → beginning:-0.03 (p=0.757) ↑, middle:-0.03 (p=0.781) ↑, end:-0.33 (p=0.002) ↓",beginning_vs_end; middle_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+epanalepsis,Langage Négatif,overlap,"full:0.05 (p=0.628) → beginning:-0.16 (p=0.134) ↓, middle:0.12 (p=0.274) ↑, end:0.06 (p=0.561) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+epanalepsis,Métaphore,overlap,"full:-0.12 (p=0.260) → beginning:-0.10 (p=0.361) ↑, middle:-0.10 (p=0.347) ↑, end:0.06 (p=0.560) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+epanalepsis,Discours,overlap,"full:0.02 (p=0.842) → beginning:0.24 (p=0.021) ↑, middle:-0.08 (p=0.461) ↓, end:0.05 (p=0.628) ↑",beginning_vs_middle,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+epanalepsis,L'introduction,overlap,"full:-0.31 (p=0.003) → beginning:-0.14 (p=0.183) ↑, middle:-0.11 (p=0.290) ↑, end:-0.27 (p=0.010) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+epanalepsis,La conclusion,overlap,"full:-0.21 (p=0.051) → beginning:-0.10 (p=0.351) ↑, middle:0.09 (p=0.398) ↑, end:-0.26 (p=0.013) ↓",full_vs_middle; middle_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+epanalepsis,Persuasivité,overlap,"full:-0.19 (p=0.076) → beginning:0.03 (p=0.763) ↑, middle:0.04 (p=0.733) ↑, end:-0.24 (p=0.024) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+epanalepsis,Clarté du Langage,overlap,"full:-0.21 (p=0.044) → beginning:-0.12 (p=0.275) ↑, middle:0.08 (p=0.454) ↑, end:-0.26 (p=0.014) ↓",middle_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+epanalepsis,Créativité du discours,overlap,"full:-0.12 (p=0.261) → beginning:-0.03 (p=0.756) ↑, middle:-0.05 (p=0.633) ↑, end:0.00 (p=0.985) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+epanalepsis,Global,overlap,"full:-0.17 (p=0.116) → beginning:-0.03 (p=0.759) ↑, middle:0.07 (p=0.531) ↑, end:-0.21 (p=0.043) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+flesch_kincaid_score,Présentation du Sujet,syllable_readability_metrics,"full:0.09 (p=0.402) → beginning:0.15 (p=0.149) ↑, middle:0.08 (p=0.452) ↓, end:0.06 (p=0.603) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+flesch_kincaid_score,Structure,syllable_readability_metrics,"full:-0.03 (p=0.794) → beginning:0.09 (p=0.401) ↑, middle:-0.04 (p=0.741) ↓, end:-0.08 (p=0.446) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+flesch_kincaid_score,Niveau de Langue,syllable_readability_metrics,"full:0.21 (p=0.048) → beginning:0.07 (p=0.488) ↓, middle:0.15 (p=0.164) ↓, end:0.22 (p=0.033) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+flesch_kincaid_score,Voix Passive,syllable_readability_metrics,"full:0.03 (p=0.781) → beginning:0.11 (p=0.299) ↑, middle:0.09 (p=0.415) ↑, end:-0.07 (p=0.510) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+flesch_kincaid_score,Concision,syllable_readability_metrics,"full:0.10 (p=0.358) → beginning:0.26 (p=0.014) ↑, middle:0.07 (p=0.507) ↓, end:-0.03 (p=0.757) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+flesch_kincaid_score,Redondance,syllable_readability_metrics,"full:0.08 (p=0.459) → beginning:0.25 (p=0.019) ↑, middle:-0.04 (p=0.728) ↓, end:-0.03 (p=0.783) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+flesch_kincaid_score,Langage Négatif,syllable_readability_metrics,"full:-0.08 (p=0.461) → beginning:-0.21 (p=0.042) ↓, middle:0.05 (p=0.615) ↑, end:-0.03 (p=0.802) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+flesch_kincaid_score,Métaphore,syllable_readability_metrics,"full:0.20 (p=0.056) → beginning:0.05 (p=0.645) ↓, middle:0.19 (p=0.077) ↓, end:0.22 (p=0.041) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+flesch_kincaid_score,Discours,syllable_readability_metrics,"full:0.37 (p=0.000) → beginning:0.42 (p=0.000) ↑, middle:0.20 (p=0.059) ↓, end:0.13 (p=0.232) ↓",beginning_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+flesch_kincaid_score,L'introduction,syllable_readability_metrics,"full:-0.00 (p=0.992) → beginning:0.05 (p=0.673) ↑, middle:-0.09 (p=0.388) ↓, end:-0.00 (p=0.999) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+flesch_kincaid_score,La conclusion,syllable_readability_metrics,"full:0.03 (p=0.759) → beginning:0.01 (p=0.908) ↓, middle:0.07 (p=0.541) ↑, end:0.02 (p=0.841) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+flesch_kincaid_score,Persuasivité,syllable_readability_metrics,"full:0.11 (p=0.295) → beginning:0.12 (p=0.274) ↑, middle:0.12 (p=0.270) ↑, end:0.01 (p=0.961) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+flesch_kincaid_score,Clarté du Langage,syllable_readability_metrics,"full:0.06 (p=0.574) → beginning:0.16 (p=0.138) ↑, middle:0.07 (p=0.494) ↑, end:-0.07 (p=0.505) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+flesch_kincaid_score,Créativité du discours,syllable_readability_metrics,"full:0.19 (p=0.070) → beginning:0.17 (p=0.114) ↓, middle:0.11 (p=0.317) ↓, end:0.15 (p=0.164) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+flesch_kincaid_score,Global,syllable_readability_metrics,"full:0.08 (p=0.462) → beginning:0.09 (p=0.386) ↑, middle:0.08 (p=0.453) ↑, end:0.03 (p=0.799) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+gunning_fog_index,Présentation du Sujet,syllable_readability_metrics,"full:-0.04 (p=0.700) → beginning:-0.13 (p=0.232) ↓, middle:-0.06 (p=0.595) ↓, end:0.01 (p=0.927) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+gunning_fog_index,Structure,syllable_readability_metrics,"full:0.10 (p=0.331) → beginning:-0.04 (p=0.722) ↓, middle:0.05 (p=0.615) ↓, end:0.19 (p=0.081) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+gunning_fog_index,Niveau de Langue,syllable_readability_metrics,"full:-0.16 (p=0.132) → beginning:-0.07 (p=0.503) ↑, middle:-0.12 (p=0.241) ↑, end:-0.16 (p=0.138) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+gunning_fog_index,Voix Passive,syllable_readability_metrics,"full:-0.03 (p=0.781) → beginning:-0.08 (p=0.428) ↓, middle:-0.10 (p=0.342) ↓, end:0.11 (p=0.320) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+gunning_fog_index,Concision,syllable_readability_metrics,"full:-0.05 (p=0.659) → beginning:-0.23 (p=0.029) ↓, middle:-0.09 (p=0.413) ↓, end:0.14 (p=0.194) ↑",beginning_vs_end,0.05,6,,0.01667,3,beginning_vs_end,0.01667,3,,0.00833,6
+gunning_fog_index,Redondance,syllable_readability_metrics,"full:0.04 (p=0.700) → beginning:-0.18 (p=0.086) ↓, middle:0.07 (p=0.505) ↑, end:0.17 (p=0.106) ↑",beginning_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+gunning_fog_index,Langage Négatif,syllable_readability_metrics,"full:0.05 (p=0.655) → beginning:0.22 (p=0.035) ↑, middle:-0.07 (p=0.526) ↓, end:-0.01 (p=0.933) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+gunning_fog_index,Métaphore,syllable_readability_metrics,"full:-0.12 (p=0.244) → beginning:0.01 (p=0.937) ↑, middle:-0.06 (p=0.550) ↑, end:-0.17 (p=0.117) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+gunning_fog_index,Discours,syllable_readability_metrics,"full:-0.34 (p=0.001) → beginning:-0.38 (p=0.000) ↓, middle:-0.21 (p=0.047) ↑, end:-0.13 (p=0.225) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+gunning_fog_index,L'introduction,syllable_readability_metrics,"full:0.04 (p=0.734) → beginning:-0.08 (p=0.473) ↓, middle:0.09 (p=0.399) ↑, end:0.06 (p=0.574) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+gunning_fog_index,La conclusion,syllable_readability_metrics,"full:0.02 (p=0.883) → beginning:-0.06 (p=0.593) ↓, middle:-0.04 (p=0.742) ↓, end:0.05 (p=0.663) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+gunning_fog_index,Persuasivité,syllable_readability_metrics,"full:-0.08 (p=0.473) → beginning:-0.11 (p=0.290) ↓, middle:-0.11 (p=0.281) ↓, end:0.01 (p=0.953) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+gunning_fog_index,Clarté du Langage,syllable_readability_metrics,"full:-0.01 (p=0.947) → beginning:-0.11 (p=0.322) ↓, middle:-0.06 (p=0.592) ↓, end:0.14 (p=0.185) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+gunning_fog_index,Créativité du discours,syllable_readability_metrics,"full:-0.19 (p=0.073) → beginning:-0.21 (p=0.052) ↓, middle:-0.12 (p=0.270) ↑, end:-0.11 (p=0.294) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+gunning_fog_index,Global,syllable_readability_metrics,"full:-0.02 (p=0.866) → beginning:-0.11 (p=0.320) ↓, middle:-0.07 (p=0.505) ↓, end:0.04 (p=0.722) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+average_syllables,Présentation du Sujet,syllable_readability_metrics,"full:-0.15 (p=0.171) → beginning:-0.18 (p=0.086) ↓, middle:-0.10 (p=0.349) ↑, end:-0.11 (p=0.306) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+average_syllables,Structure,syllable_readability_metrics,"full:-0.04 (p=0.711) → beginning:-0.11 (p=0.295) ↓, middle:0.01 (p=0.911) ↑, end:-0.03 (p=0.785) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+average_syllables,Niveau de Langue,syllable_readability_metrics,"full:-0.22 (p=0.038) → beginning:-0.06 (p=0.556) ↑, middle:-0.16 (p=0.124) ↑, end:-0.26 (p=0.014) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+average_syllables,Voix Passive,syllable_readability_metrics,"full:-0.06 (p=0.554) → beginning:-0.12 (p=0.268) ↓, middle:-0.08 (p=0.468) ↓, end:0.02 (p=0.850) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+average_syllables,Concision,syllable_readability_metrics,"full:-0.17 (p=0.114) → beginning:-0.27 (p=0.011) ↓, middle:-0.10 (p=0.333) ↑, end:-0.07 (p=0.514) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+average_syllables,Redondance,syllable_readability_metrics,"full:-0.19 (p=0.073) → beginning:-0.27 (p=0.011) ↓, middle:-0.06 (p=0.566) ↑, end:-0.13 (p=0.227) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+average_syllables,Langage Négatif,syllable_readability_metrics,"full:0.11 (p=0.296) → beginning:0.18 (p=0.088) ↑, middle:0.03 (p=0.759) ↓, end:0.05 (p=0.635) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+average_syllables,Métaphore,syllable_readability_metrics,"full:-0.23 (p=0.026) → beginning:-0.06 (p=0.583) ↑, middle:-0.23 (p=0.033) ↑, end:-0.24 (p=0.023) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+average_syllables,Discours,syllable_readability_metrics,"full:-0.31 (p=0.003) → beginning:-0.38 (p=0.000) ↓, middle:-0.17 (p=0.111) ↑, end:-0.14 (p=0.184) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+average_syllables,L'introduction,syllable_readability_metrics,"full:-0.04 (p=0.701) → beginning:-0.04 (p=0.737) ↑, middle:0.05 (p=0.626) ↑, end:-0.08 (p=0.453) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+average_syllables,La conclusion,syllable_readability_metrics,"full:-0.05 (p=0.615) → beginning:-0.04 (p=0.693) ↑, middle:-0.06 (p=0.571) ↓, end:-0.04 (p=0.701) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+average_syllables,Persuasivité,syllable_readability_metrics,"full:-0.14 (p=0.203) → beginning:-0.13 (p=0.208) ↑, middle:-0.15 (p=0.156) ↓, end:-0.05 (p=0.669) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+average_syllables,Clarté du Langage,syllable_readability_metrics,"full:-0.09 (p=0.389) → beginning:-0.20 (p=0.055) ↓, middle:-0.06 (p=0.567) ↑, end:0.06 (p=0.554) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+average_syllables,Créativité du discours,syllable_readability_metrics,"full:-0.18 (p=0.081) → beginning:-0.12 (p=0.258) ↑, middle:-0.13 (p=0.239) ↑, end:-0.16 (p=0.134) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+average_syllables,Global,syllable_readability_metrics,"full:-0.09 (p=0.377) → beginning:-0.10 (p=0.327) ↓, middle:-0.09 (p=0.413) ↑, end:-0.05 (p=0.644) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+polysyllabic_word_count,Présentation du Sujet,syllable_readability_metrics,"full:0.03 (p=0.802) → beginning:-0.08 (p=0.462) ↓, middle:-0.02 (p=0.879) ↓, end:0.07 (p=0.528) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+polysyllabic_word_count,Structure,syllable_readability_metrics,"full:0.22 (p=0.038) → beginning:-0.00 (p=0.968) ↓, middle:0.12 (p=0.268) ↓, end:0.26 (p=0.014) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+polysyllabic_word_count,Niveau de Langue,syllable_readability_metrics,"full:-0.15 (p=0.166) → beginning:0.00 (p=0.981) ↑, middle:-0.08 (p=0.441) ↑, end:-0.14 (p=0.183) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+polysyllabic_word_count,Voix Passive,syllable_readability_metrics,"full:0.01 (p=0.894) → beginning:-0.03 (p=0.772) ↓, middle:-0.07 (p=0.539) ↓, end:0.15 (p=0.151) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+polysyllabic_word_count,Concision,syllable_readability_metrics,"full:-0.04 (p=0.732) → beginning:-0.25 (p=0.019) ↓, middle:-0.01 (p=0.908) ↑, end:0.18 (p=0.089) ↑",beginning_vs_end,0.05,6,,0.01667,3,beginning_vs_end,0.01667,3,beginning_vs_end,0.00833,6
+polysyllabic_word_count,Redondance,syllable_readability_metrics,"full:0.05 (p=0.620) → beginning:-0.19 (p=0.081) ↓, middle:0.06 (p=0.545) ↑, end:0.24 (p=0.026) ↑",beginning_vs_end,0.05,6,,0.01667,3,beginning_vs_end,0.01667,3,beginning_vs_end,0.00833,6
+polysyllabic_word_count,Langage Négatif,syllable_readability_metrics,"full:0.02 (p=0.823) → beginning:0.19 (p=0.078) ↑, middle:-0.04 (p=0.713) ↓, end:-0.05 (p=0.615) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+polysyllabic_word_count,Métaphore,syllable_readability_metrics,"full:-0.11 (p=0.321) → beginning:0.06 (p=0.584) ↑, middle:-0.05 (p=0.661) ↑, end:-0.18 (p=0.096) ↓",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+polysyllabic_word_count,Discours,syllable_readability_metrics,"full:-0.12 (p=0.245) → beginning:-0.27 (p=0.009) ↓, middle:0.01 (p=0.928) ↑, end:0.09 (p=0.398) ↑",beginning_vs_end,0.05,6,,0.01667,3,beginning_vs_end,0.01667,3,,0.00833,6
+polysyllabic_word_count,L'introduction,syllable_readability_metrics,"full:0.14 (p=0.178) → beginning:-0.10 (p=0.336) ↓, middle:0.14 (p=0.184) ↓, end:0.17 (p=0.103) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+polysyllabic_word_count,La conclusion,syllable_readability_metrics,"full:0.08 (p=0.459) → beginning:-0.05 (p=0.647) ↓, middle:0.03 (p=0.771) ↓, end:0.14 (p=0.199) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+polysyllabic_word_count,Persuasivité,syllable_readability_metrics,"full:0.03 (p=0.793) → beginning:-0.06 (p=0.595) ↓, middle:-0.03 (p=0.755) ↓, end:0.11 (p=0.306) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+polysyllabic_word_count,Clarté du Langage,syllable_readability_metrics,"full:0.09 (p=0.399) → beginning:-0.06 (p=0.581) ↓, middle:-0.01 (p=0.955) ↓, end:0.28 (p=0.008) ↑",beginning_vs_end,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+polysyllabic_word_count,Créativité du discours,syllable_readability_metrics,"full:-0.06 (p=0.568) → beginning:-0.08 (p=0.436) ↓, middle:-0.01 (p=0.940) ↑, end:0.00 (p=0.979) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6
+polysyllabic_word_count,Global,syllable_readability_metrics,"full:0.03 (p=0.755) → beginning:-0.06 (p=0.559) ↓, middle:-0.04 (p=0.742) ↓, end:0.11 (p=0.301) ↑",,0.05,6,,0.01667,3,,0.01667,3,,0.00833,6

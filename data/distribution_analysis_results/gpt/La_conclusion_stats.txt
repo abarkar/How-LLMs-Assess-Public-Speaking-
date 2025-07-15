@@ -1,0 +1,16 @@
+--- La conclusion (Likert Scale) ---
+Descriptive Statistics:
+count    90.000000
+mean      4.266667
+std       0.595866
+min       2.000000
+25%       4.000000
+50%       4.000000
+75%       5.000000
+max       5.000000
+
+Normality Test (D'Agostino and Pearson):
+Statistic=19.5656, p-value=0.0001
+
+Uniformity Test (Kolmogorov–Smirnov):
+Statistic=0.6333, p-value=0.0000

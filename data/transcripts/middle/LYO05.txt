@@ -1,0 +1,10 @@
+Dans ce domaine, il convient de prendre toute annonce avec des pincettes.
+Vous pouvez donc souffler un peu.
+En France, les forces de la police nationale ne disposent bien entendu d'aucune solution de ce type.
+Il semble que dans l'hexagone, même Big Brother serait contraint de devoir rendre des comptes à la CNIL s'il souhaitait analyser des données personnelles.
+Mais je ne vous le cache pas, il n'en demeure pas moins que les policiers ont accès à une multitude de données à exploiter.
+Des données de plus en plus volumineuses et variées, et donc difficiles à traiter par des procédés humains.
+Imaginez donc
+, la seule ville de Paris compte plus de 1500 caméras publiques.
+Il est illusoire de penser qu'une équipe, même composée de 100 personnes, puisse réaliser une veille efficace des images remontées en continu.
+Et c'est pourquoi, il est de plus en plus question d'automatiser le traitement de certaines données massives, pour repérer la présence de colis abandonnés ou pour générer des alertes lorsque des groupes d'individus en viennent aux mains.

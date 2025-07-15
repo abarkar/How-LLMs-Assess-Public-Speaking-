@@ -1,0 +1,16 @@
+Par exemple, pourriez-vous reconnaître le greu bleuti parmi les trois images du bas ?
+Dans l'immédiat, non.
+Mais si je vous donne l'information qu'un greu bleuti, c'est comme un tigre, mais c'est bleu, ça devient tout de suite beaucoup plus facile.
+L'objectif de mes recherches est d'intégrer cette capacité à une intelligence artificielle.
+Plus spécifiquement, je modélise les relations existantes entre des images et des descriptions textuelles afin que cette IA puisse reconnaître des objets qu'elle n'a encore jamais vus.
+C'est ce qu'on appelle du zéro-électronique.
+C'est le mot « shot learning », de l'apprentissage avec zéro exemple.
+Comment ça marche ?
+C'est simple, j'applique aux images une série de produits tensoriels entrecoupés de non-linéarités, et je maximise une fonction de compatibilité bilinéaire entre la matrice résultante et les vecteurs sémantiques.
+En gros, j'utilise pas mal de maths.
+Mais est-ce que ça marche ?
+Pour le savoir, j'ai d'abord entraîné mon modèle à identifier l'espèce d'un oiseau à partir d'images et de textes.
+Je lui ai ensuite demandé de catégoriser des photos d'oiseaux appartenant à 50 nouvelles espèces, dont il n'a jamais vu un seul spécimen, et sur lesquelles les seules informations disponibles étaient des descriptions textuelles.
+Mon modèle a pu identifier correctement l'espèce dans la majorité des cas.
+A terme, j'espère que ces travaux contribueront à simplifier l'utilisation de l'intelligence artificielle lorsque pas ou peu de données sont disponibles, pour par exemple diagnostiquer des maladies rares, identifier de nouvelles protéines, ou bien sûr reconnaître des gros bleutis.
+Je vous remercie.

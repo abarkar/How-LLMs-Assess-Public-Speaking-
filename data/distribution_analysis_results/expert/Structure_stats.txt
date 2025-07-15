@@ -1,0 +1,6 @@
+--- Structure (Categorical A/B/C) ---
+Counts:
+Structure
+B    49
+C    28
+A    13

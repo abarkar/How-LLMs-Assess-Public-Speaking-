@@ -1,0 +1,16 @@
+--- Balanced Persuasiveness ---
+Descriptive Statistics:
+count    90.000000
+mean      3.291996
+std       0.980667
+min       1.285714
+25%       2.517857
+50%       3.333333
+75%       4.090909
+max       5.000000
+
+Normality Test (D'Agostino and Pearson):
+Statistic=7.7699, p-value=0.0205
+
+Uniformity Test (Kolmogorov–Smirnov):
+Statistic=0.1327, p-value=0.0764

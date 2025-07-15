@@ -1,0 +1,11 @@
+Si on regarde ces données, on aura l'impression de se trouver face à une énorme bibliothèque pleine de livres à lire et à analyser.
+Dans ces milliards de données, on cherche seulement celles qui puissent être reliées à des comportements anormaux.
+Par exemple, un changement brusque de température ou de pression qui nous font comprendre qu'un des composants est endommagé.
+La recherche de ces comportements anormaux est important.
+La recherche de ces comportements en quantité de données n'est actuellement pas possible avant que l'avion ne puisse repartir à nouveau.
+Mais pas de panique, mes chers publics.
+C'est là que j'interviens.
+Un des objectifs de ma thèse est de concevoir des techniques d'analyse rapide.
+Pour le faire, je m'inspire d'une idée simple et efficace.
+Un index.
+On connaît tout à l'école.

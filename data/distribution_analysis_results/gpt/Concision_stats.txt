@@ -1,0 +1,5 @@
+--- Concision (Categorical A/B/C) ---
+Counts:
+Concision
+B    76
+C    14

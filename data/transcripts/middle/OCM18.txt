@@ -1,0 +1,11 @@
+Et dans notre cas, notre signal d'alerte, c'est non pas une chansonnette, mais la santé de notre crevette, qui va se dégrader en présence de polluants.
+Et c'est là que mon travail de cyberdocteur commence.
+Pour détecter des maladies, chez l'homme, le diabète par exemple, on va doser des molécules de sucre.
+Chez la crevette, je vais doser plusieurs molécules, mes petits espions, appelés biomarqueurs, qui vont me permettre de connaître son état de santé, et donc de savoir si elle a été en présence de polluants.
+La technique de dosage de ces biomarqueurs nous fournit une sorte d'empreinte.
+Enfin une, plutôt des milliers.
+Et pour pouvoir interpréter ces empreintes, je fais comme la police, je les compare à une base de données.
+Et dans notre cas, ces données, c'est le patrimoine génétique de la crevette, ce fameux ADN.
+Le décryptage de l'ADN produit des millions d'informations que je dois organiser pour créer ma base de données.
+Milliers, millions, je ne peux pas le faire seul.
+Et c'est pour ça que je suis un cyberdocteur.

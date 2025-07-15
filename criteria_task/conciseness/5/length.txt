@@ -1,0 +1,19 @@
+TÂCHE=[ Sur la base de la transcription de la performance publique fournie dans la section TRANSCRIPT, répondez à la question à choix multiple avec l'une des réponses fournies. Expliquez pourquoi vous avez choisi cette option sans reformuler l'option choisie, vous pouvez fournir des exemples représentatifs des transcriptions qui peuvent justifier votre choix.
+
+La question : Comment évaluez-vous la longueur des phrases du discours de cette transcription ?
+
+Options de réponse : 
+A: Phrases courtes qui rendent le texte moins clair.
+
+B: Phrases de longueur suffisante pour rendre le texte clair. 
+
+C: Phrases excessivement longues qui rendent le texte peu clair. 
+
+Vous devez choisir l'option qui décrit le mieux la transcription fournie et fournir votre réponse dans le format suivant : 
+ 
+Note : <MASK>
+Explication : [Explications sur le choix de cette note]
+ 
+Où <MASK> est A, B ou C.
+Ne donnez aucune autre information que cette réponse. ]
+

@@ -1,0 +1,12 @@
+Piloter un avion,
+ce n'est pas facile.
+C'est pour ça que dès le début de l'aviation, on a créé des simulateurs de vol.
+Donc il faut imaginer un cockpit avec des écrans qui vous font croire que vous êtes sur la piste de décollage, prêt à vous envoler.
+Mais voilà, si vous apprenez seulement avec cette information visuelle, et que vous essayez de conduire un avion dans les conditions réelles, vous vous rendrez rapidement compte qu'il vous reste encore beaucoup à apprendre.
+C'est qu'il vous manque une information essentielle durant votre apprentissage.
+L'information vestibulaire, qui vient d'un organe situé dans votre oreille interne, et qui vous donne toutes les informations sur la position de votre corps dans l'espace.
+C'est pour ça que les simulateurs de vol peuvent bouger dans toutes les directions afin de recréer les conditions les plus réelles possibles.
+C'est que votre cerveau, pour apprendre, a besoin d'un maximum d'informations.
+Ces informations viennent des différents organes sensoriels de votre corps.
+Ici, ce sont les yeux et le système vestibulaire.
+La question que je me pose, c'est comment le cerveau fait-il pour traiter ces deux informations ?

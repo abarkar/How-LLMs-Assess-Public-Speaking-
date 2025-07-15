@@ -1,0 +1,11 @@
+Bonjour et Namasté
+.
+Je suis sûr que vous avez déjà entendu parler de la nouvelle révolution qui s'appelle l'intelligence artificielle, la célèbre IA.
+Mais ne vous inquiétez pas, je ne vais pas essayer de vous convaincre que l'IA va tout bouleverser dans votre vie.
+En fait, ma thèse concerne la partie la plus importante de l'IA, c'est le I, l'intelligence.
+Imaginez, il est l'heure du déjeuner, vous avez faim, vous allez acheter une baguette à la boulangerie du coin.
+Mais en arrivant, vous voyez qu'il y a un énorme chien à côté de la porte de la boulangerie.
+Vous avez alors quelques fractions de secondes pour décider, est-ce qu'on y va ou on va chercher une autre boulangerie un peu plus loin.
+Si je voulais résoudre ce problème avec une approche purement rationnelle, je programmerais des équations qui prennent en compte mon niveau de faim, la taille du chien, s'il a l'air vraiment méchant, la distance de la boulangerie suivante, etc.
+Car il faut bien que ma décision repose.
+Et maintenant, supposons que je vous emmène chez moi en Inde, visiter mon super pays.

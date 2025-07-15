@@ -1,0 +1,15 @@
+Vous avez appris à effectuer une tâche, ici distinguer un ours d'un tigre, à partir d'exemples.
+Mon travail consiste à faire faire la même chose à des ordinateurs.
+Les applications de l'apprentissage automatique sont innombrables.
+Analyse d'images médicales, conception de véhicules autonomes, mais aussi reconnaissance vocale, traduction automatique.
+On pourrait passer la soirée à les lister.
+Pourtant, ce type d'approche a un problème.
+À l'heure actuelle, pour apprendre efficacement, un ordinateur a besoin de milliers d'exemples qui sont longs et souvent coûteux à collecter.
+Pourrait-on faire mieux ?
+A priori, oui.
+Même si vous n'aviez jamais vu ni ours ni tigre, vous pourriez sûrement apprendre à partir de ces quelques exemples.
+Pourrait-on faire encore mieux ?
+Peut-être qu'avec des exemples bien choisis, une seule image par catégorie suffirait.
+Pourrait-on faire encore, encore mieux ?
+Peut-on reconnaître quelque chose ?
+Peut-on reconnaître quelque chose que l'on n'a jamais vu ?

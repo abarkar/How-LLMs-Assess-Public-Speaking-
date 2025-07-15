@@ -1,0 +1,13 @@
+Les bulles en hydroélectricité sont ce que le champomi est à la fête.
+Elles sont prépondérantes.
+Entraînées par un jet sous la surface de l'eau, elles peuvent être mises en pression dans une conduite forcée.
+Leur volume va alors se réduire, se réduire, se réduire, jusqu'à exploser brutalement juste sous la turbine et probablement endommager la machine.
+Mais elles offrent aussi une possibilité facile pour visualiser une zone où le jet a un impact significatif, typiquement à l'aval d'un grand barrage.
+Elles sont aussi de formidables agents de transfert de l'air dans l'eau.
+Elles offrent à la faune aquatique la saturation en oxygène optimale, synonyme de bonne santé.
+Un modèle permettant de prédire l'entraînement d'air du 1 jet permettrait en un seul coup de répondre à ce qu'il y a de plus en plus de gaz à l'eau.
+Je vais passer trois enjeux.
+Santé des turbines, santé des ouvrages hydroélectriques et celle des poissons.
+C'est précisément l'objet de mon travail.
+Pour chaque jet, je dois être capable de fournir sa quantité d'air entraîné, sa taille de bulles injectées et leur répartition en fonction de la profondeur.
+Simple, me direz-vous.

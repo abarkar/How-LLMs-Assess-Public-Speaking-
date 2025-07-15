@@ -1,0 +1,106 @@
+Lexical_Feature,Criterion,Spearman_Coefficient,p_value
+transitions_per_sentence,Présentation du Sujet,0.09487011078478856,0.3737642999265852
+transitions_per_sentence,Structure,0.07123375737196919,0.5046541926231143
+transitions_per_sentence,Niveau de Langue,0.04877080624855372,0.6480414436468674
+transitions_per_sentence,Voix Passive,-0.019755167874447768,0.8533763120931052
+transitions_per_sentence,Concision,0.035062716059293536,0.7428471514250962
+transitions_per_sentence,Redondance,-0.003912159689658765,0.970807657693316
+transitions_per_sentence,Langage Négatif,0.10389025254498924,0.32983193423707546
+transitions_per_sentence,Métaphore,-0.07681462979076906,0.47176805832769586
+transitions_per_sentence,Discours,0.13676967312491745,0.19864425170801006
+transitions_per_sentence,L'introduction,0.045703342811236024,0.6688383629075919
+transitions_per_sentence,La conclusion,0.07641816527901585,0.4740653027095416
+transitions_per_sentence,Persuasivité,0.07896393780950338,0.45941986630946374
+transitions_per_sentence,Clarté du Langage,0.05509741281686179,0.6060042469543814
+transitions_per_sentence,Créativité du discours,-0.15268573121302126,0.15080468615608394
+transitions_per_sentence,Global,0.05766395667441646,0.5892998205086473
+transitions_number,Présentation du Sujet,0.1570081213220949,0.13944216801047302
+transitions_number,Structure,0.0931550710885219,0.38250272958792
+transitions_number,Niveau de Langue,-0.010213460981919092,0.9238847659347393
+transitions_number,Voix Passive,0.03741420955509266,0.7262610782505889
+transitions_number,Concision,0.0022221987383695186,0.9834155989702672
+transitions_number,Redondance,0.05353941292783852,0.616244987375016
+transitions_number,Langage Négatif,0.025664416853876857,0.8102448425554631
+transitions_number,Métaphore,-0.005544534533753961,0.9586361082329893
+transitions_number,Discours,0.14497072778282177,0.17278726175065168
+transitions_number,L'introduction,0.04182368725083653,0.6955020536758381
+transitions_number,La conclusion,0.1260290492744679,0.2365596076138874
+transitions_number,Persuasivité,0.06951110127747587,0.5150397933713282
+transitions_number,Clarté du Langage,0.03866618403661857,0.7174810057915669
+transitions_number,Créativité du discours,0.012631604067456031,0.9059380947687494
+transitions_number,Global,0.07152287609547595,0.5029218423612414
+transitions_similarity_for_neighbour_sentenses,Présentation du Sujet,0.021256737399534105,0.8423701613829142
+transitions_similarity_for_neighbour_sentenses,Structure,-0.1173621547792949,0.2706165371515592
+transitions_similarity_for_neighbour_sentenses,Niveau de Langue,-0.1357301939958671,0.2021102543912523
+transitions_similarity_for_neighbour_sentenses,Voix Passive,-0.14349787150096743,0.17723883714272343
+transitions_similarity_for_neighbour_sentenses,Concision,-0.21688312266342796,0.040045306734412874
+transitions_similarity_for_neighbour_sentenses,Redondance,-0.16181780539592283,0.12757343758741702
+transitions_similarity_for_neighbour_sentenses,Langage Négatif,-0.029390518756293345,0.7833278948012586
+transitions_similarity_for_neighbour_sentenses,Métaphore,-0.12663277544448515,0.2343035733398226
+transitions_similarity_for_neighbour_sentenses,Discours,-0.12133258408232665,0.254625384644879
+transitions_similarity_for_neighbour_sentenses,L'introduction,-0.037131806973041644,0.7282465049859677
+transitions_similarity_for_neighbour_sentenses,La conclusion,-0.03106460501493253,0.7713149220367514
+transitions_similarity_for_neighbour_sentenses,Persuasivité,-0.04542644559044138,0.6707283300212361
+transitions_similarity_for_neighbour_sentenses,Clarté du Langage,-0.08294330513253374,0.43703452987457436
+transitions_similarity_for_neighbour_sentenses,Créativité du discours,-0.10989548360657096,0.30248749605715075
+transitions_similarity_for_neighbour_sentenses,Global,-0.10229750279566839,0.33734040833043555
+transition_types_count,Présentation du Sujet,0.07219308541342281,0.49891797239160174
+transition_types_count,Structure,0.04372617640892443,0.682378096074669
+transition_types_count,Niveau de Langue,-0.031027569036021052,0.7715801156297971
+transition_types_count,Voix Passive,0.1307191914660147,0.21942686620843657
+transition_types_count,Concision,0.1532880766802373,0.14918094293766448
+transition_types_count,Redondance,-0.04365762949717166,0.6828493465999916
+transition_types_count,Langage Négatif,-0.11819782808565922,0.2671958492485592
+transition_types_count,Métaphore,-0.0492249267713503,0.6449848997317329
+transition_types_count,Discours,-0.020741800294805036,0.8461412318972915
+transition_types_count,L'introduction,0.12821645196771297,0.22845693993130956
+transition_types_count,La conclusion,0.03894200678636893,0.7155515408054827
+transition_types_count,Persuasivité,0.02113579289481857,0.8432555657968007
+transition_types_count,Clarté du Langage,0.08370567269652507,0.43281754700231667
+transition_types_count,Créativité du discours,0.02741226996168834,0.7975889961793058
+transition_types_count,Global,0.04184480226134759,0.6953558939568448
+expletives_count,Présentation du Sujet,-0.008767397735216228,0.9346357847359078
+expletives_count,Structure,-0.05620093760711875,0.5987963873412067
+expletives_count,Niveau de Langue,0.012149705158723113,0.9095111185705371
+expletives_count,Voix Passive,-0.012549757065195236,0.9065448167928447
+expletives_count,Concision,-0.043398707364102465,0.6846304955876854
+expletives_count,Redondance,-0.04055003513896093,0.7043387611907416
+expletives_count,Langage Négatif,0.0606973918827596,0.5698304379803809
+expletives_count,Métaphore,-0.042602283591054724,0.6901199451940637
+expletives_count,Discours,-0.03160123413929457,0.7674753875697844
+expletives_count,L'introduction,0.03310971003961144,0.7567126569861077
+expletives_count,La conclusion,-0.0806096473635521,0.450086523523896
+expletives_count,Persuasivité,-0.007899205823016005,0.9410962726103707
+expletives_count,Clarté du Langage,-0.07960106068891892,0.4557939609758085
+expletives_count,Créativité du discours,-0.03755350746144063,0.7252824108925795
+expletives_count,Global,-0.04950112257768467,0.6431287868554976
+polysyndeton_count,Présentation du Sujet,0.04676233563399113,0.6616292826330017
+polysyndeton_count,Structure,0.1463092383786353,0.16881349719654554
+polysyndeton_count,Niveau de Langue,0.04729389871638386,0.6580222120260678
+polysyndeton_count,Voix Passive,0.033500769331745534,0.7539299731490909
+polysyndeton_count,Concision,-0.03052189975025771,0.7752035381718849
+polysyndeton_count,Redondance,-0.16329520985124052,0.12408730741813694
+polysyndeton_count,Langage Négatif,0.2743342851494546,0.008881343143346104
+polysyndeton_count,Métaphore,-0.022823887195829014,0.8309155441724888
+polysyndeton_count,Discours,0.1638693202610738,0.12275250260407
+polysyndeton_count,L'introduction,0.10093970131994778,0.34382585736446714
+polysyndeton_count,La conclusion,0.1041082996361423,0.3288123682515004
+polysyndeton_count,Persuasivité,0.10793863462302374,0.31123017114107987
+polysyndeton_count,Clarté du Langage,0.0365762060593974,0.7321578728040445
+polysyndeton_count,Créativité du discours,-0.05096076437854571,0.6333561259180374
+polysyndeton_count,Global,0.06012926682797842,0.5734537714977578
+asyndeton_count,Présentation du Sujet,0.014003721760571918,0.8957750538056359
+asyndeton_count,Structure,0.1790756683206362,0.09125889048431506
+asyndeton_count,Niveau de Langue,0.0775135957615927,0.4677327532594986
+asyndeton_count,Voix Passive,0.03783332638689673,0.7233178164980957
+asyndeton_count,Concision,0.10841197389801263,0.3091005490750311
+asyndeton_count,Redondance,0.043080250611071264,0.6868235537586095
+asyndeton_count,Langage Négatif,-0.09117399466679332,0.3927484233053672
+asyndeton_count,Métaphore,-0.030141089267316408,0.7779354566161611
+asyndeton_count,Discours,-0.014071325965021296,0.8952747416107131
+asyndeton_count,L'introduction,0.012918826136966054,0.9038093811167781
+asyndeton_count,La conclusion,0.15323060583391998,0.14933529883457156
+asyndeton_count,Persuasivité,0.15243501217493413,0.15148443813826604
+asyndeton_count,Clarté du Langage,0.06694590904273919,0.5307046119152788
+asyndeton_count,Créativité du discours,0.23260344189197496,0.027371499456940493
+asyndeton_count,Global,0.1810955157201291,0.08760626429932239

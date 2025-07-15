@@ -1,0 +1,6 @@
+--- Langage Négatif (Categorical A/B/C) ---
+Counts:
+Langage Négatif
+A    67
+B    22
+C     1

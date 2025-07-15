@@ -1,0 +1,9 @@
+Je suppose que vous avez déjà utilisé les bouteilles de sauce qu'on trouve dans les fast-foods.
+Prenons le ketchup par exemple.
+On secoue sa bouteille avant chaque utilisation.
+Mais pourquoi ?
+Ce geste peut paraître naturel, mais en fait, on applique cette force de secouement pour que le ketchup devienne plus fluide et pour qu'il s'écoule plus facilement vers notre sandwich ou pizza, dans mon cas.
+On dit alors que le ketchup se déforme pour passer d'un état presque solide, très visqueux, vers un état plutôt liquide.
+Si on laisse ce même ketchup reposer 15 minutes, il va retrouver son état initial très visqueux avant qu'il se déforme.
+La science qui étudie les paramètres liant la force de déformation appliquée par notre main au mouvement du ketchup s'appelle la rheologie, qui est une filière de la mécanique.
+En plus d'expliquer des phénomènes comme celui du ketchup, la rheologie sert aussi à manipuler les comportements des matériaux pour qu'ils soient agréables à l'utilisation.

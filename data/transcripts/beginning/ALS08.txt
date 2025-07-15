@@ -1,0 +1,13 @@
+Imaginez-vous
+en train de survoler la place de la cathédrale
+un samedi après-midi de solde.
+Vous y apercevrez des centaines de personnes, toutes différentes, se déplacer en même temps dans tout un tas de directions.
+Une véritable frénésie.
+Et bien, figurez-vous qu'une cellule, c'est pareil.
+Il y a plusieurs millions de molécules, différentes, qui se déplacent en même temps dans des directions variées.
+Maintenant, si on retourne à la cathédrale et que je vous demande de trouver rapidement mon tonton Gérard qui se trouve là, ça risque de vous prendre beaucoup de temps, tellement que vous risqueriez de ne pas le trouver.
+Par contre, si j'ai pris la précaution d'installer un gyrophare sur la tête de Gérard, vous allez pouvoir le repérer très rapidement et même le suivre au cours du temps.
+Vous pourrez voir où il va, quand et comment.
+Et bien justement, mon travail consiste à créer un gyrophare, mais moléculaire, c'est-à-dire une molécule biologique comme on en trouve dans la cellule, mais qui, elle, serait capable de fluorescer.
+Si je l'illumine avec une lumière d'une certaine couleur, elle devrait donc, en échange, émettre une lumière, mais d'une autre couleur.
+Le but de ce gyrophare serait donc de pouvoir suivre spécifiquement une molécule au sein de la frénésie cellulaire.

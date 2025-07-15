@@ -1,0 +1,16 @@
+--- L'introduction (Likert Scale) ---
+Descriptive Statistics:
+count    90.000000
+mean      4.444444
+std       0.542800
+min       3.000000
+25%       4.000000
+50%       4.000000
+75%       5.000000
+max       5.000000
+
+Normality Test (D'Agostino and Pearson):
+Statistic=19.3457, p-value=0.0001
+
+Uniformity Test (Kolmogorov–Smirnov):
+Statistic=0.4778, p-value=0.0000

@@ -1,0 +1,16 @@
+--- Créativité du discours (Likert Scale) ---
+Descriptive Statistics:
+count    90.000000
+mean      4.211111
+std       0.436905
+min       3.000000
+25%       4.000000
+50%       4.000000
+75%       4.000000
+max       5.000000
+
+Normality Test (D'Agostino and Pearson):
+Statistic=13.2652, p-value=0.0013
+
+Uniformity Test (Kolmogorov–Smirnov):
+Statistic=0.4889, p-value=0.0000

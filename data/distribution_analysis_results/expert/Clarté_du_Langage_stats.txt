@@ -1,0 +1,16 @@
+--- Clarté du Langage (Likert Scale) ---
+Descriptive Statistics:
+count    90.000000
+mean      2.955556
+std       0.859986
+min       1.000000
+25%       2.000000
+50%       3.000000
+75%       4.000000
+max       4.000000
+
+Normality Test (D'Agostino and Pearson):
+Statistic=4.1529, p-value=0.1254
+
+Uniformity Test (Kolmogorov–Smirnov):
+Statistic=0.3889, p-value=0.0000

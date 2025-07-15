@@ -1,0 +1,29 @@
+TASK=[Based on each transcript, respond to the question by assigning a score (natural number) according to the provided scale.]
+
+Question: À votre avis, sur une échelle de 1= pas du tout à 5=tout à fait, dans quelle mesure le discours est persuasif, c.à.d., communique-t-il efficacement un message convaincant ? Son raisonnement est-il rigoureux ?
+Response scale: 5-point
+
+Evaluate the following four transcripts independently:
+
+Transcript A:
+{transcript_a}
+
+Transcript B:
+{transcript_b}
+
+Transcript C:
+{transcript_c}
+
+Transcript D:
+{transcript_d}
+
+Respond using the format:
+
+Note A: <MASK>  
+Note B: <MASK>  
+Note C: <MASK>
+Note D: <MASK>
+
+Where each <MASK> is your persuasiveness score (a number from the response scale) corresponding to each transcript above.  
+Provide no other information beyond these answers.
+

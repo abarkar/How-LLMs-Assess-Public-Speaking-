@@ -1,0 +1,7 @@
+Dans mon laboratoire, on se pose une question assez simple, et que vous avez sûrement déjà posée, qui est, comment on fait les bébés ?
+Au-delà de la réponse un peu évasive que les parents font à leurs enfants, nous on se demande vraiment, comment, à partir d'une cellule oeuf fécondée, on arrive à faire des organismes entiers, tels que vous et moi.
+Ce qui m'intéresse plus particulièrement au cours du développement embryonnaire, ce sont les neurones, les cellules qui transmettent l'information.
+Comment se positionnent-ils au bon endroit dans l'organisme, et se connectent-ils correctement les uns avec les autres, pour former des circuits fonctionnels ?
+Ces questions ont déjà été bien étudiées d'un point de vue chimique, avec la découverte de molécules qui guident les neurones, mais la nouveauté de mon projet est de regarder le rôle des forces mécaniques dans la mise en place des circuits neuronaux.
+Pour cela, j'utilise le modèle du poisson zèbre, comme vous pouvez le voir ici à gauche, avec des images prises, soit de face, soit sur le côté.
+Ces images ont été prises à environ un jour après la ponte, et en zoomant sur la tête de l'embryon, avec le microscope, comme sur l'image au centre, on peut voir le cerveau qui se développe, avec de chaque côté les yeux qui se forment, et au-dessus, les futures narines du poisson.

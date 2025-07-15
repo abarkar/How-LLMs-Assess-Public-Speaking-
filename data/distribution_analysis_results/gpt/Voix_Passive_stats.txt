@@ -1,0 +1,6 @@
+--- Voix Passive (Categorical A/B/C) ---
+Counts:
+Voix Passive
+B    87
+C     2
+A     1

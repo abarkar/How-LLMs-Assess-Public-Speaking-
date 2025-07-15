@@ -1,0 +1,14 @@
+Moi
+, je fais de l'optimisation topologique pour trouver l'agencement optimal de matière dans un filtre, dans le but de dépolluer de l'eau.
+Comme ça, ça a l'air compliqué, mais je peux vous l'expliquer.
+Vous voyez le palais des glaces ?
+C'est cette attraction qu'on voit souvent dans les fêtes foraines.
+Le but ?
+Trouver la sortie.
+Pour cela, il faut traverser un labyrinthe formé par un ensemble de cloisons transparentes.
+Et généralement, comme on veut éviter de se cogner et de se retrouver avec une bosse sur le front, on utilise ses mains et on tâtonne.
+Ok, ici il y a une cloison, je m'arrête.
+Ok, ici c'est vide, je peux avancer.
+Enfin, vous voyez ce que je veux dire.
+On progresse au contact des parois et on y laisse des traces de doigts sur les vitres.
+D'ailleurs

@@ -1,0 +1,16 @@
+--- Persuasivité (Likert Scale) ---
+Descriptive Statistics:
+count    90.000000
+mean      4.200000
+std       0.454688
+min       3.000000
+25%       4.000000
+50%       4.000000
+75%       4.000000
+max       5.000000
+
+Normality Test (D'Agostino and Pearson):
+Statistic=8.8947, p-value=0.0117
+
+Uniformity Test (Kolmogorov–Smirnov):
+Statistic=0.4778, p-value=0.0000

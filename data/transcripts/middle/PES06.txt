@@ -1,0 +1,7 @@
+Afin d'étudier ce phénomène de liaison plus en profondeur, il est important de pouvoir le simuler, par exemple sur ordinateur.
+Pour cela, on fait appel à des modèles mathématiques qui vont décrire l'interaction entre la molécule de monoclone et la protéine.
+On se rend compte alors de la chose suivante.
+La structure de la protéine et donc les contours de ce labyrinthe bougent avec le temps.
+Quant à la molécule de monoxyde de carbone, une fois dans ce labyrinthe, elle se dirige en direction du centre, c'est-à-dire de l'atome sur lequel elle va tenter de se fixer.
+Et lorsqu'elle arrive à une impasse, elle attend simplement un changement de configuration du labyrinthe pour pouvoir se frayer à un nouveau chemin.
+Très bien, me direz-vous.

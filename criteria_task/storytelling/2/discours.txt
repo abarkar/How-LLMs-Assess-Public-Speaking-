@@ -1,0 +1,14 @@
+TASK=[ Analysez la transcription du discours public donné dans la section TRANSCRIPT. Notez la transcription en fonction de la question CRITERIA. Il y a trois possibilités de notation : A, B ou C, expliquées dans la section OPTIONS. Pour résoudre la tâche de classification, choisissez une seule de ces options et donnez la réponse sous la forme :
+ 
+Grade : <MASK>
+ 
+Où <MASK> est A, B ou C.
+Ne donnez pas d'autres explications. ]
+ 
+CRITERIA=[ A votre avis, évaluez-vous l'utilisation d'une histoire/un exemple personnel dans le discours de cette transcription ? ]
+ 
+OPTIONS=[ A: Pas d'histoire/un exemple personnel. 
+ 
+B: L'histoire/un exemple personnel est présente mais pas utile pour rendre le discours plus captivant. 
+ 
+C: Utilisation pertinente de l'histoire/un exemple personnel qui rend le discours plus captivant. ]

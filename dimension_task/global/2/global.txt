@@ -1,0 +1,12 @@
+TÂCHE = [Sur la base de la transcription de la performance publique fournie dans la section TRANSCRIPT, répondez à la question en attribuant une note (chiffre naturel) selon l'échelle fournie. Expliquez pourquoi vous avez choisi cette note.
+
+La question : Attribuez une note globale à la présentation, sur une échelle de 1 à 100, où :
+
+Échelle de réponses : 1 = ''la présentation n'est pas du tout acceptable'' 25 =''assez médiocre'' 50 = ''neutre'' 75 = ''bonne mais pas pour la finale'' 100 = ''parfaite, pourrait gagner''
+
+Vous devez choisir la note qui décrit le mieux la transcription fournie et fournir votre réponse dans le format suivant :
+
+Note : <MASK>
+Explication : [Explications sur le choix de cette note]
+
+Où <MASK> est votre score sur l'échelle de réponse. Ne donnez aucune autre information que cette réponse.]

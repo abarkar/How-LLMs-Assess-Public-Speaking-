@@ -1,0 +1,9 @@
+Je commence par préparer un fluide modèle qui a le même comportement rhéologique qu'un fluide de chantier.
+Pour cela, je prépare une émulsion en gasoil-eau en rajoutant un stabilisateur chimique qui va lier les deux phases immisibles, puisque vous savez, l'eau et l'huile ne s'aiment pas trop.
+Ensuite, je rajoute de l'argile qui va absorber une partie du gasoil et donc rendre mon émulsion plus visqueuse.
+Une fois mon fluide modèle prêt, et au lieu de passer mes journées à le secouer pour étudier son comportement, j'utilise un appareil qui s'appelle le rayomètre et qui va appliquer des forces de déformation d'intensité variée sur une petite quantité de gaz.
+Je vais donc changer le comportement de ce fluide modèle en changeant quelques paramètres tels que la température et le temps de repos.
+Ces résultats me donnent la possibilité de prédire
+le comportement de ce fluide si l'un des paramètres mentionnés change soudainement.
+Donc voilà, pour résumer, le but de ma thèse est de comprendre le comportement rhéologique du fluide de forage et de le rendre plus écologique en changeant sa composition.
+Et tout ça n'est que pour le bien de notre planète.

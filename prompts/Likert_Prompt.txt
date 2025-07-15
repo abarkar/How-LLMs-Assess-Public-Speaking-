@@ -1,0 +1,13 @@
+TRANSCRIPT=[Transcript of the performance.]
+
+TASK=[Based on the transcript, respond to the question by assigning a score (natural number) according to the provided scale.]
+
+Question: [Insert the Likert-style question]
+Response scale: [Insert 5-point or 100-point scale description]
+
+Respond using the format:
+
+Note: <MASK>
+
+Where <MASK> is your score from the response scale.
+Provide no other information beyond this answer.

@@ -1,0 +1,16 @@
+--- Original Global ---
+Descriptive Statistics:
+count    248.000000
+mean      74.053047
+std       18.056325
+min        2.865466
+25%       66.145893
+50%       77.428390
+75%       87.684202
+max       99.664430
+
+Normality Test (D'Agostino and Pearson):
+Statistic=67.8445, p-value=0.0000
+
+Uniformity Test (Kolmogorov–Smirnov):
+Statistic=0.4308, p-value=0.0000

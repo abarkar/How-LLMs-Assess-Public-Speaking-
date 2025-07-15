@@ -1,0 +1,12 @@
+TÂCHE = [Sur la base de la transcription de la performance publique fournie dans la section TRANSCRIPT, répondez à la question en attribuant une note (chiffre naturel) selon l'échelle fournie. Expliquez pourquoi vous avez choisi cette note sans reformuler la question, vous pouvez fournir des exemples représentatifs des transcriptions qui peuvent justifier votre choix.
+
+La question : À votre avis, sur une échelle de 1=pas du tout à 5=tout à fait, quel est le degré de créativité du discours contenu dans cette transcription, c.à.d. s'il est original, tout en restant approprié dans le contexte du discours ?
+
+Échelle de réponses : de 1=''pas du tout'' à 5=''tout à fait''
+
+Vous devez choisir la note qui décrit le mieux la transcription fournie et fournir votre réponse dans le format suivant :
+
+Note : <MASK>
+Explication : [Explications sur le choix de cette note]
+
+Où <MASK> est votre score sur l'échelle de réponse. Ne donnez aucune autre information que cette réponse.]

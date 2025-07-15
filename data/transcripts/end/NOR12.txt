@@ -1,0 +1,12 @@
+Les noyaux de l'autre étoile qui ressemble à notre Soleil vont alors être attirés par cette étoile à neutrons, s'accumuler autour d'elle, puis à un moment, à force d'accumulation, la pression va augmenter et cela va déclencher une explosion.
+Au cours de cette explosion, il va y avoir émission de rayons X qu'on va pouvoir ensuite détecter sur Terre à l'aide de satellites.
+D'ailleurs, les Américains dans les années 70 étaient un peu inquiets, parce qu'ils avaient des satellites espions et ils étaient persuadés de détecter une explosion nucléaire par jour.
+Aujourd'hui, ils sont rassurés grâce aux astrophysiciens et nous aussi.
+Ces mêmes astrophysiciens, eux, vont chercher à reproduire ces explosions, mais théoriquement sur ordinateur à l'aide de formules mathématiques.
+Mais pour cela, ils vont avoir besoin de comprendre toutes les réactions nucléaires qui auront eu lieu au cours de cette explosion.
+Moi, dans ma thèse, j'ai mesuré une de ces réactions.
+Pour cela, je vais accélérer des noyaux que je vais envoyer sur d'autres noyaux.
+Ils vont interagir entre eux et à l'aide de différents appareils de mesure, je vais observer ce qui s'est passé au moment de la collision.
+Mon travail va ensuite consister à reproduire au mieux et comprendre au mieux les différentes réactions qui ont eu lieu au moment de cette collision.
+Je vais pouvoir ensuite transmettre ces informations aux astrophysiciens et travailler avec eux main dans la main afin de reproduire les observations astrophysiques.
+Comme quoi, de l'infiniment grand à l'infiniment petit, il n'y a qu'un pas.

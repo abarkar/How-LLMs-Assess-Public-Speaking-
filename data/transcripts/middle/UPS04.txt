@@ -1,0 +1,14 @@
+Comment faire apprendre à une voiture ?
+Comment s'auto-défendre ?
+Une voiture possède plusieurs objets.
+Ordinateur, électronique et aussi des capteurs qui vont lui permettre de visualiser, analyser et prendre des décisions.
+Moi, mon travail consiste à mettre en place des algorithmes et des modèles mathématiques pour construire une intelligence artificielle qui va simuler le système immunitaire d'une voiture autonome.
+Comme notre système immunitaire, son rôle est de faire en sorte que nos objets ne se déroulent pas.
+Et de défendre son organisme contre toute tentative d'intrusion malveillante.
+Dans les systèmes immunitaires, on a deux types.
+Une dite innée, qui réagit rapidement, mais incapable de faire face à des agresseurs nouveaux.
+Et une dite acquise ou adaptative, car elle est capable d'apprendre à connaître mieux son ennemi.
+Moi, mon intelligence artificielle, elle s'inspire du deuxième type.
+Car mon intérêt est de détecter de nouvelles attaques et de nouveaux virus.
+Pour faire face à l'acharnement de nos objets.
+Et de défendre son organisme contre toute tentative d'intrusion malveillante.
