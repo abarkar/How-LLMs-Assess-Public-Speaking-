@@ -1,0 +1,307 @@
+<!-- Index.html -->
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <style>
+    body { font-family: Arial, sans-serif; }
+    .criteria { margin-top: 20px; }
+    .criteria label { display: block; font-weight: bold; }
+    .criteria p { margin: 5px 0 10px 0; }
+    .transcript {
+      white-space: pre-wrap;
+      border: 1px solid #ddd;
+      padding: 10px;
+      margin: 10px 0;
+      max-height: 40vh;
+      overflow-y: auto;
+    }
+    .annotated { color: green; }
+    .unannotated { color: red; }
+    .scale-group label { display: block; margin-bottom: 4px; }
+  </style>
+  <script>
+    let startTime = null;
+
+    function loadFiles() {
+      google.script.run
+        .withSuccessHandler(renderFileOptions)
+        .listFilesWithAnnotationStatus();
+    }
+
+    function renderFileOptions(files) {
+      const select = document.getElementById('fileSelect');
+      select.innerHTML = '';
+
+      files.forEach(file => {
+        const option = document.createElement('option');
+        option.value = file.id;
+        const status = file.annotated ? '🟢 Annotated' : '🔴 Unannotated';
+        option.text = `${status} - ID: ${file.id}`;
+        select.add(option);
+      });
+    }
+
+    function loadTranscript() {
+      const fileId = document.getElementById('fileSelect').value;
+      if (!fileId) {
+        alert('Veuillez d\'abord sélectionner une transcription.');
+        return;
+      }
+      startTime = new Date();
+      google.script.run
+        .withSuccessHandler(renderTranscript)
+        .getTranscriptContent(fileId);
+    }
+
+    function renderTranscript(transcript) {
+      document.getElementById('transcriptContent').textContent = transcript;
+      document.getElementById('annotationForm').style.display = 'block';
+    }
+
+    function saveAnnotation() {
+      const fileId = document.getElementById('fileSelect').value;
+      if (!fileId) {
+        alert('Veuillez d\'abord sélectionner une transcription.');
+        return;
+      }
+
+      const responses = Array.from(
+        document.querySelectorAll('.criteria select')
+      ).map(select => select.value);
+
+      const scaleResponses = [
+        document.querySelector('input[name="introduction"]:checked'),
+        document.querySelector('input[name="conclusion"]:checked'),
+        document.querySelector('input[name="persuasiveness"]:checked'),
+        document.querySelector('input[name="clarity"]:checked'),
+        document.querySelector('input[name="creativity"]:checked')
+      ].map(input => input ? input.value : '');
+
+      const globalScore = document.getElementById('globalScore').value;
+      const comment = document.getElementById('comment').value;
+
+      const endTime = new Date();
+      const timeElapsed = startTime
+        ? Math.round((endTime - startTime) / 1000)
+        : '';
+
+      google.script.run
+        .withSuccessHandler(() => {
+          alert('Annotation enregistrée !');
+          loadFiles();
+        })
+        .saveAnnotation(fileId, responses, scaleResponses, globalScore, comment, timeElapsed);
+    }
+
+    function updateGlobalScoreDisplay(value) {
+      document.getElementById('globalScoreDisplay').textContent = value;
+    }
+
+    window.onload = loadFiles;
+  </script>
+</head>
+<body>
+  <h2>Interface d'Annotation des Transcriptions</h2>
+
+  <label for="fileSelect">Sélectionnez l'ID de la Transcription :</label>
+  <select id="fileSelect"></select>
+  <button onclick="loadTranscript()">Charger la Transcription</button>
+
+  <div id="transcriptContent" class="transcript"></div>
+
+  <div id="annotationForm" style="display:none;">
+    <!-- Topic Presentation -->
+    <div class="criteria">
+      <label>Présentation du Sujet</label>
+      <p>À votre avis, comment évaluez-vous la présentation du sujet ?</p>
+      <select>
+        <option value="A">A: Problématique liée au sujet mal expliquée.</option>
+        <option value="B">B: Explication acceptable de la problématique liée au sujet.</option>
+        <option value="C">C: Très bonne explication de la problématique liée au sujet.</option>
+      </select>
+    </div>
+
+    <!-- Structure -->
+    <div class="criteria">
+      <label>Structure</label>
+      <p>À votre avis, dans quelle mesure le discours de cette transcription est-il bien structuré ?</p>
+      <select>
+        <option value="A">A: Difficulté à comprendre les points clés, discours non argumenté.</option>
+        <option value="B">B: Points clés présents mais raisonnement lacunaire.</option>
+        <option value="C">C: Points clés valorisés et appuyés sur des arguments précis et pertinents.</option>
+      </select>
+    </div>
+
+    <!-- Language Level -->
+    <div class="criteria">
+      <label>Niveau de Langue</label>
+      <p>À votre avis, dans quelle mesure le niveau de langue du discours de cette transcription est-il approprié ?</p>
+      <select>
+        <option value="A">A: Utilisation intensive de jargon, d'argot, ou vocabulaire limité.</option>
+        <option value="B">B: Langage adéquat avec vocabulaire suffisant pour être précis.</option>
+        <option value="C">C: Langage approprié avec un large vocabulaire captivant et vivant.</option>
+      </select>
+    </div>
+
+    <!-- Passive Voice -->
+    <div class="criteria">
+      <label>Voix Passive</label>
+      <p>À votre avis, comment évaluez-vous l'utilisation de la voix passive et l'équilibre entre la voix passive et la voix active dans le discours de cette transcription ?</p>
+      <select>
+        <option value="A">A: Pas de bon équilibre - trop peu de voix passive et trop de voix active.</option>
+        <option value="B">B: Bon équilibre entre voix passive et voix active.</option>
+        <option value="C">C: Utilisation excessive de la voix passive (discours impersonnel, phrases longues).</option>
+      </select>
+    </div>
+
+    <!-- Conciseness -->
+    <div class="criteria">
+      <label>Concision</label>
+      <p>Comment évaluez-vous la longueur des phrases du discours de cette transcription ?</p>
+      <select>
+        <option value="A">A: Phrases courtes qui rendent le texte moins clair.</option>
+        <option value="B">B: Phrases de longueur suffisante pour rendre le texte clair.</option>
+        <option value="C">C: Phrases excessivement longues qui rendent le texte peu clair.</option>
+      </select>
+    </div>
+
+    <!-- Redundancy -->
+    <div class="criteria">
+      <label>Redondance</label>
+      <p>À votre avis, quel est le degré de redondance du contenu du discours dans cette transcription ?</p>
+      <select>
+        <option value="A">A: Peu de redondance, rendant le texte moins clair.</option>
+        <option value="B">B: La redondance du contenu permet de rendre le texte clair.</option>
+        <option value="C">C: Trop de redondance, rendant le texte moins clair.</option>
+      </select>
+    </div>
+
+    <!-- Negative Language -->
+    <div class="criteria">
+      <label>Langage Négatif</label>
+      <p>Comment évaluez-vous l'utilisation de mots/expressions négatives dans le discours de cette transcription ?</p>
+      <select>
+        <option value="A">A: Pas d'utilisation significative de mots négatifs.</option>
+        <option value="B">B: Remarqué, mais pas d'impression négative.</option>
+        <option value="C">C: Remarqué, donnant une mauvaise impression.</option>
+      </select>
+    </div>
+
+    <!-- Metaphor -->
+    <div class="criteria">
+      <label>Métaphore</label>
+      <p>Comment évaluez-vous l'utilisation de métaphores dans le discours de cette transcription ?</p>
+      <select>
+        <option value="A">A: Pas d'utilisation de métaphores.</option>
+        <option value="B">B: Métaphore présente mais sans apport significatif.</option>
+        <option value="C">C: Métaphore renforçant et facilitant l'explication.</option>
+      </select>
+    </div>
+
+    <!-- Storytelling -->
+    <div class="criteria">
+      <label>Discours (storytelling)</label>
+      <p>À votre avis, évaluez-vous l'utilisation d'une histoire / d'un exemple personnel dans le discours.</p>
+      <select>
+        <option value="A">A: Pas d'histoire / d'exemple personnel.</option>
+        <option value="B">B: Histoire présente mais sans grande valeur.</option>
+        <option value="C">C: Histoire pertinente, rendant le discours captivant.</option>
+      </select>
+    </div>
+
+    <!-- Introduction Scale -->
+    <div class="criteria scale-group">
+      <label>L'introduction</label>
+      <p>Sur une échelle de 1 (pas du tout) à 5 (tout à fait), quelle est la qualité de l'introduction ?</p>
+      <label><input type="radio" name="introduction" value="1"> 1 – pas du tout</label>
+      <label><input type="radio" name="introduction" value="2"> 2</label>
+      <label><input type="radio" name="introduction" value="3"> 3</label>
+      <label><input type="radio" name="introduction" value="4"> 4</label>
+      <label><input type="radio" name="introduction" value="5"> 5 – tout à fait</label>
+    </div>
+
+    <!-- Conclusion Scale -->
+    <div class="criteria scale-group">
+      <label>La conclusion</label>
+      <p>Sur une échelle de 1 (pas du tout) à 5 (tout à fait), quelle est la qualité de la conclusion ?</p>
+      <label><input type="radio" name="conclusion" value="1"> 1 – pas du tout</label>
+      <label><input type="radio" name="conclusion" value="2"> 2</label>
+      <label><input type="radio" name="conclusion" value="3"> 3</label>
+      <label><input type="radio" name="conclusion" value="4"> 4</label>
+      <label><input type="radio" name="conclusion" value="5"> 5 – tout à fait</label>
+    </div>
+
+    <!-- Persuasiveness Scale -->
+    <div class="criteria scale-group">
+      <label>Persuasivité</label>
+      <p>Sur une échelle de 1 (pas du tout) à 5 (tout à fait), dans quelle mesure le discours est-il persuasif ?</p>
+      <label><input type="radio" name="persuasiveness" value="1"> 1 – pas du tout</label>
+      <label><input type="radio" name="persuasiveness" value="2"> 2</label>
+      <label><input type="radio" name="persuasiveness" value="3"> 3</label>
+      <label><input type="radio" name="persuasiveness" value="4"> 4</label>
+      <label><input type="radio" name="persuasiveness" value="5"> 5 – tout à fait</label>
+    </div>
+
+    <!-- Clarity Scale -->
+    <div class="criteria scale-group">
+      <label>Clarté du Langage</label>
+      <p>Sur une échelle de 1 (pas du tout) à 5 (tout à fait), le langage utilisé est-il clair ?</p>
+      <label><input type="radio" name="clarity" value="1"> 1 – pas du tout</label>
+      <label><input type="radio" name="clarity" value="2"> 2</label>
+      <label><input type="radio" name="clarity" value="3"> 3</label>
+      <label><input type="radio" name="clarity" value="4"> 4</label>
+      <label><input type="radio" name="clarity" value="5"> 5 – tout à fait</label>
+    </div>
+
+    <!-- Creativity Scale -->
+    <div class="criteria scale-group">
+      <label>Créativité du discours</label>
+      <p>Sur une échelle de 1 (pas du tout) à 5 (tout à fait), quel est le degré de créativité du discours ?</p>
+      <label><input type="radio" name="creativity" value="1"> 1 – pas du tout</label>
+      <label><input type="radio" name="creativity" value="2"> 2</label>
+      <label><input type="radio" name="creativity" value="3"> 3</label>
+      <label><input type="radio" name="creativity" value="4"> 4</label>
+      <label><input type="radio" name="creativity" value="5"> 5 – tout à fait</label>
+    </div>
+
+    <!-- Global Score with Slider -->
+    <div class="criteria">
+      <label>Note Globale</label>
+      <p>Attribuez une note globale à la présentation, sur une échelle de 1 à 100 :</p>
+      <div class="scale-container">
+        <input
+          type="range"
+          id="globalScore"
+          name="globalScore"
+          min="1"
+          max="100"
+          value="50"
+          oninput="updateGlobalScoreDisplay(this.value)"
+        >
+        <div class="scale-values">
+          <span>1 = pas du tout acceptable</span><br>
+          <span>25 = assez médiocre</span><br>
+          <span>50 = neutre</span><br>
+          <span>75 = bonne mais pas pour la finale</span><br>
+          <span>100 = parfaite, pourrait gagner</span>
+        </div>
+      </div>
+      <p>Valeur actuelle : <span id="globalScoreDisplay" class="scale-value-display">50</span></p>
+    </div>
+
+    <!-- Comment Field -->
+    <div class="criteria">
+      <label>Commentaire (optionnel)</label>
+      <textarea
+        id="comment"
+        rows="4"
+        cols="50"
+        placeholder="Laissez un commentaire si vous le souhaitez..."
+      ></textarea>
+    </div>
+
+    <button onclick="saveAnnotation()">Enregistrer l'Annotation</button>
+  </div>
+</body>
+</html>
